@@ -3,10 +3,8 @@ import { Switch, Route } from "react-router-dom"
 import "./App.css"
 import NavBar from "../components/NavBar"
 import Footer from "../components/Footer"
-import Home from "./Home"
-import Projects from "./Projects"
-import Resume from "./Resume"
 import Error from "../components/Error"
+import { Link } from "gatsby"
 
 function App() {
   return (
@@ -14,9 +12,9 @@ function App() {
       <NavBar />
       <Footer />
       <Switch>
-        <Route exact path={`/portfolio`} component={Home} />
-        <Route exact path={`/portfolio/projects`} component={Projects} />
-        <Route exact path={`/portfolio/resume`} component={Resume} />
+        <Link to="/home">Home</Link>
+        <Link to="/projects/">Projects</Link>
+        <Link to="/resume/">Resume</Link>
         <Route component={Error} />
       </Switch>
     </div>
