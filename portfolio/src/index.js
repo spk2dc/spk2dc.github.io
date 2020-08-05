@@ -4,17 +4,10 @@ import "./index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
-import { BrowserRouter } from "react-router-dom";
-
-const store = configureStore({ history });
 
 ReactDOM.render(
   <React.StrictMode>
-    <Provider store={store}>
-      <BrowserRouter history={history} basename={process.env.PUBLIC_URL}>
-        <App />
-      </BrowserRouter>
-    </Provider>
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
