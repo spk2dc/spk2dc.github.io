@@ -6,11 +6,15 @@ import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import { BrowserRouter } from "react-router-dom";
 
+const store = configureStore({ history });
+
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
-      <App />
-    </BrowserRouter>
+    <Provider store={store}>
+      <BrowserRouter history={history} basename={process.env.PUBLIC_URL}>
+        <App />
+      </BrowserRouter>
+    </Provider>
   </React.StrictMode>,
   document.getElementById("root")
 );
