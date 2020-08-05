@@ -4,7 +4,7 @@ import { HashRouter } from "react-router-dom"
 
 export default function Home() {
   return (
-    <HashRouter basename="/portfolio">
+    <HashRouter>
       <App />
     </HashRouter>
   )
