@@ -1,5 +1,11 @@
 import React from "react"
+import App from "./App"
+import { HashRouter } from "react-router-dom"
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return (
+    <HashRouter basename="/portfolio">
+      <App />
+    </HashRouter>
+  )
 }
