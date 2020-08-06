@@ -6,10 +6,10 @@ description: >
   providing documentation and blog post pages.
 lang: en-US
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
+url: https://spk2dc.github.io/portfolio # the base hostname & protocol for your site
+git_address: https://github.com/spk2dc/portfolio
+git_edit_address: https://github.com/spk2dc/portfolio/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
@@ -33,21 +33,21 @@ exclude:
   - README.md
 timezone: Europe/Berlin
 defaults:
-- scope:
-    path: _posts
-    type: posts
-  values:
-    layout: post
-    sectionid: blog
+  - scope:
+      path: _posts
+      type: posts
+    values:
+      layout: post
+      sectionid: blog
 
-- scope:
-    path: _docs
-    type: docs
-  values:
-    layout: docs
-    sectionid: docs
-    seo:
-      type: "WebPage"
+  - scope:
+      path: _docs
+      type: docs
+    values:
+      layout: docs
+      sectionid: docs
+      seo:
+        type: "WebPage"
 
 collections:
   docs:
