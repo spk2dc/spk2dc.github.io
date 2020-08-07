@@ -1,9 +1,8 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Senthil Kannan
+email: spk2dc@virginia.edu
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Senthil Kannan portfolio website
 lang: en-US
 
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
@@ -49,10 +48,22 @@ defaults:
       seo:
         type: "WebPage"
 
+  - scope:
+      path: _projects
+      type: projects
+    values:
+      layout: projects
+      sectionid: projects
+      seo:
+        type: "WebPage"
+
 collections:
   docs:
     permalink: /:collection/:path/
     output: true
   posts:
     permalink: /blog/:year/:month/:day/:title/
+    output: true
+  projects:
+    permalink: /:collection/:path/
     output: true

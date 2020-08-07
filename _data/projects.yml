@@ -1,0 +1,17 @@
+- title: Software Engineering
+  projects:
+  - spotify_filter
+  - run_analyzer
+  - battleship
+  - ghost_hunter
+
+- title: Mechanical Engineering
+  projects:
+  - network_drone
+  - watering_system
+  - delivery_robot
+  - semi_quadcopter
+  - prosthetics
+  - specimen_mount
+  - cryostat_fridge
+  - 3d_printed_guillotine
