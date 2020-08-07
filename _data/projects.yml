@@ -1,20 +1,16 @@
 - title: Software Engineering
-  docs:
-    - spotify
-    # - Spotify Track Filter
-    # - Run Analyzer
-    # - Battleship
-    # - Trip Statistics
-    # - Ghost Hunter Android App
-
+  projects:
+    - spotify_filter
+    - run_analyzer
+    - battleship
+    - ghost_hunter
 - title: Mechanical Engineering
-  docs:
+  projects:
     - network_drone
-    # - MITRE Network Monitoring Drone
-    # - Intelligent Automatic Watering System
-    # - Autonomous Line-Following Delivery Robot
-    # - Semi-Quadcopter
-    # - 3D Printable Prosthetics
-    # - Specimen Rotation Mount
-    # - Cryostat Fridge SolidWorks Model
-    # - 3D Printed Model Guillotine
+    - watering_system
+    - delivery_robot
+    - semi_quadcopter
+    - prosthetics
+    - specimen_mount
+    - cryostat_fridge
+    - 3d_printed_guillotine

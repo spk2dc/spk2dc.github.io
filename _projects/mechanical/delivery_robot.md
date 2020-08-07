@@ -1,6 +1,6 @@
 ---
-title: Spotify Track Filter
-permalink: /projects/spotify/
+title: Autonomous Line-Following Delivery Robot
+permalink: /projects/delivery_robot/
 ---
 
 By default, this website uses `paper` theme, but you can change it to another [bootwatch theme](https://bootswatch.com/3/) by setting
