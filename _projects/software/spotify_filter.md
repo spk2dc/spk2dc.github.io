@@ -12,7 +12,7 @@ By default, this website uses `paper` theme, but you can change it to another [b
   <div class="col-lg-4 col-sm-6">
     <div class="thumbnail">
       <div class="image">
-        <a href="#cerulean/"><img src="https://bootswatch.com/3/cerulean/thumbnail.png" class="img-responsive" alt="Cerulean"></a>
+        <a href="{{site.baseurl}}/assets/img/projects/SpotifyFilter/SpotifyFilter (1).png"><img src="{{site.baseurl}}/assets/img/projects/SpotifyFilter/SpotifyFilter (1).png" class="img-responsive" alt="Cerulean"></a>
       </div>
       <div class="caption">
         <h3>Cerulean</h3>
