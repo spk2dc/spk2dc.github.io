@@ -44,4 +44,112 @@ A website integrated with Strava that allows users to import all of their runnin
     </div>
   </div>
 
+<div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (2).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (2).png" class="img-responsive" alt="run_analyzer"></a>
+      </div>
+      <div class="caption">
+        <h3>Landing Page</h3>
+        <p>Displays the instructions for how to use the site</p>
+      </div>
+    </div>
+  </div>
+
+<div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (3).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (3).png" class="img-responsive" alt="run_analyzer"></a>
+      </div>
+      <div class="caption">
+        <h3>Landing Page</h3>
+        <p>Displays the instructions for how to use the site</p>
+      </div>
+    </div>
+  </div>
+
+<div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (4).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (4).png" class="img-responsive" alt="run_analyzer"></a>
+      </div>
+      <div class="caption">
+        <h3>Landing Page</h3>
+        <p>Displays the instructions for how to use the site</p>
+      </div>
+    </div>
+  </div>
+
+<div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (5).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (5).png" class="img-responsive" alt="run_analyzer"></a>
+      </div>
+      <div class="caption">
+        <h3>Landing Page</h3>
+        <p>Displays the instructions for how to use the site</p>
+      </div>
+    </div>
+  </div>
+
+<div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (6).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (6).png" class="img-responsive" alt="run_analyzer"></a>
+      </div>
+      <div class="caption">
+        <h3>Landing Page</h3>
+        <p>Displays the instructions for how to use the site</p>
+      </div>
+    </div>
+  </div>
+
+<div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (7).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (7).png" class="img-responsive" alt="run_analyzer"></a>
+      </div>
+      <div class="caption">
+        <h3>Landing Page</h3>
+        <p>Displays the instructions for how to use the site</p>
+      </div>
+    </div>
+  </div>
+
+<div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (8).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (8).png" class="img-responsive" alt="run_analyzer"></a>
+      </div>
+      <div class="caption">
+        <h3>Landing Page</h3>
+        <p>Displays the instructions for how to use the site</p>
+      </div>
+    </div>
+  </div>
+
+<div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (9).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (9).png" class="img-responsive" alt="run_analyzer"></a>
+      </div>
+      <div class="caption">
+        <h3>Landing Page</h3>
+        <p>Displays the instructions for how to use the site</p>
+      </div>
+    </div>
+  </div>
+
+<div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (10).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (10).png" class="img-responsive" alt="run_analyzer"></a>
+      </div>
+      <div class="caption">
+        <h3>Landing Page</h3>
+        <p>Displays the instructions for how to use the site</p>
+      </div>
+    </div>
+  </div>
+
 </div>
