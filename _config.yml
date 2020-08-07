@@ -56,3 +56,6 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+  projects:
+    permalink: /:collection/:path/
+    output: true
