@@ -21,18 +21,19 @@
   {% for section in site.data.projects %}
   <div class="panel panel-primary">
     <div class="panel-heading">
-      <h4 class="panel-title">
-        <a
-          role="button"
-          data-toggle="collapse"
-          data-parent="#accordion"
-          href="#collapse-{{forloop.index}}"
-          aria-expanded="false"
-          aria-controls="collapse-{{forloop.index}}"
-        >
+      <a
+        role="button"
+        data-toggle="collapse"
+        data-parent="#accordion"
+        href="#collapse-{{forloop.index}}"
+        aria-expanded="false"
+        aria-controls="collapse-{{forloop.index}}"
+        class="project-nav-header-link"
+      >
+        <h4 class="panel-title">
           {{ section.title }}
-        </a>
-      </h4>
+        </h4>
+      </a>
     </div>
     {% assign collapsed = true %} {% for item in section.projects %} {% assign
     item_url = item | prepend:"/projects/" | append:"/" %} {% if item_url ==
