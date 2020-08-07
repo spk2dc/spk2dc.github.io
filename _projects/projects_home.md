@@ -1,5 +1,5 @@
 ---
-title: Projects Page
+title: Projects Homepage
 permalink: /projects/home/
 redirect_from: /projects/index.html
 ---
