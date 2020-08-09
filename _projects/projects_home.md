@@ -44,3 +44,15 @@ Below I have selected a few projects in particular to highlight.
     </div>
   </div>
 </div>
+
+<div class="col-lg-6">
+  <div class="thumbnail">
+    <div class="image">
+      <a href="{{site.baseurl}}/projects/watering_system"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 11.jpg" class="img-responsive" alt="run_analyzer"></a>
+    </div>
+    <div class="caption">
+      <h3>Intelligent Automatic Watering System</h3>
+      <p>Designed complex automatic home watering system that can be controlled remotely through a website</p>
+    </div>
+  </div>
+</div>
