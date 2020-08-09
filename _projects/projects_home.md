@@ -12,11 +12,35 @@ Below I have selected a few projects in particular to highlight.
 <div class="col-lg-6">
   <div class="thumbnail">
     <div class="image">
+      <a href="{{site.baseurl}}/projects/battleship"><img src="{{site.baseurl}}/assets/img/projects/battleship/Battleship (9).png" class="img-responsive" alt="spotify"></a>
+    </div>
+    <div class="caption">
+      <h3>Battleship</h3>
+      <p>Created an online version of the popular classic boardgame Battleship where a user can play against the computer.</p>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-6">
+  <div class="thumbnail">
+    <div class="image">
       <a href="{{site.baseurl}}/projects/spotify_filter"><img src="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (1).png" class="img-responsive" alt="spotify"></a>
     </div>
     <div class="caption">
       <h3>Spotify Track Filter</h3>
       <p>Built website to search Spotify for a keyword or specific album/playlist then filter all the tracks returned based on their musical properties to create a more specific playlist of songs.</p>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-6">
+  <div class="thumbnail">
+    <div class="image">
+      <a href="{{site.baseurl}}/projects/run_analyzer"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (4).png" class="img-responsive" alt="run_analyzer"></a>
+    </div>
+    <div class="caption">
+      <h3>Run Analyzer</h3>
+      <p>A website integrated with Strava that allows users to import all of their running data for a detailed analysis of of their running performance.</p>
     </div>
   </div>
 </div>
