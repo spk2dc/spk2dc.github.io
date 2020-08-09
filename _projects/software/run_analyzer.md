@@ -11,7 +11,9 @@ permalink: /projects/run_analyzer/
 <i class="fa fa-github" aria-hidden="true">  GitHub</i>
 </a>
 
+<p class="lead">
 A website integrated with Strava that allows users to import all of their running data for a detailed analysis of of their running performance.
+</p>
 
 #### Technologies
 

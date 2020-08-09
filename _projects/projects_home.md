@@ -5,9 +5,13 @@ redirect_from: /projects/index.html
 debugger: false
 ---
 
+<p class="lead">
 Here you can find a showcase of some of my favorite projects that I have worked on outside of my jobs. Have a look through the projects listed on the left to see more of what I like to do in my free time!
+</p>
 
+<p class="lead">
 Below I have selected a few projects in particular to highlight.
+</p>
 
 <div class="col-lg-6">
   <div class="thumbnail">

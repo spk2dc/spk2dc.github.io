@@ -11,7 +11,9 @@ permalink: /projects/battleship/
 <i class="fa fa-github" aria-hidden="true">  GitHub</i>
 </a>
 
+<p class="lead">
 Created an online version of the popular classic boardgame Battleship where a user can play against the computer.
+</p>
 
 #### Technologies
 
