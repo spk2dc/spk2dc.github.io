@@ -5,7 +5,7 @@ permalink: /projects/battleship/
 
 <a href="https://playbattleship.herokuapp.com/" target="_blank">
 <i class="fa fa-external-link" aria-hidden="true">  Live site</i>
-<a>
+</a>
 
 <a href="https://github.com/caldric/battleship-client#battleship" target="_blank">
 <i class="fa fa-github" aria-hidden="true">  GitHub</i>

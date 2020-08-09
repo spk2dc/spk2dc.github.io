@@ -5,7 +5,7 @@ permalink: /projects/run_analyzer/
 
 <a href="https://runanalyzer.herokuapp.com/" target="_blank">
 <i class="fa fa-external-link" aria-hidden="true">  Live site</i>
-<a>
+</a>
 
 <a href="https://github.com/spk2dc/RunAnalyzer#run-analyzer-read-me" target="_blank">
 <i class="fa fa-github" aria-hidden="true">  GitHub</i>
