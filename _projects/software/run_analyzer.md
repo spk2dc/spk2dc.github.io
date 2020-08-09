@@ -38,8 +38,8 @@ A website integrated with Strava that allows users to import all of their runnin
         <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (1).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (1).png" class="img-responsive" alt="run_analyzer"></a>
       </div>
       <div class="caption">
-        <h3>Landing Page</h3>
-        <p>Displays the instructions for how to use the site</p>
+        <h3>Sign In Page</h3>
+        <p>Login to your personal Strava account when prompted to allow authorization to read your activity data.</p>
       </div>
     </div>
   </div>
@@ -50,20 +50,8 @@ A website integrated with Strava that allows users to import all of their runnin
         <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (2).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (2).png" class="img-responsive" alt="run_analyzer"></a>
       </div>
       <div class="caption">
-        <h3>Landing Page</h3>
-        <p>Displays the instructions for how to use the site</p>
-      </div>
-    </div>
-  </div>
-
-<div class="col-lg-12">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (3).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (3).png" class="img-responsive" alt="run_analyzer"></a>
-      </div>
-      <div class="caption">
-        <h3>Landing Page</h3>
-        <p>Displays the instructions for how to use the site</p>
+        <h3>Authorization Page</h3>
+        <p>Must grant authorization to read all of a user's Strava data in order for this site to import and analyze all activites.</p>
       </div>
     </div>
   </div>
@@ -74,20 +62,8 @@ A website integrated with Strava that allows users to import all of their runnin
         <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (4).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (4).png" class="img-responsive" alt="run_analyzer"></a>
       </div>
       <div class="caption">
-        <h3>Landing Page</h3>
-        <p>Displays the instructions for how to use the site</p>
-      </div>
-    </div>
-  </div>
-
-<div class="col-lg-12">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (5).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (5).png" class="img-responsive" alt="run_analyzer"></a>
-      </div>
-      <div class="caption">
-        <h3>Landing Page</h3>
-        <p>Displays the instructions for how to use the site</p>
+        <h3>User Overview Page</h3>
+        <p>Displays all Strava activies imported from user's account. Click refresh in the nav bar to update with any recent activities.</p>
       </div>
     </div>
   </div>
@@ -98,8 +74,8 @@ A website integrated with Strava that allows users to import all of their runnin
         <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (6).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (6).png" class="img-responsive" alt="run_analyzer"></a>
       </div>
       <div class="caption">
-        <h3>Landing Page</h3>
-        <p>Displays the instructions for how to use the site</p>
+        <h3>Activity Show Page</h3>
+        <p>Shows detailed data for chosen activity</p>
       </div>
     </div>
   </div>
@@ -110,20 +86,8 @@ A website integrated with Strava that allows users to import all of their runnin
         <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (7).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (7).png" class="img-responsive" alt="run_analyzer"></a>
       </div>
       <div class="caption">
-        <h3>Landing Page</h3>
-        <p>Displays the instructions for how to use the site</p>
-      </div>
-    </div>
-  </div>
-
-<div class="col-lg-12">
-    <div class="thumbnail">
-      <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (8).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (8).png" class="img-responsive" alt="run_analyzer"></a>
-      </div>
-      <div class="caption">
-        <h3>Landing Page</h3>
-        <p>Displays the instructions for how to use the site</p>
+        <h3>Activity Show Page Metric/Imperial</h3>
+        <p>Data such as splits can be viewed in either miles or kilometers</p>
       </div>
     </div>
   </div>
@@ -134,8 +98,7 @@ A website integrated with Strava that allows users to import all of their runnin
         <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (9).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (9).png" class="img-responsive" alt="run_analyzer"></a>
       </div>
       <div class="caption">
-        <h3>Landing Page</h3>
-        <p>Displays the instructions for how to use the site</p>
+        <h3>Add Custom Note</h3>
       </div>
     </div>
   </div>
@@ -146,8 +109,7 @@ A website integrated with Strava that allows users to import all of their runnin
         <a href="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (10).png"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (10).png" class="img-responsive" alt="run_analyzer"></a>
       </div>
       <div class="caption">
-        <h3>Landing Page</h3>
-        <p>Displays the instructions for how to use the site</p>
+        <h3>Custom Note Displayed</h3>
       </div>
     </div>
   </div>
