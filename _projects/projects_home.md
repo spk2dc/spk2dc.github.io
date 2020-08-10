@@ -16,7 +16,7 @@ Below I have selected a few projects in particular to highlight.
 <div class="col-lg-6">
   <div class="thumbnail">
     <div class="image">
-      <a href="{{site.baseurl}}/projects/battleship"><img src="{{site.baseurl}}/assets/img/projects/battleship/Battleship (9).png" class="img-responsive" alt="spotify"></a>
+      <a href="{{site.url}}/projects/battleship"><img src="{{site.url}}/assets/img/projects/battleship/Battleship (9).png" class="img-responsive" alt="spotify"></a>
     </div>
     <div class="caption">
       <h3>Battleship</h3>
@@ -28,7 +28,7 @@ Below I have selected a few projects in particular to highlight.
 <div class="col-lg-6">
   <div class="thumbnail">
     <div class="image">
-      <a href="{{site.baseurl}}/projects/spotify_filter"><img src="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (1).png" class="img-responsive" alt="spotify"></a>
+      <a href="{{site.url}}/projects/spotify_filter"><img src="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (1).png" class="img-responsive" alt="spotify"></a>
     </div>
     <div class="caption">
       <h3>Spotify Track Filter</h3>
@@ -40,7 +40,7 @@ Below I have selected a few projects in particular to highlight.
 <div class="col-lg-6">
   <div class="thumbnail">
     <div class="image">
-      <a href="{{site.baseurl}}/projects/run_analyzer"><img src="{{site.baseurl}}/assets/img/projects/run_analyzer/RunAnalyzer (4).png" class="img-responsive" alt="run_analyzer"></a>
+      <a href="{{site.url}}/projects/run_analyzer"><img src="{{site.url}}/assets/img/projects/run_analyzer/RunAnalyzer (4).png" class="img-responsive" alt="run_analyzer"></a>
     </div>
     <div class="caption">
       <h3>Run Analyzer</h3>
@@ -52,7 +52,7 @@ Below I have selected a few projects in particular to highlight.
 <div class="col-lg-6">
   <div class="thumbnail">
     <div class="image">
-      <a href="{{site.baseurl}}/projects/watering_system"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 11.jpg" class="img-responsive" alt="run_analyzer"></a>
+      <a href="{{site.url}}/projects/watering_system"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 11.jpg" class="img-responsive" alt="run_analyzer"></a>
     </div>
     <div class="caption">
       <h3>Intelligent Automatic Watering System</h3>
