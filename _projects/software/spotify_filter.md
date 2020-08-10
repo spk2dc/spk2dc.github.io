@@ -31,7 +31,7 @@ Built website to search Spotify for a keyword or specific album/playlist then fi
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (5).png"><img src="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (5).png" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (5).png"><img src="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (5).png" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Landing Page</h3>
@@ -43,7 +43,7 @@ Built website to search Spotify for a keyword or specific album/playlist then fi
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (4).png"><img src="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (4).png" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (4).png"><img src="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (4).png" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Search Results</h3>
@@ -55,7 +55,7 @@ Built website to search Spotify for a keyword or specific album/playlist then fi
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (1).png"><img src="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (1).png" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (1).png"><img src="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (1).png" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Filter Settings</h3>
@@ -67,7 +67,7 @@ Built website to search Spotify for a keyword or specific album/playlist then fi
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (2).png"><img src="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (2).png" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (2).png"><img src="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (2).png" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Filter Results</h3>
@@ -79,7 +79,7 @@ Built website to search Spotify for a keyword or specific album/playlist then fi
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (3).png"><img src="{{site.baseurl}}/assets/img/projects/spotify_filter/SpotifyFilter (3).png" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (3).png"><img src="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (3).png" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Audio Analysis</h3>

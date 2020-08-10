@@ -33,7 +33,7 @@ permalink: /projects/watering_system/
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 8.jpg"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 8.jpg" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 8.jpg"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 8.jpg" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Our System</h3>
@@ -45,7 +45,7 @@ permalink: /projects/watering_system/
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 11.jpg"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 11.jpg" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 11.jpg"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 11.jpg" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>System Overview</h3>
@@ -57,7 +57,7 @@ permalink: /projects/watering_system/
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 12.jpg"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 12.jpg" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 12.jpg"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 12.jpg" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Close Up of System Diagram</h3>
@@ -69,7 +69,7 @@ permalink: /projects/watering_system/
  <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 1.jpg"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 1.jpg" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 1.jpg"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 1.jpg" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>System Components</h3>
@@ -83,7 +83,7 @@ permalink: /projects/watering_system/
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 3.jpg"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 3.jpg" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 3.jpg"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 3.jpg" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Inside Waterproof Box</h3>
@@ -95,7 +95,7 @@ permalink: /projects/watering_system/
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 6.jpg"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 6.jpg" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 6.jpg"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 6.jpg" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Watering Methods</h3>
@@ -107,7 +107,7 @@ permalink: /projects/watering_system/
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 9.jpg"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 9.jpg" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 9.jpg"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 9.jpg" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Core Functions</h3>
@@ -119,7 +119,7 @@ permalink: /projects/watering_system/
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 10.jpg"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 10.jpg" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 10.jpg"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 10.jpg" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Physical to Functional Mapping</h3>
@@ -131,7 +131,7 @@ permalink: /projects/watering_system/
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 14.jpg"><img src="{{site.baseurl}}/assets/img/projects/watering_system/Automatic Watering System 14.jpg" class="img-responsive" alt="spotify"></a>
+        <a href="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 14.jpg"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 14.jpg" class="img-responsive" alt="spotify"></a>
       </div>
       <div class="caption">
         <h3>Solenoid Valve Testing</h3>
