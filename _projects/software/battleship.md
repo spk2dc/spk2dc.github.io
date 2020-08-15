@@ -40,7 +40,7 @@ Created an online version of the popular classic boardgame Battleship where a us
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/battleship/Battleship (1).png"><img src="{{site.baseurl}}/assets/img/projects/battleship/Battleship (1).png" class="img-responsive" alt="battleship"></a>
+        <a href="{{site.url}}/assets/img/projects/battleship/Battleship (1).png"><img src="{{site.url}}/assets/img/projects/battleship/Battleship (1).png" class="img-responsive" alt="battleship"></a>
       </div>
       <div class="caption">
         <h3>Landing Page</h3>
@@ -52,7 +52,7 @@ Created an online version of the popular classic boardgame Battleship where a us
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/battleship/Battleship (3).png"><img src="{{site.baseurl}}/assets/img/projects/battleship/Battleship (3).png" class="img-responsive" alt="battleship"></a>
+        <a href="{{site.url}}/assets/img/projects/battleship/Battleship (3).png"><img src="{{site.url}}/assets/img/projects/battleship/Battleship (3).png" class="img-responsive" alt="battleship"></a>
       </div>
       <div class="caption">
         <h3>Sign Up Page</h3>
@@ -63,7 +63,7 @@ Created an online version of the popular classic boardgame Battleship where a us
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/battleship/Battleship (4).png"><img src="{{site.baseurl}}/assets/img/projects/battleship/Battleship (4).png" class="img-responsive" alt="battleship"></a>
+        <a href="{{site.url}}/assets/img/projects/battleship/Battleship (4).png"><img src="{{site.url}}/assets/img/projects/battleship/Battleship (4).png" class="img-responsive" alt="battleship"></a>
       </div>
       <div class="caption">
         <h3>Home Page</h3>
@@ -75,7 +75,7 @@ Created an online version of the popular classic boardgame Battleship where a us
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/battleship/Battleship (5).png"><img src="{{site.baseurl}}/assets/img/projects/battleship/Battleship (5).png" class="img-responsive" alt="battleship"></a>
+        <a href="{{site.url}}/assets/img/projects/battleship/Battleship (5).png"><img src="{{site.url}}/assets/img/projects/battleship/Battleship (5).png" class="img-responsive" alt="battleship"></a>
       </div>
       <div class="caption">
         <h3>New Game Page</h3>
@@ -86,7 +86,7 @@ Created an online version of the popular classic boardgame Battleship where a us
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/battleship/Battleship (7).png"><img src="{{site.baseurl}}/assets/img/projects/battleship/Battleship (7).png" class="img-responsive" alt="battleship"></a>
+        <a href="{{site.url}}/assets/img/projects/battleship/Battleship (7).png"><img src="{{site.url}}/assets/img/projects/battleship/Battleship (7).png" class="img-responsive" alt="battleship"></a>
       </div>
       <div class="caption">
         <h3>Ship Placement</h3>
@@ -98,7 +98,7 @@ Created an online version of the popular classic boardgame Battleship where a us
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="{{site.baseurl}}/assets/img/projects/battleship/Battleship (9).png"><img src="{{site.baseurl}}/assets/img/projects/battleship/Battleship (9).png" class="img-responsive" alt="battleship"></a>
+        <a href="{{site.url}}/assets/img/projects/battleship/Battleship (9).png"><img src="{{site.url}}/assets/img/projects/battleship/Battleship (9).png" class="img-responsive" alt="battleship"></a>
       </div>
       <div class="caption">
         <h3>Game Play</h3>

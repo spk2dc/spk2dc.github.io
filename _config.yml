@@ -5,10 +5,10 @@ description: >
   Senthil Kannan portfolio website
 lang: en-US
 
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
-url: https://spk2dc.github.io/portfolio # the base hostname & protocol for your site
-git_address: https://github.com/spk2dc/portfolio
-git_edit_address: https://github.com/spk2dc/portfolio/blob/gh-pages
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: https://spk2dc.github.io # the base hostname & protocol for your site
+git_address: https://github.com/spk2dc
+git_edit_address: https://github.com/spk2dc/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap

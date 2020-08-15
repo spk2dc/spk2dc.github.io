@@ -7,8 +7,8 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}/">
-                <span><img src="{{ "/assets/img/miscellaneous/vecteezy-s-circle-cropped.png" | relative_url }}" alt="https://www.vecteezy.com/vector-art/626918-s-logo-vector-template"></span> {{ site.title }}
+            <a class="navbar-brand" href="{{ site.url }}/">
+                <span><img src="{{ "/assets/img/miscellaneous/vecteezy-s-circle-cropped.svg" | relative_url }}" alt="https://www.vecteezy.com/vector-art/626918-s-logo-vector-template"></span> {{ site.title }}
             </a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
@@ -18,6 +18,17 @@
                 <li {% if page.sectionid=='projects' %} class="active" {% endif %}><a href="{{ "/projects/home/" | relative_url }}">Projects</a></li>
                 <li {% if page.sectionid=='resume' %} class="active" {% endif %}><a href="{{ "/resume" | relative_url }}">Resume</a></li>
             </ul>
+
+            <!-- <div class="navbar-right">
+                <a href="https://github.com/spk2dc" target="_blank">
+                    <i class="fab fa-github-square fa-2x" aria-hidden="true"></i>
+                </a>
+
+                <a href="https://www.linkedin.com/in/spk2dc/" target="_blank">
+                    <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+                </a>
+            </div> -->
+
             <!-- <div class="navbar-right">
                 <form class="navbar-form navbar-left">
                     <div class="form-group has-feedback">
