@@ -1,15 +1,9 @@
 ---
 title: Run Analyzer
 permalink: /projects/run_analyzer/
+link_live: https://runanalyzer.herokuapp.com/
+link_git: https://github.com/spk2dc/RunAnalyzer#run-analyzer-read-me
 ---
-
-<a href="https://runanalyzer.herokuapp.com/" target="_blank">
-<i class="fa fa-external-link" aria-hidden="true">  Live site</i>
-</a>
-
-<a href="https://github.com/spk2dc/RunAnalyzer#run-analyzer-read-me" target="_blank">
-<i class="fa fa-github" aria-hidden="true">  GitHub</i>
-</a>
 
 <p class="lead">
 A website integrated with Strava that allows users to import all of their running data for a detailed analysis of of their running performance.

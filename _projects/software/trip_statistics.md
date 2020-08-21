@@ -1,17 +1,9 @@
 ---
 title: Trip Statistics
 permalink: /projects/trip_statistics/
+link_live: https://tripstatistics.herokuapp.com/
+link_git: https://github.com/spk2dc/TripStatistics#trip-statistics
 ---
-
-<div class='m-2'>
-<a class='btn btn-sm btn-success' href="https://tripstatistics.herokuapp.com/" target="_blank">
-<i class="fa fa-external-link" aria-hidden="true">  Live site</i>
-</a>
-
-<a class='btn btn-sm btn-success' href="https://github.com/spk2dc/TripStatistics#trip-statistics" target="_blank">
-<i class="fa fa-github" aria-hidden="true">  GitHub</i>
-</a>
-</div>
 
 <p class="lead">
 Trip Statistics is a Google Maps integrated site where you can analyze your location history data and see an overview of where you visited and what you did on your last trip.

@@ -1,15 +1,9 @@
 ---
 title: Battleship
 permalink: /projects/battleship/
+link_live: https://playbattleship.herokuapp.com/
+link_git: https://github.com/caldric/battleship-client#battleship
 ---
-
-<a href="https://playbattleship.herokuapp.com/" target="_blank">
-<i class="fa fa-external-link" aria-hidden="true">  Live site</i>
-</a>
-
-<a href="https://github.com/caldric/battleship-client#battleship" target="_blank">
-<i class="fa fa-github" aria-hidden="true">  GitHub</i>
-</a>
 
 <p class="lead">
 Created an online version of the popular classic boardgame Battleship where a user can play against the computer.

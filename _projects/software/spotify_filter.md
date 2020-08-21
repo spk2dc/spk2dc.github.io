@@ -1,17 +1,9 @@
 ---
 title: Spotify Track Filter
 permalink: /projects/spotify_filter/
+link_live: https://spk2dc.github.io/SpotifyTrackFilter/
+link_git: https://github.com/spk2dc/SpotifyTrackFilter/#spotify-track-filter-read-me
 ---
-
-<div class='m-2'>
-<a class='btn btn-sm btn-success' href="https://spk2dc.github.io/SpotifyTrackFilter/" target="_blank">
-<i class="fa fa-external-link" aria-hidden="true">  Live site</i>
-</a>
-
-<a class='btn btn-sm btn-success' href="https://github.com/spk2dc/spk2dc.github.io/tree/master/SpotifyTrackFilter#spotify-track-filter-read-me" target="_blank">
-<i class="fa fa-github" aria-hidden="true">  GitHub</i>
-</a>
-</div>
 
 <p class="lead">
 Built website to search Spotify for a keyword or specific album/playlist then filter all the tracks returned based on their musical properties to create a more specific playlist of songs.
