@@ -19,7 +19,7 @@ Below I have selected a few projects in particular to highlight.
       <a href="{{site.url}}/projects/battleship"><img src="{{site.url}}/assets/img/projects/battleship/Battleship (9).png" class="img-responsive" alt="spotify"></a>
     </div>
     <div class="caption">
-      <h3>Battleship</h3>
+      <a href="{{site.url}}/projects/battleship"><h3>Battleship</h3></a>
       <p>Created an online version of the popular classic boardgame Battleship where a user can play against the computer.</p>
     </div>
   </div>
@@ -31,7 +31,7 @@ Below I have selected a few projects in particular to highlight.
       <a href="{{site.url}}/projects/spotify_filter"><img src="{{site.url}}/assets/img/projects/spotify_filter/SpotifyFilter (1).png" class="img-responsive" alt="spotify"></a>
     </div>
     <div class="caption">
-      <h3>Spotify Track Filter</h3>
+      <a href="{{site.url}}/projects/spotify_filter"><h3>Spotify Track Filter</h3></a>
       <p>Built website to search Spotify for a keyword or specific album/playlist then filter all the tracks returned based on their musical properties to create a more specific playlist of songs.</p>
     </div>
   </div>
@@ -43,7 +43,7 @@ Below I have selected a few projects in particular to highlight.
       <a href="{{site.url}}/projects/run_analyzer"><img src="{{site.url}}/assets/img/projects/run_analyzer/RunAnalyzer (4).png" class="img-responsive" alt="run_analyzer"></a>
     </div>
     <div class="caption">
-      <h3>Run Analyzer</h3>
+      <a href="{{site.url}}/projects/run_analyzer"><h3>Run Analyzer</h3></a>
       <p>A website integrated with Strava that allows users to import all of their running data for a detailed analysis of of their running performance.</p>
     </div>
   </div>
@@ -67,7 +67,7 @@ Below I have selected a few projects in particular to highlight.
       <a href="{{site.url}}/projects/watering_system"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 11.jpg" class="img-responsive" alt="run_analyzer"></a>
     </div>
     <div class="caption">
-      <h3>Intelligent Automatic Watering System</h3>
+      <a href="{{site.url}}/projects/watering_system"><h3>Intelligent Automatic Watering System</h3></a>
       <p>Designed complex automatic home watering system that can be controlled remotely through a website</p>
     </div>
   </div>
