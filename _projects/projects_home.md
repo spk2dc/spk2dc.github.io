@@ -52,6 +52,18 @@ Below I have selected a few projects in particular to highlight.
 <div class="col-lg-6">
   <div class="thumbnail">
     <div class="image">
+      <a href="{{site.url}}/projects/trip_statistics"><img src="{{site.url}}/assets/img/projects/trip_statistics/trip_statistics (14).png" class="img-responsive" alt="trip_statistics"></a>
+    </div>
+    <div class="caption">
+      <a href="{{site.url}}/projects/trip_statistics"><h3>Trip Statistics</h3></a>
+      <p>Google Maps integrated site where you can analyze your location history data and see an overview of where you visited and what you did on your last trip.</p>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-6">
+  <div class="thumbnail">
+    <div class="image">
       <a href="{{site.url}}/projects/watering_system"><img src="{{site.url}}/assets/img/projects/watering_system/Automatic Watering System 11.jpg" class="img-responsive" alt="run_analyzer"></a>
     </div>
     <div class="caption">
