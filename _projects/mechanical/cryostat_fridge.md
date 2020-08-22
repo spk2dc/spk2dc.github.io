@@ -1,5 +1,5 @@
 ---
-title: Cryostat Fridge SolidWorks Model
+title: Cryostat Fridge
 permalink: /projects/cryostat_fridge/
 ---
 
@@ -53,6 +53,107 @@ permalink: /projects/cryostat_fridge/
       </div>
       <div class="caption">
         <h3>Top Plate (Left Side)</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_162402596.jpg"><img src="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_162402596.jpg" class="img-responsive" alt="cryostat_fridge"></a>
+      </div>
+      <div class="caption">
+        <h3>Internal Specimen Holder</h3>
+        <p>Apparatus used to hold solid polarized target sample and insert into dilution fridge</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_162035007.jpg"><img src="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_162035007.jpg" class="img-responsive" alt="cryostat_fridge"></a>
+      </div>
+      <div class="caption">
+        <h3>New Carbon Fiber Specimen Holder</h3>
+        <p>Improved redesign of apparatus used to insert samples into dilution fridge</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/Dilution Fridge BOM.png"><img src="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/Dilution Fridge BOM.png" class="img-responsive" alt="cryostat_fridge"></a>
+      </div>
+      <div class="caption">
+        <h3>Bill of Materials</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/Dilution Fridge Assemblly Detail.png"><img src="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/Dilution Fridge Assemblly Detail.png" class="img-responsive" alt="cryostat_fridge"></a>
+      </div>
+      <div class="caption">
+        <h3>Detailed Cross Section View</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/Capture 1.JPG.jpg"><img src="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/Capture 1.JPG.jpg" class="img-responsive" alt="cryostat_fridge"></a>
+      </div>
+      <div class="caption">
+        <h3>SolidWorks Model Isometric View</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_162237476.jpg"><img src="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_162237476.jpg" class="img-responsive" alt="cryostat_fridge"></a>
+      </div>
+      <div class="caption">
+        <h3>New Specimen Holder - Transition View</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_162318426.jpg"><img src="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_162318426.jpg" class="img-responsive" alt="cryostat_fridge"></a>
+      </div>
+      <div class="caption">
+        <h3>New Specimen Holder - Top View</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_162451338.jpg"><img src="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_162451338.jpg" class="img-responsive" alt="cryostat_fridge"></a>
+      </div>
+      <div class="caption">
+        <h3>3D Printed Rotating Specimen Container</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_163346990.jpg"><img src="{{site.url}}/assets/img/projects/cryostat_fridge/internal_stick/IMG_20161001_163346990.jpg" class="img-responsive" alt="cryostat_fridge"></a>
+      </div>
+      <div class="caption">
+        <h3>3D Printed Specimen Radiation Container</h3>
       </div>
     </div>
   </div>

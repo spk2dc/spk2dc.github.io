@@ -11,7 +11,7 @@ permalink: /projects/semi_quadcopter/
 
 - Researched and implemented PID control/tuning, I2C communication, and Kalman filter
 
-- Link to testing video: https://www.youtube.com/watch?v=gu-WoXYLHz4
+- Link to testing video: <a href='https://youtu.be/gu-WoXYLHz4'>https://youtu.be/gu-WoXYLHz4</a>
 
 <br />
 
@@ -32,11 +32,22 @@ permalink: /projects/semi_quadcopter/
   <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
+        <iframe width="100%" height="400" src="https://www.youtube.com/embed/gu-WoXYLHz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="caption">
+        <h3>Testing Video</h3>
+        <p>Finished semi-quadcopter being tested to ensure it maintains balance and stabilizes itself despite being hit or carrying weights on either motor.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
         <a href="{{site.url}}/assets/img/projects/semi_quadcopter/Quadcopter Setup.jpg"><img src="{{site.url}}/assets/img/projects/semi_quadcopter/Quadcopter Setup.jpg" class="img-responsive" alt="semi-quadcopter"></a>
       </div>
       <div class="caption">
         <h3>Experiment Setup</h3>
-        <p>Finished semi-quadcopter being tested to ensure it maintains balance and stabilizes itself despite being hit or carrying weights on either motor.</p>
       </div>
     </div>
   </div>
