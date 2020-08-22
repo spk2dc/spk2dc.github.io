@@ -54,6 +54,7 @@ div.portrait {
   background-color: orange;
   width: 75%;
   height: 400px;
+  margin: auto;
   cursor: auto;
-  cursor: url('https://spk2dc.github.io/assets/img/miscellaneous/carrot-solid.png');
+  cursor: url('/assets/img/miscellaneous/carrot-solid.png'), auto;
 }
