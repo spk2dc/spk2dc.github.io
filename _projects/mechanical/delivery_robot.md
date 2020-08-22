@@ -51,4 +51,16 @@ permalink: /projects/delivery_robot/
     </div>
   </div>
 
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/delivery_robot/IMG_5049-e1481161426959.jpg"><img src="{{site.url}}/assets/img/projects/delivery_robot/IMG_5049-e1481161426959.jpg" class="img-responsive" alt="specimen_mount"></a>
+      </div>
+      <div class="caption">
+        <h3>Delivery Robot</h3>
+        <!-- picture from TLP blog, source: https://pages.shanti.virginia.edu/TLP_TLC/2016/12/07/autonomous-robot/ -->
+      </div>
+    </div>
+  </div>
+
 </div>
