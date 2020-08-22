@@ -3,36 +3,52 @@ title: Autonomous Line-Following Delivery Robot
 permalink: /projects/delivery_robot/
 ---
 
-By default, this website uses `paper` theme, but you can change it to another [bootwatch theme](https://bootswatch.com/3/) by setting
-`bootwatch` variable in `_config.yml` file.
-(Don't forget to restart `Jekyll` if you are running locally because the configuration is not re-read upon change.)
+#### Description
+
+- Coded Arduino program in C to automate line-following control algorithm
+
+- Set up online order placement using integrated SQL database and PHP scripts
+
+- Designed 3D printed delivery system to operate with a servo, laser cut chassis of robot, wired electronic circuitry, incorporated infrared sensors and encoders
+
+<br />
+
+#### Technologies
+
+- SolidWorks CAD Software
+- 3D Printing
+- Arduino microcontroller
+- C++ programming
+- Circuitry design and wiring
+- Laser Cutter
+- Pololu Wixel 2.4 GHz radio board
+
+<br />
 
 <div class="row">
 
-  <div class="col-lg-4 col-sm-6">
+  <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="#cerulean/"><img src="https://bootswatch.com/3/cerulean/thumbnail.png" class="img-responsive" alt="Cerulean"></a>
+        <a href="{{site.url}}/assets/img/projects/delivery_robot/Line Following Robot Diagram.png"><img src="{{site.url}}/assets/img/projects/delivery_robot/Line Following Robot Diagram.png" class="img-responsive" alt="specimen_mount"></a>
       </div>
       <div class="caption">
-        <h3>Cerulean</h3>
-        <p>A calm blue sky</p>
+        <h3>System Architecture</h3>
+        <p>Basic layout diagram of main parts needed and their placement on the device</p>
       </div>
     </div>
   </div>
 
-  <div class="col-lg-4 col-sm-6">
+  <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="#yeti/"><img class="img-responsive" src="https://bootswatch.com/3/yeti/thumbnail.png" alt="Yeti"></a>
+        <a href="{{site.url}}/assets/img/projects/delivery_robot/Line Following Robot Layout.png"><img src="{{site.url}}/assets/img/projects/delivery_robot/Line Following Robot Layout.png" class="img-responsive" alt="specimen_mount"></a>
       </div>
       <div class="caption">
-        <h3>Yeti</h3>
-        <p>A friendly foundation</p>
-
+        <h3>Platform Diagram</h3>
+        <p>CAD drawing of location of all cutouts on plastic chassis board. Drawing was exported and sent to laser cutter to create the platform for all the device's components.</p>
       </div>
     </div>
-
   </div>
 
 </div>
