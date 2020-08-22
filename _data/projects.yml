@@ -12,7 +12,7 @@
   - watering_system
   - cryostat_fridge
   - specimen_mount
-  # - semi_quadcopter
+  - semi_quadcopter
   # - prosthetics
   - delivery_robot
   # - 3d_printed_guillotine

@@ -3,36 +3,66 @@ title: Semi-Quadcopter
 permalink: /projects/semi_quadcopter/
 ---
 
-By default, this website uses `paper` theme, but you can change it to another [bootwatch theme](https://bootswatch.com/3/) by setting
-`bootwatch` variable in `_config.yml` file.
-(Don't forget to restart `Jekyll` if you are running locally because the configuration is not re-read upon change.)
+#### Description
+
+- Built and wired self-balancing semi-quadcopter with 2 degrees of freedom
+
+- Coded Parallax Propeller microcontroller control algorithm in C to stabilize roll and pitch, using inertial measurement unit (IMU) and ultrasonic sensor
+
+- Researched and implemented PID control/tuning, I2C communication, and Kalman filter
+
+- Link to testing video: https://www.youtube.com/watch?v=gu-WoXYLHz4
+
+<br />
+
+#### Technologies
+
+- SolidWorks CAD Software
+- 3D Printing
+- Arduino microcontroller
+- C++ programming
+- Circuitry design and wiring
+- Ultrasonic Sensor
+- Inertial Measurement Unit (IMU)
+
+<br />
 
 <div class="row">
 
-  <div class="col-lg-4 col-sm-6">
+  <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="#cerulean/"><img src="https://bootswatch.com/3/cerulean/thumbnail.png" class="img-responsive" alt="Cerulean"></a>
+        <a href="{{site.url}}/assets/img/projects/semi_quadcopter/Quadcopter Setup.jpg"><img src="{{site.url}}/assets/img/projects/semi_quadcopter/Quadcopter Setup.jpg" class="img-responsive" alt="semi-quadcopter"></a>
       </div>
       <div class="caption">
-        <h3>Cerulean</h3>
-        <p>A calm blue sky</p>
+        <h3>Experiment Setup</h3>
+        <p>Finished semi-quadcopter being tested to ensure it maintains balance and stabilizes itself despite being hit or carrying weights on either motor.</p>
       </div>
     </div>
   </div>
 
-  <div class="col-lg-4 col-sm-6">
+  <div class="col-lg-12">
     <div class="thumbnail">
       <div class="image">
-        <a href="#yeti/"><img class="img-responsive" src="https://bootswatch.com/3/yeti/thumbnail.png" alt="Yeti"></a>
+        <a href="{{site.url}}/assets/img/projects/semi_quadcopter/Quadcopter Functional Diagram.jpg"><img src="{{site.url}}/assets/img/projects/semi_quadcopter/Quadcopter Functional Diagram.jpg" class="img-responsive" alt="semi-quadcopter"></a>
       </div>
       <div class="caption">
-        <h3>Yeti</h3>
-        <p>A friendly foundation</p>
-
+        <h3>Functional Diagram</h3>
+        <p>Diagram representing major components and systems in the semi-quadcopter and showing how they all interact</p>
       </div>
     </div>
+  </div>
 
+  <div class="col-lg-12">
+    <div class="thumbnail">
+      <div class="image">
+        <a href="{{site.url}}/assets/img/projects/semi_quadcopter/Quadcopter Circuit.jpg"><img src="{{site.url}}/assets/img/projects/semi_quadcopter/Quadcopter Circuit.jpg" class="img-responsive" alt="semi-quadcopter"></a>
+      </div>
+      <div class="caption">
+        <h3>Circuitry</h3>
+        <p>Complete circuit for controlling the semi-quadcopter</p>
+      </div>
+    </div>
   </div>
 
 </div>
