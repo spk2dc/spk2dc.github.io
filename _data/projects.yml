@@ -10,9 +10,9 @@
   projects:
   # - network_drone
   - watering_system
-  # - delivery_robot
+  - cryostat_fridge
   # - semi_quadcopter
   # - prosthetics
   # - specimen_mount
-  # - cryostat_fridge
+  # - delivery_robot
   # - 3d_printed_guillotine
