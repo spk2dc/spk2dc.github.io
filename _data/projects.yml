@@ -11,8 +11,8 @@
   # - network_drone
   - watering_system
   - cryostat_fridge
+  - specimen_mount
   # - semi_quadcopter
   # - prosthetics
-  # - specimen_mount
   # - delivery_robot
   # - 3d_printed_guillotine
