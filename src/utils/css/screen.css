@@ -157,7 +157,6 @@ body {
   margin: 0 0 0 -12px;
   padding: 0;
   list-style: none;
-  flex-wrap: nowrap;
 }
 
 .site-head li {
