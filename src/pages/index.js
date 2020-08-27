@@ -26,6 +26,15 @@ const BlogIndex = ({ data }, location) => {
           <h2 className="page-head-title">
             {data.site.siteMetadata.description}
           </h2>
+
+          <div class="header-container jumbotron">
+            <div class="container">
+              <div class="well header-text">
+                <h1>Senthil Kannan</h1>
+                <h2>Software Developer. Jet Engineer. World Traveler.</h2>
+              </div>
+            </div>
+          </div>
         </header>
       )}
       <div className="post-feed">
