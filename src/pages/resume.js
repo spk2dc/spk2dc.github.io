@@ -27,6 +27,7 @@ const ResumePage = ({ data }, location) => {
               className="button primary mt-4"
               href={data.resumeFile.publicURL}
               target="_blank"
+              rel="noreferrer"
             >
               Download PDF
             </a>
