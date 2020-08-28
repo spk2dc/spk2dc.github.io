@@ -24,7 +24,7 @@ const BlogIndex = ({ data }, location) => {
       {data.site.siteMetadata.description && (
         <div className="header-container jumbotron">
           <div className="container">
-            <div className="well header-text">
+            <div className="card header-text">
               <h1>Senthil Kannan</h1>
               <h2>Software Developer. Jet Engineer. World Traveler.</h2>
             </div>
