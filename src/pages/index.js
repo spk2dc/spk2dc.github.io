@@ -22,9 +22,9 @@ const BlogIndex = ({ data }, location) => {
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
-        <div class="header-container jumbotron">
-          <div class="container">
-            <div class="well header-text">
+        <div className="header-container jumbotron">
+          <div className="container">
+            <div className="well header-text">
               <h1>Senthil Kannan</h1>
               <h2>Software Developer. Jet Engineer. World Traveler.</h2>
             </div>
