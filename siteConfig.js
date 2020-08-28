@@ -1,5 +1,5 @@
 module.exports = {
-  name: "Senthil Kannan's Portfolio",
+  name: "Senthil's Portfolio",
   shortName: "Portfolio",
   description:
     "A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery",
