@@ -32,3 +32,8 @@
 .header-text h1 {
   margin-bottom: 0px;
 }
+
+.nav-link-current {
+  text-decoration: none;
+  opacity: 1 !important;
+}
