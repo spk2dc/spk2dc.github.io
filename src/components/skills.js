@@ -22,12 +22,214 @@ export default function Skills() {
             <div class="row">
               <div className="col-lg-2 col-sm-4 text-center">
                 <a
+                  href="https://icons8.com/icon/13679/java"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" />
+                  <p>Java</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/40669/c++"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" />
+                  <p>C/C++</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/13441/python"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/python.png" />
+                  <p>Python</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/13654/microsoft-excel"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/ms-excel.png" />
+                  <p>Excel VBA</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/108784/javascript"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/javascript.png" />
+                  <p>JavaScript</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/20909/html-5"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/html-5.png" />
+                  <p>HTML</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/21278/css3"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/css3.png" />
+                  <p>CSS</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/54087/nodejs"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/nodejs.png" />
+                  <p>Node.js</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+                    height="96px"
+                    width="96px"
+                  />
+                  <p>Express.js</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/t4YbEbA834uH/react-native"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/nolan/96/react-native.png" />
+                  <p>React</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/38561/postgresql"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" />
+                  <p>PostgreSQL</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/74402/mongodb"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/mongodb.png" />
+                  <p>MongoDB</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/40253/jquery"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/ios-filled/96/000000/jquery.png" />
+                  <p>jQuery</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/84710/bootstrap"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" />
+                  <p>Bootstrap</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
                   href="https://github.com/spk2dc"
                   target="_blank"
                   rel="noreferrer"
                 >
                   <img src="https://img.icons8.com/fluent/96/000000/github.png" />
                   <p>GitHub</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/22189/ruby-programming-language"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" />
+                  <p>Ruby</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/vIdITG-Ob-NL/full-test-tube"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/windows/96/a81103/full-test-tube.png" />
+                  <p>Jekyll</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/17842/linux"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/linux.png" />
+                  <p>Linux</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/GgyRdUL5k1fr/android-os"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/plasticine/96/000000/android-os.png" />
+                  <p>Android</p>
                 </a>
               </div>
 
