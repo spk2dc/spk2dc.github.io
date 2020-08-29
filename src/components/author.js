@@ -20,12 +20,12 @@ function Author() {
             <div className="row">
               <div className="col-md-6">
                 <h2 className="header-light regular-pad">About Me</h2>
-                <p className="lead">
+                <p className="">
                   Hello and welcome to my portfolio! Here you can explore my
                   website to get a better understanding of my background,
                   projects, and experience.
                 </p>
-                <p className="lead">
+                <p className="">
                   I'm an engineer who's passionate about full stack software
                   development and robotics, with experience working in the
                   aerospace industry. I have used the skills I learned minoring
@@ -36,7 +36,7 @@ function Author() {
                   develop this knowledge and gain experience with modern
                   industry standard tools and practices.
                 </p>
-                <p className="lead">
+                <p className="">
                   When not at work I often enjoy traveling to other countries
                   and most recently backpacked in Asia for 5 months!
                 </p>
@@ -58,47 +58,47 @@ function Author() {
               <h3 className="text-center">CONTACT</h3>
               <hr className="divider px-4" />
               <div className="row">
-                <a
-                  href="https://www.linkedin.com/in/spk2dc/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <div className="col-lg-4 col-xs-4 text-center">
+                <div className="col-lg-4 col-sm-4 text-center">
+                  <a
+                    href="https://www.linkedin.com/in/spk2dc/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     {/* <i className="fab fa-linkedin fa-7x" aria-hidden="true"></i> */}
                     <img src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
                     <p>LinkedIn</p>
-                  </div>
-                </a>
+                  </a>
+                </div>
 
-                <a
-                  href="mailto:spk2dc@virginia.edu"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <div className="col-lg-4 col-xs-4 text-center">
+                <div className="col-lg-4 col-sm-4 text-center">
+                  <a
+                    href="mailto:spk2dc@virginia.edu"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     {/* <i
                       className="fa fa-envelope-square fa-7x"
                       aria-hidden="true"
                     ></i> */}
                     <img src="https://img.icons8.com/material/96/000000/new-post--v1.png" />
                     <p>Email</p>
-                  </div>
-                </a>
+                  </a>
+                </div>
 
-                <a
-                  href="https://github.com/spk2dc"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <div className="col-lg-4 col-xs-4 text-center">
+                <div className="col-lg-4 col-sm-4 text-center">
+                  <a
+                    href="https://github.com/spk2dc"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     {/* <i
                       className="fab fa-github-square fa-7x"
                       aria-hidden="true"
                     ></i> */}
                     <img src="https://img.icons8.com/fluent/96/000000/github.png" />
                     <p>GitHub</p>
-                  </div>
-                </a>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
