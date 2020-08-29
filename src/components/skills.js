@@ -244,7 +244,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              {/* <div className="col-lg-2 col-sm-4 text-center">
                 <a
                   href="https://icons8.com/icon/19978/slack"
                   target="_blank"
@@ -253,7 +253,7 @@ export default function Skills() {
                   <img src="https://img.icons8.com/color/96/000000/slack.png" />
                   <p>Slack</p>
                 </a>
-              </div>
+              </div> */}
 
               <div className="col-lg-2 col-sm-4 text-center">
                 <a
@@ -293,6 +293,21 @@ export default function Skills() {
                     width="96"
                   />
                   <p>EJS</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://www.gatsbyjs.com/guidelines/logo"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src={data.icon_gatsby.publicURL}
+                    height="96"
+                    width="96"
+                  />
+                  <p>Gatsby</p>
                 </a>
               </div>
 
@@ -423,6 +438,10 @@ const skillQuery = graphql`
           ...GatsbyImageSharpFluid
         }
       }
+    }
+
+    icon_gatsby: file(relativePath: { eq: "icon-gatsby.svg" }) {
+      publicURL
     }
   }
 `
