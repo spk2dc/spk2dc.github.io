@@ -21,12 +21,12 @@ function Author() {
             <div className="row">
               <div className="col-md-6">
                 <h2 className="header-light regular-pad">About Me</h2>
-                <p className="">
+                <p className="font-2rem">
                   Hello and welcome to my portfolio! Here you can explore my
                   website to get a better understanding of my background,
                   projects, and experience.
                 </p>
-                <p className="">
+                <p className="font-2rem">
                   I'm an engineer who's passionate about full stack software
                   development and robotics, with experience working in the
                   aerospace industry. I have used the skills I learned minoring
@@ -37,7 +37,7 @@ function Author() {
                   develop this knowledge and gain experience with modern
                   industry standard tools and practices.
                 </p>
-                <p className="">
+                <p className="font-2rem">
                   When not at work I often enjoy traveling to other countries
                   and most recently backpacked in Asia for 5 months!
                 </p>
