@@ -20,7 +20,18 @@ export default function Skills() {
             <h3 class="text-center">SKILLS</h3>
             <hr class="divider px-4" />
             <div class="row">
-              <div class="col-lg-2 col-xs-4 text-center">
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://github.com/spk2dc"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/fluent/96/000000/github.png" />
+                  <p>GitHub</p>
+                </a>
+              </div>
+
+              {/* <div class="col-lg-2 col-xs-4 text-center">
                 <i class="fab fa-java fa-7x" aria-hidden="true"></i>
                 <p class="text-muted">Java</p>
               </div>
@@ -95,21 +106,6 @@ export default function Skills() {
                 <p class="text-muted">GitHub</p>
               </div>
 
-              <div className="col-lg-4 col-sm-4 text-center">
-                <a
-                  href="https://github.com/spk2dc"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  {/* <i
-                      className="fab fa-github-square fa-7x"
-                      aria-hidden="true"
-                    ></i> */}
-                  <img src="https://img.icons8.com/fluent/96/000000/github.png" />
-                  <p>GitHub</p>
-                </a>
-              </div>
-
               <div class="col-lg-2 col-xs-4 text-center">
                 <i class="fa fa-gem fa-7x" aria-hidden="true"></i>
                 <p class="text-muted">Ruby</p>
@@ -128,7 +124,7 @@ export default function Skills() {
               <div class="col-lg-2 col-xs-4 text-center">
                 <i class="fab fa-android fa-7x" aria-hidden="true"></i>
                 <p class="text-muted">Android</p>
-              </div>
+              </div> */}
             </div>
           </div>
         )
