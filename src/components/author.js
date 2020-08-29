@@ -50,13 +50,13 @@ function Author() {
                 </div>
               </div>
             </div>
-            <hr />
+            <hr className="my-2" />
 
             {/* {% include skills.html %} */}
 
             <div className="card">
-              <h3 className="text-center">CONTACT</h3>
-              <hr className="divider px-4" />
+              <h3 className="text-center my-2">CONTACT</h3>
+              <hr className="my-2" />
               <div className="row">
                 <div className="col-lg-4 col-sm-4 text-center">
                   <a
