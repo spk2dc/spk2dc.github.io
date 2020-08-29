@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PostCard from "../components/postCard"
 import Author from "../components/author"
+import Skills from "../components/skills"
 import Img from "gatsby-image"
 
 // import "../utils/global.scss"
@@ -40,9 +41,9 @@ const BlogIndex = ({ data }, location) => {
         </div>
       )}
 
-      <div className="author">
-        <Author></Author>
-      </div>
+      <Author />
+
+      <Skills />
 
       {/* <div className="post-feed">
         {posts.map(({ node }) => {
