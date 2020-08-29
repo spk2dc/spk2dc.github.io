@@ -7,6 +7,7 @@
 
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
+import Skills from "../components/skills"
 import Img from "gatsby-image"
 
 function Author() {
@@ -16,7 +17,7 @@ function Author() {
       render={data => {
         const { author, social } = data.site.siteMetadata
         return (
-          <div className="container">
+          <div className="">
             <div className="row">
               <div className="col-md-6">
                 <h2 className="header-light regular-pad">About Me</h2>
@@ -52,7 +53,7 @@ function Author() {
             </div>
             <hr className="my-2" />
 
-            {/* {% include skills.html %} */}
+            <Skills />
 
             <div className="card">
               <h3 className="text-center my-2">CONTACT</h3>

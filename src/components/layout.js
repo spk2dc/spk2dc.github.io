@@ -54,29 +54,29 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="https://www.linkedin.com/in/spk2dc/"
+                title="LinkedIn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                LinkedIn
               </a>
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href="mailto:spk2dc@virginia.edu"
+                title="email"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                Email
               </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
+              <a
+                href="https://github.com/spk2dc"
+                title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                RSS
-              </Link>
+                GitHub
+              </a>
             </div>
           </div>
         </div>

@@ -5,7 +5,6 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PostCard from "../components/postCard"
 import Author from "../components/author"
-import Skills from "../components/skills"
 import Img from "gatsby-image"
 
 // import "../utils/global.scss"
@@ -30,7 +29,7 @@ const BlogIndex = ({ data }, location) => {
         >
           {/* <Img fluid={data.landingPic.childImageSharp.fluid} className="" /> */}
           <div className="container">
-            <div className="card header-text">
+            <div className="card header-text my-4">
               <h1>Senthil Kannan</h1>
               <h2>Software Developer. Jet Engineer. World Traveler.</h2>
             </div>
@@ -39,8 +38,6 @@ const BlogIndex = ({ data }, location) => {
       )}
 
       <Author />
-
-      <Skills />
 
       {/* <div className="post-feed">
         {posts.map(({ node }) => {
