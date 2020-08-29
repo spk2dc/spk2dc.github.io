@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PostCard from "../components/postCard"
 import Author from "../components/author"
+import Img from "gatsby-image"
 
 // import "../utils/global.scss"
 import "../utils/normalize.css"
@@ -23,7 +24,13 @@ const BlogIndex = ({ data }, location) => {
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
-        <div className="header-container jumbotron">
+        <div
+          className="header-container jumbotron"
+          style={{
+            backgroundImage: `url(${data.landingPic.childImageSharp.fluid.src})`,
+          }}
+        >
+          {/* <Img fluid={data.landingPic.childImageSharp.fluid} className="" /> */}
           <div className="container">
             <div className="card header-text">
               <h1>Senthil Kannan</h1>
@@ -62,6 +69,13 @@ const indexQuery = graphql`
         description
       }
     }
+    landingPic: file(relativePath: { eq: "Jeju_Hallasan_Mountain.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
@@ -77,6 +91,7 @@ const indexQuery = graphql`
               childImageSharp {
                 fluid(maxWidth: 1360) {
                   ...GatsbyImageSharpFluid
+                  src
                 }
               }
             }
