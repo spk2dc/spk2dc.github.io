@@ -42,7 +42,7 @@ function Author() {
                 </p>
               </div>
               <div className="col-md-6 text-center">
-                <div className="panel panel-default portrait">
+                <div className="card portrait">
                   <Img
                     fluid={data.profilePic.childImageSharp.fluid}
                     className="img-responsive"
@@ -54,7 +54,7 @@ function Author() {
 
             {/* {% include skills.html %} */}
 
-            <div className="panel panel-default">
+            <div className="card">
               <h3 className="text-center">CONTACT</h3>
               <hr className="divider px-4" />
               <div className="row">
@@ -64,7 +64,8 @@ function Author() {
                   rel="noreferrer"
                 >
                   <div className="col-lg-4 col-xs-4 text-center">
-                    <i className="fab fa-linkedin fa-7x" aria-hidden="true"></i>
+                    {/* <i className="fab fa-linkedin fa-7x" aria-hidden="true"></i> */}
+                    <img src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
                     <p>LinkedIn</p>
                   </div>
                 </a>
@@ -75,10 +76,11 @@ function Author() {
                   rel="noreferrer"
                 >
                   <div className="col-lg-4 col-xs-4 text-center">
-                    <i
+                    {/* <i
                       className="fa fa-envelope-square fa-7x"
                       aria-hidden="true"
-                    ></i>
+                    ></i> */}
+                    <img src="https://img.icons8.com/material/96/000000/new-post--v1.png" />
                     <p>Email</p>
                   </div>
                 </a>
@@ -89,10 +91,11 @@ function Author() {
                   rel="noreferrer"
                 >
                   <div className="col-lg-4 col-xs-4 text-center">
-                    <i
+                    {/* <i
                       className="fab fa-github-square fa-7x"
                       aria-hidden="true"
-                    ></i>
+                    ></i> */}
+                    <img src="https://img.icons8.com/fluent/96/000000/github.png" />
                     <p>GitHub</p>
                   </div>
                 </a>
