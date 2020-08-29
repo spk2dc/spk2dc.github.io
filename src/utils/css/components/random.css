@@ -6,6 +6,7 @@
   background-size: cover;
   background-position: center 36%;
   /* margin-top: -37px; */
+  height: 600px;
 }
 
 .header-text {
@@ -31,4 +32,9 @@
 
 .header-text h1 {
   margin-bottom: 0px;
+}
+
+.nav-link-current {
+  text-decoration: none;
+  opacity: 1 !important;
 }

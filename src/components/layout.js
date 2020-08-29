@@ -26,17 +26,23 @@ const Layout = props => {
           </a>
           <nav id="swup" class="site-head-left">
             <ul className="nav" role="menu">
-              <li className="nav-home nav-current" role="menuitem">
-                <Link to={`/`}>Home</Link>
+              <li className="nav-home" role="menuitem">
+                <Link to={`/`} activeClassName="nav-link-current">
+                  Home
+                </Link>
               </li>
               {/* <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>
               </li> */}
               <li className="nav-resume" role="menuitem">
-                <Link to={`/resume`}>Resume</Link>
+                <Link to={`/resume`} activeClassName="nav-link-current">
+                  Resume
+                </Link>
               </li>
               <li className="nav-elements" role="menuitem">
-                <Link to={`/elements`}>Elements</Link>
+                <Link to={`/elements`} activeClassName="nav-link-current">
+                  Elements
+                </Link>
               </li>
             </ul>
           </nav>
@@ -48,29 +54,29 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="https://www.linkedin.com/in/spk2dc/"
+                title="LinkedIn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                LinkedIn
               </a>
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href="mailto:spk2dc@virginia.edu"
+                title="email"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                Email
               </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
+              <a
+                href="https://github.com/spk2dc"
+                title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                RSS
-              </Link>
+                GitHub
+              </a>
             </div>
           </div>
         </div>

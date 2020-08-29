@@ -4,6 +4,8 @@ import { graphql, StaticQuery } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PostCard from "../components/postCard"
+import Author from "../components/author"
+import Img from "gatsby-image"
 
 // import "../utils/global.scss"
 import "../utils/normalize.css"
@@ -16,22 +18,28 @@ const BlogIndex = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO
-        title="All posts"
-        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
-      />
+      <SEO title="Home" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
-        <div className="header-container jumbotron">
+        <div
+          className="header-container jumbotron"
+          style={{
+            backgroundImage: `url(${data.landingPic.childImageSharp.fluid.src})`,
+          }}
+        >
+          {/* <Img fluid={data.landingPic.childImageSharp.fluid} className="" /> */}
           <div className="container">
-            <div className="card header-text">
+            <div className="card header-text my-4">
               <h1>Senthil Kannan</h1>
               <h2>Software Developer. Jet Engineer. World Traveler.</h2>
             </div>
           </div>
         </div>
       )}
-      <div className="post-feed">
+
+      <Author />
+
+      {/* <div className="post-feed">
         {posts.map(({ node }) => {
           postCounter++
           return (
@@ -43,7 +51,7 @@ const BlogIndex = ({ data }, location) => {
             />
           )
         })}
-      </div>
+      </div> */}
     </Layout>
   )
 }
@@ -54,6 +62,13 @@ const indexQuery = graphql`
       siteMetadata {
         title
         description
+      }
+    }
+    landingPic: file(relativePath: { eq: "Jeju_Hallasan_Mountain.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
+        }
       }
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
@@ -71,6 +86,7 @@ const indexQuery = graphql`
               childImageSharp {
                 fluid(maxWidth: 1360) {
                   ...GatsbyImageSharpFluid
+                  src
                 }
               }
             }
