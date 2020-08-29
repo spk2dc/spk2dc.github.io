@@ -213,6 +213,17 @@ export default function Skills() {
 
               <div className="col-lg-2 col-sm-4 text-center">
                 <a
+                  href="https://icons8.com/icon/31085/heroku"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/heroku.png" />
+                  <p>Heroku</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
                   href="https://icons8.com/icon/17842/linux"
                   target="_blank"
                   rel="noreferrer"
@@ -230,6 +241,58 @@ export default function Skills() {
                 >
                   <img src="https://img.icons8.com/plasticine/96/000000/android-os.png" />
                   <p>Android</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/19978/slack"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/slack.png" />
+                  <p>Slack</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icons8.com/icon/19292/console"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src="https://img.icons8.com/color/96/000000/console.png" />
+                  <p>Bash</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://www.cleanpng.com/png-flask-python-web-framework-representational-state-6384161/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src={data.icon_flask.childImageSharp.fluid.src}
+                    height="96"
+                    width="96"
+                  />
+                  <p>Python Flask</p>
+                </a>
+              </div>
+
+              <div className="col-lg-2 col-sm-4 text-center">
+                <a
+                  href="https://icon-icons.com/icon/file-type-ejs/130626"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img
+                    src={data.icon_ejs.childImageSharp.fluid.src}
+                    height="96"
+                    width="96"
+                  />
+                  <p>EJS</p>
                 </a>
               </div>
 
@@ -342,6 +405,22 @@ const skillQuery = graphql`
         author
         social {
           twitter
+        }
+      }
+    }
+
+    icon_flask: file(relativePath: { eq: "icon-flask.png" }) {
+      childImageSharp {
+        fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+
+    icon_ejs: file(relativePath: { eq: "icon-ejs.png" }) {
+      childImageSharp {
+        fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
         }
       }
     }
