@@ -7,25 +7,25 @@
 
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
+import Img from "gatsby-image"
 
 function Author() {
   return (
     <StaticQuery
-      query={bioQuery}
+      query={authorQuery}
       render={data => {
         const { author, social } = data.site.siteMetadata
         return (
-          <div class="container">
-            <div class="row">
-              <div class="col-md-6">
-                <h2 class="header-light regular-pad">About Me</h2>
-                <p class="lead">
+          <div className="container">
+            <div className="row">
+              <div className="col-md-6">
+                <h2 className="header-light regular-pad">About Me</h2>
+                <p className="lead">
                   Hello and welcome to my portfolio! Here you can explore my
                   website to get a better understanding of my background,
                   projects, and experience.
                 </p>
-                <p class="lead">
+                <p className="lead">
                   I'm an engineer who's passionate about full stack software
                   development and robotics, with experience working in the
                   aerospace industry. I have used the skills I learned minoring
@@ -36,15 +36,17 @@ function Author() {
                   develop this knowledge and gain experience with modern
                   industry standard tools and practices.
                 </p>
-                <p class="lead">
+                <p className="lead">
                   When not at work I often enjoy traveling to other countries
                   and most recently backpacked in Asia for 5 months!
                 </p>
               </div>
-              <div class="col-md-6 text-center">
-                <div class="panel panel-default portrait">
-                  {/* <img src="{{ "/assets/img/miscellaneous/portrait-semi-professional.jpg"
-                  | relative_url }}" alt="Jekyll logo" class="img-responsive"> */}
+              <div className="col-md-6 text-center">
+                <div className="panel panel-default portrait">
+                  <Img
+                    fluid={data.profilePic.childImageSharp.fluid}
+                    className="img-responsive"
+                  />
                 </div>
               </div>
             </div>
@@ -52,17 +54,17 @@ function Author() {
 
             {/* {% include skills.html %} */}
 
-            <div class="panel panel-default">
-              <h3 class="text-center">CONTACT</h3>
-              <hr class="divider px-4" />
-              <div class="row">
+            <div className="panel panel-default">
+              <h3 className="text-center">CONTACT</h3>
+              <hr className="divider px-4" />
+              <div className="row">
                 <a
                   href="https://www.linkedin.com/in/spk2dc/"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <div class="col-lg-4 col-xs-4 text-center">
-                    <i class="fab fa-linkedin fa-7x" aria-hidden="true"></i>
+                  <div className="col-lg-4 col-xs-4 text-center">
+                    <i className="fab fa-linkedin fa-7x" aria-hidden="true"></i>
                     <p>LinkedIn</p>
                   </div>
                 </a>
@@ -72,9 +74,9 @@ function Author() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <div class="col-lg-4 col-xs-4 text-center">
+                  <div className="col-lg-4 col-xs-4 text-center">
                     <i
-                      class="fa fa-envelope-square fa-7x"
+                      className="fa fa-envelope-square fa-7x"
                       aria-hidden="true"
                     ></i>
                     <p>Email</p>
@@ -86,9 +88,9 @@ function Author() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <div class="col-lg-4 col-xs-4 text-center">
+                  <div className="col-lg-4 col-xs-4 text-center">
                     <i
-                      class="fab fa-github-square fa-7x"
+                      className="fab fa-github-square fa-7x"
                       aria-hidden="true"
                     ></i>
                     <p>GitHub</p>
@@ -103,8 +105,8 @@ function Author() {
   )
 }
 
-const bioQuery = graphql`
-  query BioQuery {
+const authorQuery = graphql`
+  query AuthorQuery {
     avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
@@ -117,6 +119,13 @@ const bioQuery = graphql`
         author
         social {
           twitter
+        }
+      }
+    }
+    profilePic: file(relativePath: { eq: "portrait-semi-professional.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1360) {
+          ...GatsbyImageSharpFluid
         }
       }
     }

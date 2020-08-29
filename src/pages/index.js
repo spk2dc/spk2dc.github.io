@@ -4,6 +4,7 @@ import { graphql, StaticQuery } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PostCard from "../components/postCard"
+import Author from "../components/author"
 
 // import "../utils/global.scss"
 import "../utils/normalize.css"
@@ -31,7 +32,12 @@ const BlogIndex = ({ data }, location) => {
           </div>
         </div>
       )}
-      <div className="post-feed">
+
+      <div className="author">
+        <Author></Author>
+      </div>
+
+      {/* <div className="post-feed">
         {posts.map(({ node }) => {
           postCounter++
           return (
@@ -43,7 +49,7 @@ const BlogIndex = ({ data }, location) => {
             />
           )
         })}
-      </div>
+      </div> */}
     </Layout>
   )
 }
