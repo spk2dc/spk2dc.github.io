@@ -26,7 +26,6 @@ const BlogIndex = ({ data }, location) => {
             backgroundImage: `url(${data.landingPic.childImageSharp.fluid.src})`,
           }}
         >
-          {/* <Img fluid={data.landingPic.childImageSharp.fluid} className="" /> */}
           <div className="container">
             <div className="card header-text my-4">
               <h1>Senthil Kannan</h1>
@@ -67,6 +66,7 @@ const indexQuery = graphql`
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
+          src
         }
       }
     }

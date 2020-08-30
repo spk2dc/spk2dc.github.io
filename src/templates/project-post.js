@@ -33,6 +33,7 @@ class ProjectPostTemplate extends React.Component {
               class="button primary large mx-5"
               href={post.frontmatter.link_live}
               target="_blank"
+              rel="noopener noreferrer"
             >
               <i class="fas fa-external-link-alt" aria-hidden="true">
                 <b> Live Site</b>
@@ -44,6 +45,7 @@ class ProjectPostTemplate extends React.Component {
               class="button primary large mx-5"
               href={post.frontmatter.link_git}
               target="_blank"
+              rel="noopener noreferrer"
             >
               <i class="fab fa-github" aria-hidden="true">
                 <b> GitHub</b>
