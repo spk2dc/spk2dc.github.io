@@ -78,8 +78,9 @@ const indexQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
             title
+            date(formatString: "MMMM DD, YYYY")
+            category
             description
             thumbnail {
               childImageSharp {
