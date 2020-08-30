@@ -8,8 +8,6 @@ link_git: https://github.com/spk2dc/TripStatistics#trip-statistics
 description: Google Maps integrated site where you can analyze your location history data and see an overview of where you visited and what you did on your last trip.
 ---
 
-### [Google Maps Trip Statistics](https://tripstatistics.herokuapp.com/)
-
 #### Technologies
 
 - React Frontend
@@ -34,18 +32,15 @@ description: Google Maps integrated site where you can analyze your location his
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./BLACK_II_desktop-1.jpg)
+![TripStatistics](./trip_statistics_14.png)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-full">
-
-![Darkness](./BLACK_IX_desktop-1.jpg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-full">
-
-![Darkness](./BLACK_I_desktop-1.jpg)
-
+<div class="thumbnail">
+    <div class="image">
+    </div>
+    <div class="caption">
+    <h3>Landing Page</h3>
+    <p>Displays the landing page to login/register and a link to download your Google Maps location history data</p>
+    </div>
 </div>
