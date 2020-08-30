@@ -15,7 +15,6 @@ function Author() {
     <StaticQuery
       query={authorQuery}
       render={data => {
-        const { author, social } = data.site.siteMetadata
         return (
           <div className="">
             <div className="row">
@@ -66,7 +65,10 @@ function Author() {
                     rel="noreferrer"
                   >
                     {/* <i className="fab fa-linkedin fa-7x" aria-hidden="true"></i> */}
-                    <img src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
+                    <img
+                      src="https://img.icons8.com/fluent/96/000000/linkedin.png"
+                      alt="linkedin"
+                    />
                     <p>LinkedIn</p>
                   </a>
                 </div>
@@ -81,7 +83,10 @@ function Author() {
                       className="fa fa-envelope-square fa-7x"
                       aria-hidden="true"
                     ></i> */}
-                    <img src="https://img.icons8.com/material/96/000000/new-post--v1.png" />
+                    <img
+                      src="https://img.icons8.com/material/96/000000/new-post--v1.png"
+                      alt="email"
+                    />
                     <p>Email</p>
                   </a>
                 </div>
@@ -96,7 +101,10 @@ function Author() {
                       className="fab fa-github-square fa-7x"
                       aria-hidden="true"
                     ></i> */}
-                    <img src="https://img.icons8.com/fluent/96/000000/github.png" />
+                    <img
+                      src="https://img.icons8.com/fluent/96/000000/github.png"
+                      alt="github"
+                    />
                     <p>GitHub</p>
                   </a>
                 </div>
