@@ -36,8 +36,6 @@ description: A website integrated with Strava that allows users to import all of
 
 ### Example Images and Descriptions
 
-<br />
-
 <div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./RunAnalyzer_1.png" alt="trip_statistics">
   <div class="card-body">
