@@ -33,7 +33,7 @@ const ResumePage = ({ data }, location) => {
             </a>
           </div>
 
-          <figure className="kg-card kg-image-card">
+          <figure className="kg-card kg-image-card border border-dark">
             <Img
               fluid={data.resumePic.childImageSharp.fluid}
               className="kg-image"
