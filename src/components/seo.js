@@ -34,6 +34,13 @@ function SEO({ description, lang, meta, keywords, title }) {
       }}
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
+      link={{
+        rel: "stylesheet",
+        href: "https://use.fontawesome.com/releases/v5.14.0/css/all.css",
+        integrity:
+          "sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc",
+        crossorigin: "anonymous",
+      }}
       meta={[
         {
           name: `description`,

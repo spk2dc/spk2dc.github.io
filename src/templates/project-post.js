@@ -28,17 +28,17 @@ class ProjectPostTemplate extends React.Component {
           )}
 
           {/* Button for live site */}
-          <div class="m-2">
-            <a class="btn btn-sm btn-success" href="" target="_blank">
-              <i class="fa fa-external-link" aria-hidden="true">
+          <div class="m-2 text-center">
+            <a class="button primary large mx-5" href="" target="_blank">
+              <i class="fas fa-external-link-alt" aria-hidden="true">
                 {" "}
                 Live site
               </i>
             </a>
 
             {/* Button for github */}
-            <a class="btn btn-sm btn-success" href="" target="_blank">
-              <i class="fa fa-github" aria-hidden="true">
+            <a class="button primary large mx-5" href="" target="_blank">
+              <i class="fab fa-github" aria-hidden="true">
                 {" "}
                 GitHub
               </i>
