@@ -32,15 +32,14 @@ description: Google Maps integrated site where you can analyze your location his
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![TripStatistics](./trip_statistics_14.png)
+![TripStatistics](./trip_statistics_1.png)
 
 </div>
 
-<div class="thumbnail">
-    <div class="image">
-    </div>
-    <div class="caption">
-    <h3>Landing Page</h3>
-    <p>Displays the landing page to login/register and a link to download your Google Maps location history data</p>
-    </div>
+<div class="card bg-light mb-3 p-2">
+  <img class="card-img-top border my-1" src="./trip_statistics_1.png" alt="trip_statistics">
+  <div class="card-body">
+    <h5 class="card-title">Landing Page</h5>
+    <p class="card-text">Displays the landing page to login/register and a link to download your Google Maps location history data</p>
+  </div>
 </div>
