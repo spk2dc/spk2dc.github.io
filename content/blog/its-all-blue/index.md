@@ -1,6 +1,7 @@
 ---
 title: It's all blue
 date: "2019-05-06"
+category: "blog_post"
 thumbnail: ./cody-davis-253928-unsplash.jpg
 description: What if everything you knew was turned to blue?
 ---
