@@ -77,9 +77,18 @@ module.exports = {
       resolve: `gatsby-plugin-purgecss`,
       options: {
         printRejected: true, // Print removed selectors and processed file names
+        content: [
+          path.join(process.cwd(), "src/**/!(*.d).{ts,js,jsx,tsx}"),
+          path.join(
+            process.cwd(),
+            "node_modules/bootstrap/**/!(*.d).{ts,js,jsx,tsx}"
+          ),
+        ],
         // develop: true, // Enable while using `gatsby develop`
         // tailwind: true, // Enable tailwindcss support
         // whitelist: ['whitelist'], // Don't remove this selector
+        whitelistPatterns: [/^btn/],
+        whitelistPatternsChildren: [/^m/, /^p/],
         // ignore: ['/ignored.css', 'prismjs/', 'docsearch.js/'], // Ignore files/folders
         // purgeOnly : ['components/', '/main.css', 'bootstrap/'], // Purge only these files/folders
       },
