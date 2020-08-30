@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://spk2dc.github.io/portfolio</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 30 Aug 2020 19:51:29 GMT</lastBuildDate><item><title><![CDATA[Battleship]]></title><description><![CDATA[Technologies MERN stack (Mongo, Express, React, Node) HTML CSS Bootstrap JavaScript Features Event listeners and handlers Document Object…]]></description><link>https://spk2dc.github.io/portfolio/battleship/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/battleship/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://spk2dc.github.io/portfolio</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 30 Aug 2020 20:29:28 GMT</lastBuildDate><item><title><![CDATA[Battleship]]></title><description><![CDATA[Technologies MERN stack (Mongo, Express, React, Node) HTML CSS Bootstrap JavaScript Features Event listeners and handlers Document Object…]]></description><link>https://spk2dc.github.io/portfolio/battleship/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/battleship/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;MERN stack (Mongo, Express, React, Node)&lt;/li&gt;
 &lt;li&gt;HTML&lt;/li&gt;
@@ -389,158 +389,6 @@
   &lt;div class=&quot;card-body&quot;&gt;
     &lt;h5 class=&quot;card-title&quot;&gt;Custom Note Displayed&lt;/h5&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Spotify Track Filter]]></title><description><![CDATA[Technologies HTML website CSS styling and animations jQuery and vanilla JavaScript AJAX requests to pull external data from Spotify API…]]></description><link>https://spk2dc.github.io/portfolio/spotify_filter/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/spotify_filter/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;HTML website&lt;/li&gt;
-&lt;li&gt;CSS styling and animations&lt;/li&gt;
-&lt;li&gt;jQuery and vanilla JavaScript&lt;/li&gt;
-&lt;li&gt;AJAX requests to pull external data from Spotify API&lt;/li&gt;
-&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
-&lt;li&gt;Event listeners and handlers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Features&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Spotify API Integration&lt;/li&gt;
-&lt;li&gt;Event listeners and handlers&lt;/li&gt;
-&lt;li&gt;jQuery &amp;#x26; Document Object Model (DOM) manipulation&lt;/li&gt;
-&lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br /&gt;
-&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e957c/SpotifyFilter_5.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB5UlEQVQoz22Sy5LTMBBF/RvDAIlfkvyKZUt2HMf2hLwzkOELYE2xABYzUPDzl5acpFiwONWyr/rW7badu0OE5Os7NL8/ong5Qb4cLernI/wfA6JfW2R/jhb+vIb7rYP3vb8x/bLA208a0881vH0OhwUMsS/gvprAv59avAvBvYtBL3F82OG02qNOS/h3E7DXPuGNvKHzxBDA93w47dDh/HRGqRUKVUJXGrqu7LNhJnNk+YzIIAtJmrZcdVWpsYcIRAgnkzOsVivUdY1KV6iqisSxXjGaQUqJPM//i9G8kBLmpcR2s0HbtlgsFpamaWxtF+O7drm0VcoCZVGiKAqLUspSljSZ0qMhi7g1WFLTMAzo+x4dcT0bjNZ1nb1nDExqUxljNzjnmHhTOHGaYLfZYkMpTaOFmrsL/cXcYKaYzxtibg2FEDeiKMLUd+GILMb6sEU/UDKTZNmNpu14rrSGzCUKGlfRaKZyShSGIQQXFpMuEhdDVzKIB4moTBFnyY1kliJKY7sXgxt4tpoV8VhY2BV6J5IIE2tIF80OQh7SZ6d6wecBUvpVHp8+YL3f4HR+j93pAJ6I8Q6ZjIz3WUw79GmHPgtsXBvf7INWINIInIjzBKqhkasSaq5R1MrqRhNXTM8/I/8FflBbcOqPUWcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/51a8e/SpotifyFilter_5.webp 340w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/713b7/SpotifyFilter_5.webp 680w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/54376/SpotifyFilter_5.webp 1360w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e0aab/SpotifyFilter_5.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/ad208/SpotifyFilter_5.png 340w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/a5a26/SpotifyFilter_5.png 680w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/60356/SpotifyFilter_5.png 1360w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e957c/SpotifyFilter_5.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/60356/SpotifyFilter_5.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Landing Page&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Displays the instructions for how to use the site&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e957c/SpotifyFilter_4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB8UlEQVQoz5WQy27TQBiF+xjcktgeey62YztxHV/HTkqoKgUQVVWlElIvtIWyqMSGSLAA3oAFq2541cPM1EgVSEUsPh3L0vl8/G9Z+xPExx2SswXGJx3isznGivC0hTiXaD6+Qv5hBbnZx/b1HlbfjnH98wve3XzC1c1nvP2xwfvvGxx9vcRoN8QWGTmgIxfeQCcBHRB4D214DyyEQ46nsw7zaY2lSpkUSEWMNqvRpCVkURu6WiJPMxDbUULmgvtCwcEFh7dMEBxW8A8K2C8niNYS2ZtnyE6WSI5a2C8mIKsJnFUCe0LhOA5s4sB1XVDl2CJUCTk3UEoxPqggr54jWFeITueoLvbgHc4wO99F+noBus4hLiT4pQRtInDKzBDd9zi9I2S3L7Iqx07ZYUx9yKxCmzcIXYGuaMAsz0CL0MAiH0x1GWMQXMAi9t/CfFGjbVtzhlo2kF0LPwj6VAK1hnUx6DwGS3zVY/cIGUW506AsChB1k0YLWwnf99E0DYQQahED7SIDi/8lVAtnXYlFNzeSulJrpVomfJO6pMusHpv76YXsPiFVX4+rFGmZmftMi21M1bOIA5Nc30xTR7eYhX/c0PGIEZov6d8JlNjvs4f9zvAO/Xvd0V3tsBwlfGwNMCAjDJwe8p/0vSGx8Gj4BL8AKktYuwKF+AcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/51a8e/SpotifyFilter_4.webp 340w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/713b7/SpotifyFilter_4.webp 680w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/54376/SpotifyFilter_4.webp 1360w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e0aab/SpotifyFilter_4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/ad208/SpotifyFilter_4.png 340w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/a5a26/SpotifyFilter_4.png 680w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/60356/SpotifyFilter_4.png 1360w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e957c/SpotifyFilter_4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/60356/SpotifyFilter_4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Search Results&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Users can search from anywhere on the page from the navigation bar and see the search results here.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e957c/SpotifyFilter_1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACfElEQVQoz22Sy27TQBSG+xagpm0utmfGjp3ETpukadq4kIbQQBsnXCouBSEVSqVCWVVCILFgwXWBkHgHdqxYsQC2CPEUSCAe4uPYZQESi19n5PH5Zv5/zlQhCalud6ldXyW41qV6Pc5qKr3dpnNng9buaeKDhMbeAPtKC0dkX25la2urQTGJsJN5iv0KU1a+hMrbOHMlnNkjqTkLO1fAni7Su7HB8NFVeg+26E7WcI4Vsn/MnI3JO0cqKLySpjCbF6CWDc9FGU1Yj4jm6+Qti/n2MnHcpTHoEG4s8eLtGy7t7RBGdbonVikHZbRr0J7JqiuMgl0UoLJxjcG2bcJaFU82czOzDM4knJuMaS00qVdCfn3/wfOXr1lcWmY8OU+lEqCUwkiv1loYArT+ALVslH2fd+8/8OXrN548ecr6YMBoNKLf79NsNvn58wePn71isd1hMh4TBEHW9w+wJMCSAFO7btnl2u277B8+5MKly/ROrdHrr9FZWcavBnz6/JGDw/tEjQbrZ9bxKz5KK7T0ZhJn6eWmitpClcWyq8jlpzmeO8bMTE4O8IjqdYJqhTAMZR1JfiG1Wk1AGkc5OGWp3l8SxpTlSIbaYESe8TBxiBkuUB0t0d+bcGp3Qm834eTOJmf3t+jdGuENG+hBhK6XMUpnvalSp1mGaQ6p0pD9c21W742JbpzEbC/RvDmgtLXAws4atSsxxYvzuLtdzO0VVCfAOKnl/wHlg2MUrU6bXjvGt126zQ5xSzK0XOLFFUxRZTOnWpLfoo+ueBns6FEMRbv07w1LjsXwwiZJkuBoh82R2Nw4KzPny0MMZRKOZk+th6ihWK5JRAL7+5V/A1Ccbj8gvAatAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/51a8e/SpotifyFilter_1.webp 340w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/713b7/SpotifyFilter_1.webp 680w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/54376/SpotifyFilter_1.webp 1360w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e0aab/SpotifyFilter_1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/ad208/SpotifyFilter_1.png 340w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/a5a26/SpotifyFilter_1.png 680w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/60356/SpotifyFilter_1.png 1360w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e957c/SpotifyFilter_1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/60356/SpotifyFilter_1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Filter Settings&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Displayed search results can be filtered using any number of options and values desired. Each parameter can be hovered over to display an explanation of its meaning and a graph of the standard distribution of values.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/e957c/SpotifyFilter_2.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB80lEQVQoz42SW0/bQBCF80dISOzd2V1fcyEXcrMhSSsISihWgRYFCVAIQan4/y+n40sAVa3Uh6OZ9Xq+8cxx6XBZR3A3Rn0Vw1+NEP4Yw1x20bo7weTtCqPtBeLdEoPNOaLdAtHrAnTVhr1oQtx2YF+3UVs0snN15qNkVWqQFRuizPGgBmsSoH5/kjVprWeItgs0n6YYvMwx3SWcT2B+DqBue5B1A1UWUFUJXSNUDioMJBvK6EyCJDrfI5y9JThi4PHDFPH6HG7SQcQxSLrQ31pwnodwN0Oovg8iAmkFzfWHdpWBkoFKQZGCUBLtcRdRPIIXOBiO+hhFA/ihx5Eh/MzxDUwUZFKhyYEsrRhopUBhQ1MK5AtFMA0PJnRhu9y1zjlL+ppzF9LjKTxu3HQgWcRnVdS+A6tkQToEYXLZnEuGOa6bjWGMyeXkcoqzSGvcj7pUlhIo1XjkdAfp16VRSAm/EWK+vcbXlwTxI7v8dIH5rxvMni/x5TXB7GGZ7VwWU+0lNX3eIeVR8kWg0d2esctTeOsYweYU5n4Ih2WvupA3HShd1NBHTE19B1IBJAZq38H4eAhPGAyaPRy5DcgyT8K/l0pj4Wy+d/WHKX8Dspudfi/bmR8GXFwAjMrfCcz/AfeXit0jk8P3jbJ3itUQu/4v4G/iHlmG4TSTkAAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/51a8e/SpotifyFilter_2.webp 340w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/713b7/SpotifyFilter_2.webp 680w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/54376/SpotifyFilter_2.webp 1360w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/e0aab/SpotifyFilter_2.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/ad208/SpotifyFilter_2.png 340w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/a5a26/SpotifyFilter_2.png 680w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/60356/SpotifyFilter_2.png 1360w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/e957c/SpotifyFilter_2.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/60356/SpotifyFilter_2.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Filter Results&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;The filtered results are displayed below the filter settings once the run filters button is clicked&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e957c/SpotifyFilter_3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABjklEQVQoz5WSTU/bQBCG+SEtjp31fsbrGJzFcUI+3NgIDqVSJVRSKnrhRiv1XlEOSPzsl9kFcahiCQ6v3p2dnUejmd0bfCmQXy1RXK9hfyxgrxZwNx2+Pt6g/bdF8/ci6OzhGpu7b+jut2jvLsG/T8Euj8AuHJLzA7DzQ8Sdxd4wSsAjhnTf+xDpB3IhMP/zGTNSfttiTHK/T1HeniD/RfHPNWTMIfdTyEEazioRiD5GBBQMUiuSDBKSfGzgVjVMkcEdTzGZUydGIB3J4KxQEIak5KsUMQYsJiAnIEEEdRWcCyhrcLxcIDMjTA5LGG3CvfRvvGfPMB+Ll1olCTjsA+YjHNVVuLN5Dq31az5ArH4fUFLBYr1Cbi2KooAx5j/g7g6jZNAPbNpPmNUzVFX1JqDPDVPWP8PpvIZW+m1A6ecrwZXom6HBpHJ05ijLElmWgTEWvpPP9wJlD1DTUsblAXjKUdc1mqaBcw6WZuoLdy3F18Ys6e8wG1tw6nBNy9lsNui6Dm3bhrmKvm+TxHgC+ipSgV4dPTUAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/51a8e/SpotifyFilter_3.webp 340w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/713b7/SpotifyFilter_3.webp 680w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/54376/SpotifyFilter_3.webp 1360w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e0aab/SpotifyFilter_3.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/ad208/SpotifyFilter_3.png 340w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/a5a26/SpotifyFilter_3.png 680w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/60356/SpotifyFilter_3.png 1360w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e957c/SpotifyFilter_3.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/60356/SpotifyFilter_3.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Audio Analysis&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Each song from either the search results or filtered results can be clicked to display an audio analysis of its values at the bottom of the page.&lt;/p&gt;
-  &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Trip Statistics]]></title><description><![CDATA[Technologies React Frontend Python Flask (backend micro web framework) SQLite3 / PostgreSQL Databases Node JavaScript HTML CSS Bootstrap…]]></description><link>https://spk2dc.github.io/portfolio/trip_statistics/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/trip_statistics/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;React Frontend&lt;/li&gt;
@@ -723,6 +571,158 @@
   &lt;div class=&quot;card-body&quot;&gt;
     &lt;h5 class=&quot;card-title&quot;&gt;Trip Display Page - Map&lt;/h5&gt;
     &lt;p class=&quot;card-text&quot;&gt;Displays details on one selected trip. Interactive heatmap containing all places with markers and labels showing more information&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Spotify Track Filter]]></title><description><![CDATA[Technologies HTML website CSS styling and animations jQuery and vanilla JavaScript AJAX requests to pull external data from Spotify API…]]></description><link>https://spk2dc.github.io/portfolio/spotify_filter/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/spotify_filter/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML website&lt;/li&gt;
+&lt;li&gt;CSS styling and animations&lt;/li&gt;
+&lt;li&gt;jQuery and vanilla JavaScript&lt;/li&gt;
+&lt;li&gt;AJAX requests to pull external data from Spotify API&lt;/li&gt;
+&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spotify API Integration&lt;/li&gt;
+&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;li&gt;jQuery &amp;#x26; Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e957c/SpotifyFilter_5.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB5UlEQVQoz22Sy5LTMBBF/RvDAIlfkvyKZUt2HMf2hLwzkOELYE2xABYzUPDzl5acpFiwONWyr/rW7badu0OE5Os7NL8/ong5Qb4cLernI/wfA6JfW2R/jhb+vIb7rYP3vb8x/bLA208a0881vH0OhwUMsS/gvprAv59avAvBvYtBL3F82OG02qNOS/h3E7DXPuGNvKHzxBDA93w47dDh/HRGqRUKVUJXGrqu7LNhJnNk+YzIIAtJmrZcdVWpsYcIRAgnkzOsVivUdY1KV6iqisSxXjGaQUqJPM//i9G8kBLmpcR2s0HbtlgsFpamaWxtF+O7drm0VcoCZVGiKAqLUspSljSZ0qMhi7g1WFLTMAzo+x4dcT0bjNZ1nb1nDExqUxljNzjnmHhTOHGaYLfZYkMpTaOFmrsL/cXcYKaYzxtibg2FEDeiKMLUd+GILMb6sEU/UDKTZNmNpu14rrSGzCUKGlfRaKZyShSGIQQXFpMuEhdDVzKIB4moTBFnyY1kliJKY7sXgxt4tpoV8VhY2BV6J5IIE2tIF80OQh7SZ6d6wecBUvpVHp8+YL3f4HR+j93pAJ6I8Q6ZjIz3WUw79GmHPgtsXBvf7INWINIInIjzBKqhkasSaq5R1MrqRhNXTM8/I/8FflBbcOqPUWcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/51a8e/SpotifyFilter_5.webp 340w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/713b7/SpotifyFilter_5.webp 680w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/54376/SpotifyFilter_5.webp 1360w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e0aab/SpotifyFilter_5.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/ad208/SpotifyFilter_5.png 340w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/a5a26/SpotifyFilter_5.png 680w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/60356/SpotifyFilter_5.png 1360w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e957c/SpotifyFilter_5.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/60356/SpotifyFilter_5.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Landing Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays the instructions for how to use the site&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e957c/SpotifyFilter_4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB8UlEQVQoz5WQy27TQBiF+xjcktgeey62YztxHV/HTkqoKgUQVVWlElIvtIWyqMSGSLAA3oAFq2541cPM1EgVSEUsPh3L0vl8/G9Z+xPExx2SswXGJx3isznGivC0hTiXaD6+Qv5hBbnZx/b1HlbfjnH98wve3XzC1c1nvP2xwfvvGxx9vcRoN8QWGTmgIxfeQCcBHRB4D214DyyEQ46nsw7zaY2lSpkUSEWMNqvRpCVkURu6WiJPMxDbUULmgvtCwcEFh7dMEBxW8A8K2C8niNYS2ZtnyE6WSI5a2C8mIKsJnFUCe0LhOA5s4sB1XVDl2CJUCTk3UEoxPqggr54jWFeITueoLvbgHc4wO99F+noBus4hLiT4pQRtInDKzBDd9zi9I2S3L7Iqx07ZYUx9yKxCmzcIXYGuaMAsz0CL0MAiH0x1GWMQXMAi9t/CfFGjbVtzhlo2kF0LPwj6VAK1hnUx6DwGS3zVY/cIGUW506AsChB1k0YLWwnf99E0DYQQahED7SIDi/8lVAtnXYlFNzeSulJrpVomfJO6pMusHpv76YXsPiFVX4+rFGmZmftMi21M1bOIA5Nc30xTR7eYhX/c0PGIEZov6d8JlNjvs4f9zvAO/Xvd0V3tsBwlfGwNMCAjDJwe8p/0vSGx8Gj4BL8AKktYuwKF+AcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/51a8e/SpotifyFilter_4.webp 340w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/713b7/SpotifyFilter_4.webp 680w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/54376/SpotifyFilter_4.webp 1360w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e0aab/SpotifyFilter_4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/ad208/SpotifyFilter_4.png 340w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/a5a26/SpotifyFilter_4.png 680w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/60356/SpotifyFilter_4.png 1360w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e957c/SpotifyFilter_4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/60356/SpotifyFilter_4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Search Results&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Users can search from anywhere on the page from the navigation bar and see the search results here.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e957c/SpotifyFilter_1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACfElEQVQoz22Sy27TQBSG+xagpm0utmfGjp3ETpukadq4kIbQQBsnXCouBSEVSqVCWVVCILFgwXWBkHgHdqxYsQC2CPEUSCAe4uPYZQESi19n5PH5Zv5/zlQhCalud6ldXyW41qV6Pc5qKr3dpnNng9buaeKDhMbeAPtKC0dkX25la2urQTGJsJN5iv0KU1a+hMrbOHMlnNkjqTkLO1fAni7Su7HB8NFVeg+26E7WcI4Vsn/MnI3JO0cqKLySpjCbF6CWDc9FGU1Yj4jm6+Qti/n2MnHcpTHoEG4s8eLtGy7t7RBGdbonVikHZbRr0J7JqiuMgl0UoLJxjcG2bcJaFU82czOzDM4knJuMaS00qVdCfn3/wfOXr1lcWmY8OU+lEqCUwkiv1loYArT+ALVslH2fd+8/8OXrN548ecr6YMBoNKLf79NsNvn58wePn71isd1hMh4TBEHW9w+wJMCSAFO7btnl2u277B8+5MKly/ROrdHrr9FZWcavBnz6/JGDw/tEjQbrZ9bxKz5KK7T0ZhJn6eWmitpClcWyq8jlpzmeO8bMTE4O8IjqdYJqhTAMZR1JfiG1Wk1AGkc5OGWp3l8SxpTlSIbaYESe8TBxiBkuUB0t0d+bcGp3Qm834eTOJmf3t+jdGuENG+hBhK6XMUpnvalSp1mGaQ6p0pD9c21W742JbpzEbC/RvDmgtLXAws4atSsxxYvzuLtdzO0VVCfAOKnl/wHlg2MUrU6bXjvGt126zQ5xSzK0XOLFFUxRZTOnWpLfoo+ueBns6FEMRbv07w1LjsXwwiZJkuBoh82R2Nw4KzPny0MMZRKOZk+th6ihWK5JRAL7+5V/A1Ccbj8gvAatAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/51a8e/SpotifyFilter_1.webp 340w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/713b7/SpotifyFilter_1.webp 680w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/54376/SpotifyFilter_1.webp 1360w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e0aab/SpotifyFilter_1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/ad208/SpotifyFilter_1.png 340w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/a5a26/SpotifyFilter_1.png 680w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/60356/SpotifyFilter_1.png 1360w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e957c/SpotifyFilter_1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/60356/SpotifyFilter_1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Filter Settings&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displayed search results can be filtered using any number of options and values desired. Each parameter can be hovered over to display an explanation of its meaning and a graph of the standard distribution of values.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/e957c/SpotifyFilter_2.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB80lEQVQoz42SW0/bQBCF80dISOzd2V1fcyEXcrMhSSsISihWgRYFCVAIQan4/y+n40sAVa3Uh6OZ9Xq+8cxx6XBZR3A3Rn0Vw1+NEP4Yw1x20bo7weTtCqPtBeLdEoPNOaLdAtHrAnTVhr1oQtx2YF+3UVs0snN15qNkVWqQFRuizPGgBmsSoH5/kjVprWeItgs0n6YYvMwx3SWcT2B+DqBue5B1A1UWUFUJXSNUDioMJBvK6EyCJDrfI5y9JThi4PHDFPH6HG7SQcQxSLrQ31pwnodwN0Oovg8iAmkFzfWHdpWBkoFKQZGCUBLtcRdRPIIXOBiO+hhFA/ihx5Eh/MzxDUwUZFKhyYEsrRhopUBhQ1MK5AtFMA0PJnRhu9y1zjlL+ppzF9LjKTxu3HQgWcRnVdS+A6tkQToEYXLZnEuGOa6bjWGMyeXkcoqzSGvcj7pUlhIo1XjkdAfp16VRSAm/EWK+vcbXlwTxI7v8dIH5rxvMni/x5TXB7GGZ7VwWU+0lNX3eIeVR8kWg0d2esctTeOsYweYU5n4Ih2WvupA3HShd1NBHTE19B1IBJAZq38H4eAhPGAyaPRy5DcgyT8K/l0pj4Wy+d/WHKX8Dspudfi/bmR8GXFwAjMrfCcz/AfeXit0jk8P3jbJ3itUQu/4v4G/iHlmG4TSTkAAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/51a8e/SpotifyFilter_2.webp 340w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/713b7/SpotifyFilter_2.webp 680w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/54376/SpotifyFilter_2.webp 1360w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/e0aab/SpotifyFilter_2.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/ad208/SpotifyFilter_2.png 340w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/a5a26/SpotifyFilter_2.png 680w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/60356/SpotifyFilter_2.png 1360w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/e957c/SpotifyFilter_2.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/60356/SpotifyFilter_2.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Filter Results&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;The filtered results are displayed below the filter settings once the run filters button is clicked&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e957c/SpotifyFilter_3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABjklEQVQoz5WSTU/bQBCG+SEtjp31fsbrGJzFcUI+3NgIDqVSJVRSKnrhRiv1XlEOSPzsl9kFcahiCQ6v3p2dnUejmd0bfCmQXy1RXK9hfyxgrxZwNx2+Pt6g/bdF8/ci6OzhGpu7b+jut2jvLsG/T8Euj8AuHJLzA7DzQ8Sdxd4wSsAjhnTf+xDpB3IhMP/zGTNSfttiTHK/T1HeniD/RfHPNWTMIfdTyEEazioRiD5GBBQMUiuSDBKSfGzgVjVMkcEdTzGZUydGIB3J4KxQEIak5KsUMQYsJiAnIEEEdRWcCyhrcLxcIDMjTA5LGG3CvfRvvGfPMB+Ll1olCTjsA+YjHNVVuLN5Dq31az5ArH4fUFLBYr1Cbi2KooAx5j/g7g6jZNAPbNpPmNUzVFX1JqDPDVPWP8PpvIZW+m1A6ecrwZXom6HBpHJ05ijLElmWgTEWvpPP9wJlD1DTUsblAXjKUdc1mqaBcw6WZuoLdy3F18Ys6e8wG1tw6nBNy9lsNui6Dm3bhrmKvm+TxHgC+ipSgV4dPTUAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/51a8e/SpotifyFilter_3.webp 340w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/713b7/SpotifyFilter_3.webp 680w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/54376/SpotifyFilter_3.webp 1360w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e0aab/SpotifyFilter_3.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/ad208/SpotifyFilter_3.png 340w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/a5a26/SpotifyFilter_3.png 680w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/60356/SpotifyFilter_3.png 1360w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e957c/SpotifyFilter_3.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/60356/SpotifyFilter_3.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Audio Analysis&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Each song from either the search results or filtered results can be clicked to display an audio analysis of its values at the bottom of the page.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc Denis I used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://spk2dc.github.io/portfolio/darkness/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
