@@ -1,7 +1,7 @@
 ---
 title: Trip Statistics
 date: "2020-08-26"
-category: "project_page"
+category: "project_post"
 thumbnail: ./trip_statistics_14.png
 description: Google Maps integrated site where you can analyze your location history data and see an overview of where you visited and what you did on your last trip.
 ---
