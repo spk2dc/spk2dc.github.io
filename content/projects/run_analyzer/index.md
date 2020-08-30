@@ -38,7 +38,7 @@ description: A website integrated with Strava that allows users to import all of
 
 <br />
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./RunAnalyzer_1.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Sign In Page</h5>
@@ -46,7 +46,7 @@ description: A website integrated with Strava that allows users to import all of
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./RunAnalyzer_2.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Authorization Page</h5>
@@ -54,7 +54,7 @@ description: A website integrated with Strava that allows users to import all of
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./RunAnalyzer_4.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">User Overview Page</h5>
@@ -62,7 +62,7 @@ description: A website integrated with Strava that allows users to import all of
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./RunAnalyzer_6.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Activity Show Page</h5>
@@ -70,7 +70,7 @@ description: A website integrated with Strava that allows users to import all of
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./RunAnalyzer_7.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Activity Show Page Metric/Imperial</h5>
@@ -78,14 +78,14 @@ description: A website integrated with Strava that allows users to import all of
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./RunAnalyzer_9.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Add Custom Note</h5>
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./RunAnalyzer_10.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Custom Note Displayed</h5>
