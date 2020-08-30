@@ -2,14 +2,19 @@
 
 [Go to the live website](https://spk2dc.github.io/)
 
-Hello and welcome to my portfolio! Here you can explore my website to get a better understanding of my background, projects, and experience.
+Hello and welcome to my portfolio built with Gatsby! Here you can explore my website to get a better understanding of my background, projects, and experience.
 
 [LinkedIn](https://www.linkedin.com/in/spk2dc/)
 
-I also have an older portfolio with some additional details on my mechanical engineering projects from college that can be seen on the site linked below.
+---
+
+I also have an old portfolio built with Jekyll that has some additional details on my mechanical engineering projects that can be seen on the site linked below.
 
 [Old Portfolio](https://spk2dc.github.io/portfolio)
-[Super Old Portfolio](https://spk2dc.wixsite.com/portfolio)
+
+And I have a super old portfolio built with Wix from back in college that I keep around just for nostalgia.
+
+[Super Old College Portfolio](https://spk2dc.wixsite.com/portfolio)
 
 ---
 
