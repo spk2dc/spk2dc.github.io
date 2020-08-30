@@ -28,9 +28,7 @@ description: Built website to search Spotify for a keyword or specific album/pla
 
 ### Example Images and Descriptions
 
-<br />
-
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./SpotifyFilter_5.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Landing Page</h5>
@@ -38,7 +36,7 @@ description: Built website to search Spotify for a keyword or specific album/pla
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./SpotifyFilter_4.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Search Results</h5>
@@ -46,7 +44,7 @@ description: Built website to search Spotify for a keyword or specific album/pla
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./SpotifyFilter_1.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Filter Settings</h5>
@@ -54,7 +52,7 @@ description: Built website to search Spotify for a keyword or specific album/pla
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./SpotifyFilter_2.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Filter Results</h5>
@@ -62,7 +60,7 @@ description: Built website to search Spotify for a keyword or specific album/pla
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./SpotifyFilter_3.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Audio Analysis</h5>

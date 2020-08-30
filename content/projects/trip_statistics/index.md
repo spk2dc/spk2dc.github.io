@@ -32,9 +32,7 @@ description: Google Maps integrated site where you can analyze your location his
 
 ### Example Images and Descriptions
 
-<br />
-
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./trip_statistics_1.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Landing Page</h5>
@@ -42,7 +40,7 @@ description: Google Maps integrated site where you can analyze your location his
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./trip_statistics_4.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">User Profile</h5>
@@ -50,7 +48,7 @@ description: Google Maps integrated site where you can analyze your location his
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./trip_statistics_6.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">New Trip</h5>
@@ -58,7 +56,7 @@ description: Google Maps integrated site where you can analyze your location his
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./trip_statistics_7.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">All Trips</h5>
@@ -66,7 +64,7 @@ description: Google Maps integrated site where you can analyze your location his
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./trip_statistics_8.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Trip Display Page - Data</h5>
@@ -74,7 +72,7 @@ description: Google Maps integrated site where you can analyze your location his
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./trip_statistics_14.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Trip Display Page - Map</h5>

@@ -30,9 +30,7 @@ description: Created an online version of the popular classic boardgame Battlesh
 
 ### Example Images and Descriptions
 
-<br />
-
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./Battleship1.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Landing Page</h5>
@@ -40,14 +38,14 @@ description: Created an online version of the popular classic boardgame Battlesh
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./Battleship3.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Sign Up Page</h5>
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./Battleship4.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Home Page</h5>
@@ -55,14 +53,14 @@ description: Created an online version of the popular classic boardgame Battlesh
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./Battleship5.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">New Game Page</h5>
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./Battleship7.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Ship Placement</h5>
@@ -70,7 +68,7 @@ description: Created an online version of the popular classic boardgame Battlesh
   </div>
 </div>
 
-<div class="card bg-light mb-3 p-2">
+<div class="card bg-light my-5 p-2">
   <img class="card-img-top border my-1" src="./Battleship9.png" alt="trip_statistics">
   <div class="card-body">
     <h5 class="card-title">Game Play</h5>
