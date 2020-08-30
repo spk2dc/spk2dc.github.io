@@ -34,13 +34,17 @@ function SEO({ description, lang, meta, keywords, title }) {
       }}
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
-      link={{
-        rel: "stylesheet",
-        href: "https://use.fontawesome.com/releases/v5.14.0/css/all.css",
-        integrity:
-          "sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc",
-        crossorigin: "anonymous",
-      }}
+      link={[
+        {
+          rel: "stylesheet",
+          href: "https://use.fontawesome.com/releases/v5.14.0/css/all.css",
+          integrity:
+            "sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc",
+          crossorigin: "anonymous",
+        },
+      ]}
+      // source for syntax to add a link: https://nckweb.com.ar/gatsby-canonical-urls-react-helmet/
+
       meta={[
         {
           name: `description`,
