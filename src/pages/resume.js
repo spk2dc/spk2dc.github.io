@@ -20,7 +20,7 @@ const ResumePage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 className="override-h2">Resume</h2>
+          <h2 className="override-h2">RESUME</h2>
 
           <div className="text-center mt-4">
             <a
