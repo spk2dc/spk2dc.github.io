@@ -8,7 +8,7 @@ link_git: https://github.com/spk2dc/TripStatistics#trip-statistics
 description: Google Maps integrated site where you can analyze your location history data and see an overview of where you visited and what you did on your last trip.
 ---
 
-#### Technologies
+### Technologies
 
 - React Frontend
 - Python Flask (backend micro web framework)
@@ -19,7 +19,7 @@ description: Google Maps integrated site where you can analyze your location his
 - CSS
 - Bootstrap
 
-#### Features
+### Features
 
 - Google Maps API Integration
 - Event listeners and handlers
@@ -27,6 +27,10 @@ description: Google Maps integrated site where you can analyze your location his
 - Asynchronous JavaScript with async and await
 - User information storage and password encryption using Flask Bcrypt
 - User sign up and log in functionality
+
+<br />
+
+### Example Images and Descriptions
 
 <br />
 
