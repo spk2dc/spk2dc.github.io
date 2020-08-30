@@ -7,7 +7,6 @@
 
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
-import Img from "gatsby-image"
 
 export default function Skills() {
   return (
@@ -16,10 +15,10 @@ export default function Skills() {
       render={data => {
         const { author, social } = data.site.siteMetadata
         return (
-          <div class="card my-4">
-            <h3 class="text-center my-2">SKILLS</h3>
-            <hr class="my-2" />
-            <div class="row skills-body">
+          <div className="card my-4">
+            <h3 className="text-center my-2">SKILLS</h3>
+            <hr className="my-2" />
+            <div className="row skills-body">
               <div className="col-lg-2 col-sm-4 text-center">
                 <a
                   href="https://icons8.com/icon/13679/java"
