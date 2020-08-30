@@ -11,8 +11,6 @@ I also have an older portfolio with some additional details on my mechanical eng
 [Old Portfolio](https://spk2dc.github.io/portfolio)
 [Super Old Portfolio](https://spk2dc.wixsite.com/portfolio)
 
-[Original Jekyll Template](https://aksakalli.github.io/jekyll-doc-theme/) is the theme this site is based off of.
-
 ---
 
 **Template theme this site is based off of:**
