@@ -4,71 +4,83 @@ import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import PostCard from "../components/postCard"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
 const ProjectsPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
+  const posts = data.allMarkdownRemark.edges
+  let postCounter = 0
 
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Resume"
-        keywords={[`resume`, `gatsby`, `javascript`, `react`]}
+        title="Projects"
+        keywords={[`projects`, `gatsby`, `javascript`, `react`]}
       />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 className="override-h2">Resume</h2>
+          <h2 className="mb-5">PROJECTS</h2>
 
-          <div className="text-center mt-4">
-            <a
-              className="button primary mt-4"
-              href={data.resumeFile.publicURL}
-              target="_blank"
-              rel="noreferrer"
-            >
-              Download PDF
-            </a>
+          <div className="post-feed">
+            {posts.map(({ node }) => {
+              postCounter++
+              return (
+                <PostCard
+                  key={node.fields.slug}
+                  count={postCounter}
+                  node={node}
+                  postClass={`post`}
+                />
+              )
+            })}
           </div>
-
-          <figure className="kg-card kg-image-card">
-            <Img
-              fluid={data.resumePic.childImageSharp.fluid}
-              className="kg-image"
-            />
-          </figure>
         </div>
       </article>
     </Layout>
   )
 }
 
-const indexQuery = graphql`
+const projectsQuery = graphql`
   query {
     site {
       siteMetadata {
         title
+        description
       }
     }
-    resumePic: file(relativePath: { eq: "resume/Resume 2020CS8.png" }) {
-      childImageSharp {
-        fluid(maxWidth: 1360) {
-          ...GatsbyImageSharpFluid
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+            title
+            description
+            thumbnail {
+              childImageSharp {
+                fluid(maxWidth: 1360) {
+                  ...GatsbyImageSharpFluid
+                  src
+                }
+              }
+            }
+          }
         }
       }
-    }
-    resumeFile: file(relativePath: { eq: "resume/Resume 2020CS8.pdf" }) {
-      name
-      publicURL
     }
   }
 `
 
 export default props => (
   <StaticQuery
-    query={indexQuery}
+    query={projectsQuery}
     render={data => (
       <ProjectsPage location={props.location} data={data} {...props} />
     )}
