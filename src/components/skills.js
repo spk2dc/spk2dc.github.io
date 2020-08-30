@@ -13,7 +13,6 @@ export default function Skills() {
     <StaticQuery
       query={skillQuery}
       render={data => {
-        const { author, social } = data.site.siteMetadata
         return (
           <div className="card my-4">
             <h3 className="text-center my-2">SKILLS</h3>
@@ -25,7 +24,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"
+                    alt="skill-icon"
+                  />
                   <p>Java</p>
                 </a>
               </div>
@@ -36,7 +38,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"
+                    alt="skill-icon"
+                  />
                   <p>C/C++</p>
                 </a>
               </div>
@@ -47,7 +52,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/python.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/python.png"
+                    alt="skill-icon"
+                  />
                   <p>Python</p>
                 </a>
               </div>
@@ -58,7 +66,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/ms-excel.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/ms-excel.png"
+                    alt="skill-icon"
+                  />
                   <p>Excel VBA</p>
                 </a>
               </div>
@@ -69,7 +80,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/javascript.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/javascript.png"
+                    alt="skill-icon"
+                  />
                   <p>JavaScript</p>
                 </a>
               </div>
@@ -80,7 +94,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/html-5.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/html-5.png"
+                    alt="skill-icon"
+                  />
                   <p>HTML</p>
                 </a>
               </div>
@@ -91,7 +108,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/css3.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/css3.png"
+                    alt="skill-icon"
+                  />
                   <p>CSS</p>
                 </a>
               </div>
@@ -102,7 +122,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/nodejs.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/nodejs.png"
+                    alt="skill-icon"
+                  />
                   <p>Node.js</p>
                 </a>
               </div>
@@ -117,6 +140,7 @@ export default function Skills() {
                     src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
                     height="96px"
                     width="96px"
+                    alt="skill-icon"
                   />
                   <p>Express.js</p>
                 </a>
@@ -128,7 +152,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/nolan/96/react-native.png" />
+                  <img
+                    src="https://img.icons8.com/nolan/96/react-native.png"
+                    alt="skill-icon"
+                  />
                   <p>React</p>
                 </a>
               </div>
@@ -139,7 +166,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/postgreesql.png"
+                    alt="skill-icon"
+                  />
                   <p>PostgreSQL</p>
                 </a>
               </div>
@@ -150,7 +180,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/mongodb.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/mongodb.png"
+                    alt="skill-icon"
+                  />
                   <p>MongoDB</p>
                 </a>
               </div>
@@ -161,7 +194,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/ios-filled/96/000000/jquery.png" />
+                  <img
+                    src="https://img.icons8.com/ios-filled/96/000000/jquery.png"
+                    alt="skill-icon"
+                  />
                   <p>jQuery</p>
                 </a>
               </div>
@@ -172,7 +208,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/bootstrap.png"
+                    alt="skill-icon"
+                  />
                   <p>Bootstrap</p>
                 </a>
               </div>
@@ -183,7 +222,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/fluent/96/000000/github.png" />
+                  <img
+                    src="https://img.icons8.com/fluent/96/000000/github.png"
+                    alt="skill-icon"
+                  />
                   <p>GitHub</p>
                 </a>
               </div>
@@ -194,7 +236,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/ruby-programming-language.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/ruby-programming-language.png"
+                    alt="skill-icon"
+                  />
                   <p>Ruby</p>
                 </a>
               </div>
@@ -205,7 +250,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/windows/96/a81103/full-test-tube.png" />
+                  <img
+                    src="https://img.icons8.com/windows/96/a81103/full-test-tube.png"
+                    alt="skill-icon"
+                  />
                   <p>Jekyll</p>
                 </a>
               </div>
@@ -216,7 +264,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/heroku.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/heroku.png"
+                    alt="skill-icon"
+                  />
                   <p>Heroku</p>
                 </a>
               </div>
@@ -227,7 +278,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/linux.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/linux.png"
+                    alt="skill-icon"
+                  />
                   <p>Linux</p>
                 </a>
               </div>
@@ -238,7 +292,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/plasticine/96/000000/android-os.png" />
+                  <img
+                    src="https://img.icons8.com/plasticine/96/000000/android-os.png"
+                    alt="skill-icon"
+                  />
                   <p>Android</p>
                 </a>
               </div>
@@ -260,7 +317,10 @@ export default function Skills() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="https://img.icons8.com/color/96/000000/console.png" />
+                  <img
+                    src="https://img.icons8.com/color/96/000000/console.png"
+                    alt="skill-icon"
+                  />
                   <p>Bash</p>
                 </a>
               </div>
@@ -275,6 +335,7 @@ export default function Skills() {
                     src={data.icon_flask.childImageSharp.fluid.src}
                     height="96"
                     width="96"
+                    alt="skill-icon"
                   />
                   <p>Python Flask</p>
                 </a>
@@ -290,6 +351,7 @@ export default function Skills() {
                     src={data.icon_ejs.childImageSharp.fluid.src}
                     height="96"
                     width="96"
+                    alt="skill-icon"
                   />
                   <p>EJS</p>
                 </a>
@@ -305,6 +367,7 @@ export default function Skills() {
                     src={data.icon_gatsby.publicURL}
                     height="96"
                     width="96"
+                    alt="skill-icon"
                   />
                   <p>Gatsby</p>
                 </a>
