@@ -3,9 +3,8 @@ import { graphql, StaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import PostCard from "../components/postCard"
+// import PostCard from "../components/postCard"
 import Author from "../components/author"
-import Img from "gatsby-image"
 
 // import "../utils/global.scss"
 import "../utils/normalize.css"
