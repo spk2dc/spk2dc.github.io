@@ -52,7 +52,11 @@ const projectsQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      filter: { frontmatter: { category: { eq: "blog_post" } } }
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 1000
+    ) {
       edges {
         node {
           excerpt
