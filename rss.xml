@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://spk2dc.github.io/portfolio</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 30 Aug 2020 17:31:57 GMT</lastBuildDate><item><title><![CDATA[Trip Statistics]]></title><description><![CDATA[Google Maps Trip Statistics Technologies React Frontend Python Flask (backend micro web framework) SQLite3 / PostgreSQL Databases Node…]]></description><link>https://spk2dc.github.io/portfolio/trip_statistics/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/trip_statistics/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;&lt;a href=&quot;https://tripstatistics.herokuapp.com/&quot;&gt;Google Maps Trip Statistics&lt;/a&gt;&lt;/h3&gt;
-&lt;h4&gt;Technologies&lt;/h4&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://spk2dc.github.io/portfolio</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 30 Aug 2020 19:18:30 GMT</lastBuildDate><item><title><![CDATA[Spotify Track Filter]]></title><description><![CDATA[Technologies React Frontend Python Flask (backend micro web framework) SQLite3 / PostgreSQL Databases Node JavaScript HTML CSS Bootstrap…]]></description><link>https://spk2dc.github.io/portfolio/spotify_filter/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/spotify_filter/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;React Frontend&lt;/li&gt;
 &lt;li&gt;Python Flask (backend micro web framework)&lt;/li&gt;
@@ -10,7 +9,7 @@
 &lt;li&gt;CSS&lt;/li&gt;
 &lt;li&gt;Bootstrap&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Features&lt;/h4&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Google Maps API Integration&lt;/li&gt;
 &lt;li&gt;Event listeners and handlers&lt;/li&gt;
@@ -20,14 +19,233 @@
 &lt;li&gt;User sign up and log in functionality&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br /&gt;
-&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;./BLACK_II_desktop-1.jpg&quot; alt=&quot;Darkness&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
+&lt;br /&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_1.png&quot; alt=&quot;trip_statistics&quot;&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Landing Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays the landing page to login/register and a link to download your Google Maps location history data&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;./BLACK_IX_desktop-1.jpg&quot; alt=&quot;Darkness&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_4.png&quot; alt=&quot;trip_statistics&quot;&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;User Profile&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Shows basic account data and short instructions on how to use the site&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;./BLACK_I_desktop-1.jpg&quot; alt=&quot;Darkness&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_6.png&quot; alt=&quot;trip_statistics&quot;&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;New Trip&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Allows user to upload data for a new trip to be analyzed, or download demo files to test out if they do not have any data&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_7.png&quot; alt=&quot;trip_statistics&quot;&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;All Trips&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Shows all trips that have been uploaded&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_8.png&quot; alt=&quot;trip_statistics&quot;&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Trip Display Page - Data&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays details on one selected trip. Place and activity data are in separated tables that can be collapsed&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_14.png&quot; alt=&quot;trip_statistics&quot;&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Trip Display Page - Map&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays details on one selected trip. Interactive heatmap containing all places with markers and labels showing more information&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Trip Statistics]]></title><description><![CDATA[Technologies React Frontend Python Flask (backend micro web framework) SQLite3 / PostgreSQL Databases Node JavaScript HTML CSS Bootstrap…]]></description><link>https://spk2dc.github.io/portfolio/trip_statistics/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/trip_statistics/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;React Frontend&lt;/li&gt;
+&lt;li&gt;Python Flask (backend micro web framework)&lt;/li&gt;
+&lt;li&gt;SQLite3 / PostgreSQL Databases&lt;/li&gt;
+&lt;li&gt;Node&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;Bootstrap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Maps API Integration&lt;/li&gt;
+&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;li&gt;jQuery &amp;#x26; Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
+&lt;li&gt;User information storage and password encryption using Flask Bcrypt&lt;/li&gt;
+&lt;li&gt;User sign up and log in functionality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
+&lt;br /&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/e957c/trip_statistics_1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACoklEQVQoz22QXU8TYRCF11/hlff+GKOJ+gfwzhi99M6PGCOKCkRFIKggiGi0FgoFK5VSa8GitS0g2FrKQoHCtl2gZel+dR/fVjSaOMnJO5l3zsycI5mmhWma/8CyrD+oVh0ch3o4IrEMA1Pktn8cq7MdQ1WxRL3OFf0S/wnbttF1o47V7BqyvEJ6aame65qGLXrk9k5kScI+fRzH0P9wpdrWv1ELXdcpqDsoxV3WcnnWNhSy6wLi3VSKaHaVp+cuMCodwnk7QrV2fbVa50s1Sb9l/RooZFniQsOiVKmi7pvk93SK+waqZlLSHXZEl//kKQonjv2y4sCOg4EVIXEfy9Spis21T0P4qlVMDDF0VyujlFSK5W12K3vkE7NsBENsNDRgtLXW+zng1SAtJILEp0f5ngixmv7M1maCghJhfTlcryW/BZCXY6zIKZR8jgWvh+jRo5QOH8E+e0YMUXGsbRx7V8jWkb7ODPLl0wjJdJBkZpylzDDlnJdM9AmxuJtoxMNcwk9yNU56JcFsOoKru5Gl21couLuFBatopQyWtoxjbiJ9Xhwnng0zn50m8MXLcKAf96t7DHjaCSfeExVXRmPv+J76wIoyR2TGzVT4JUU9TW57ka18mlIph11RsQ0FaXiyC5e3FZfvIe7RBwz1N+LpbsI92MrjviYetF3meUcjT+9e4+1ILyMv7jPh72NuxoU8/x75R4JsNinsWKZcziINvLiD61kTvkAXk5FOpkLtxKZ7mPbdwx/uwhfsZiz0hrGJPobGO/AE2/g038O35ACplJvN9TFKqg9l6wN721NIN25d5crl89xsuUi/t5nXE834IjeZil1ncvIS74abee4bYCjQxtjHFoaCVwnFm5EzHaynOinkHrGX70Xb8ggfZ/gJwRsAJKZZpUsAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/51a8e/trip_statistics_1.webp 340w,
+/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/713b7/trip_statistics_1.webp 680w,
+/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/54376/trip_statistics_1.webp 1360w,
+/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/e0aab/trip_statistics_1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/ad208/trip_statistics_1.png 340w,
+/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/a5a26/trip_statistics_1.png 680w,
+/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/60356/trip_statistics_1.png 1360w,
+/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/e957c/trip_statistics_1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/60356/trip_statistics_1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Landing Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays the landing page to login/register and a link to download your Google Maps location history data&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/e957c/trip_statistics_4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABCUlEQVQoz5WS626DMAyFeYL1Pzwej40GVNOklm4UyAWSkJwFcxEtjHVRPjkyx8e2RKC1gdZ6wqBTCt91iYoxfF4veM9T5B9npOecuNwK1KwhjdIKxvj6FQF2jrH9+HAOqlO4l3dUVUVNnc+NGrNXimAQrLHOQhkNpTR1FFKiuH2h9KaybWkDNdBr0j7XLxNSZ7oOopPgXBBCSDDG0XiG95yTqiXtUjtPuGfIvWHNGRrBKTLJiUaMOeYRSr5gOMVZeHRI5Q4MHz641cRT3PBcMxtaa/Eby8QHHE64Wcv9vfrmt8myDGvSNEWSJCiK4mHClw2jKEQYhoiiiOLp9IYgCBDHMQn6vv+X4Q+fbU/TS22rfwAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/51a8e/trip_statistics_4.webp 340w,
+/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/713b7/trip_statistics_4.webp 680w,
+/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/54376/trip_statistics_4.webp 1360w,
+/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/e0aab/trip_statistics_4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/ad208/trip_statistics_4.png 340w,
+/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/a5a26/trip_statistics_4.png 680w,
+/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/60356/trip_statistics_4.png 1360w,
+/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/e957c/trip_statistics_4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/60356/trip_statistics_4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;User Profile&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Shows basic account data and short instructions on how to use the site&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/603e83ebab2da57d2b96913cc198804f/e957c/trip_statistics_6.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABZUlEQVQoz4VSCW7EIAzc//+gP6rUT7S7K1U5CJAlB+fUdg6x3Up1ZBEYezzGXEKICCGIW2thjCG30OTGjtBa4/PzC9frTXA5J5d/beCcQ4wRKWcopXBBZSEGxJIQMwWUiIKM2S9o+g6t6uUcSMiExZwQUhCyw7jIpZQC9py35Fyy7DmQq3PV76aHMhMas+L9mjH5QukUk5LkUIIQcndCyMYrg0HUZbjZoelaDFbDPEa46YG7euDtI6Jxm9I1eix+PRU+EbLCELnNsqncv0StGUt3NU1UNQkRJGbD6pZfCE+wbIqXZZEB9D21rAbYccS8hpMg57LnlH8IK1vXFV3XyV3+xo+7/vMOuZr3XgKOZ8TOhKyOnwjjNeb3tS7+PJR5lirDoMWZhNe269ETaY2pfc8kh7GY89nIO+Squwov/9uekxby8+xQSFhK6ZWwVlg7D2WkQbR0h7fbXUgnmvaBOzc9KeQiPz4BWpMNBWeKAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/603e83ebab2da57d2b96913cc198804f/51a8e/trip_statistics_6.webp 340w,
+/portfolio/static/603e83ebab2da57d2b96913cc198804f/713b7/trip_statistics_6.webp 680w,
+/portfolio/static/603e83ebab2da57d2b96913cc198804f/54376/trip_statistics_6.webp 1360w,
+/portfolio/static/603e83ebab2da57d2b96913cc198804f/e0aab/trip_statistics_6.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/603e83ebab2da57d2b96913cc198804f/ad208/trip_statistics_6.png 340w,
+/portfolio/static/603e83ebab2da57d2b96913cc198804f/a5a26/trip_statistics_6.png 680w,
+/portfolio/static/603e83ebab2da57d2b96913cc198804f/60356/trip_statistics_6.png 1360w,
+/portfolio/static/603e83ebab2da57d2b96913cc198804f/e957c/trip_statistics_6.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/603e83ebab2da57d2b96913cc198804f/60356/trip_statistics_6.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;New Trip&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Allows user to upload data for a new trip to be analyzed, or download demo files to test out if they do not have any data&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/312bddeacf36d06d7736b637db62dc48/e957c/trip_statistics_7.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAAzklEQVQoz+VQWw6DMAzr/e8IX8AYj4lXKdCCF6erxAH4G5Kp01iOU+O9x7qu2PcdkTscx4HDB/hwwjmHLMuR5bnyEILqCPJt2xTp3vDXti2WxSJx5zblaiwYxhFd1+nQdEdQ0/cfQR9rMTUUMRWnM2knTStnrB3KskL1eqGu3yiKUgYv2mOqYRhQVpVqaExTNaSIZkRKy5TWWq2JphHIOc+zGhLTNMWeYJQt6GXO89T9EzhF+e/+vmJaM2nvz0JOL4OHP3NdF57E8wn/z/ALbrxhF6BSEA0AAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/312bddeacf36d06d7736b637db62dc48/51a8e/trip_statistics_7.webp 340w,
+/portfolio/static/312bddeacf36d06d7736b637db62dc48/713b7/trip_statistics_7.webp 680w,
+/portfolio/static/312bddeacf36d06d7736b637db62dc48/54376/trip_statistics_7.webp 1360w,
+/portfolio/static/312bddeacf36d06d7736b637db62dc48/e0aab/trip_statistics_7.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/312bddeacf36d06d7736b637db62dc48/ad208/trip_statistics_7.png 340w,
+/portfolio/static/312bddeacf36d06d7736b637db62dc48/a5a26/trip_statistics_7.png 680w,
+/portfolio/static/312bddeacf36d06d7736b637db62dc48/60356/trip_statistics_7.png 1360w,
+/portfolio/static/312bddeacf36d06d7736b637db62dc48/e957c/trip_statistics_7.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/312bddeacf36d06d7736b637db62dc48/60356/trip_statistics_7.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;All Trips&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Shows all trips that have been uploaded&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/c3de3613f970335ef116b284fef86389/e957c/trip_statistics_8.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB2klEQVQoz11T2XLbMAzU/39X26e4M02TTuNEcWJbtu6LEkXq2mIhp5dnMKSAxXIXpINpmsCY/4tpmrEsK9I0xeFwQBiGqOsa67psmPlPsJ+/OI4R+GmB9TMGCft3uElzTTcgfDvjPYph7Ki1Xmq9m2/77dtNKy5xioCg2liU/SwNE7ph3EJA1i9C6FC1VjFsZG0j2Yh+Hy4ij1GCYBRr8zyjbDqMKn1VW9M4om0b3fPnvUPTNFrv+06ix+g9TNvCmBaNrKfoisA6r4lMZlVVlZAYFEWBLM9lJonMMENZVkiSFMfjSed4jiJcLlfkeYHL9brVTmexnInCedGTWmNg7aBqeXrfW/m2uh+cQ9d1QlzCiQCSUi3xzBOXCXnd9qJw8ArMskxVtSKdDcxRMVc25VK7ihoSJcmmnHX2cY1EcdWYzTKTbOBKso+g9UIISVIUpdojOS0Syzz7aj0k3RR6uRRKNqZDJ/a82Hc3i5WQ9reckZGQnPuq+rBsNU9My37rETg/qWReAE8l0aao0Mv4x7I8XNaIpaJtVLlic3GghKs8hNP5jE+fv+But9NXzxsMX1/lH/KGd7lZ3vzzS4hv9/eKvdt9xfeHR+yfX/Dw+ANP+z1+Pu3ljXr8At9wR8IgARKIAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/c3de3613f970335ef116b284fef86389/51a8e/trip_statistics_8.webp 340w,
+/portfolio/static/c3de3613f970335ef116b284fef86389/713b7/trip_statistics_8.webp 680w,
+/portfolio/static/c3de3613f970335ef116b284fef86389/54376/trip_statistics_8.webp 1360w,
+/portfolio/static/c3de3613f970335ef116b284fef86389/e0aab/trip_statistics_8.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/c3de3613f970335ef116b284fef86389/ad208/trip_statistics_8.png 340w,
+/portfolio/static/c3de3613f970335ef116b284fef86389/a5a26/trip_statistics_8.png 680w,
+/portfolio/static/c3de3613f970335ef116b284fef86389/60356/trip_statistics_8.png 1360w,
+/portfolio/static/c3de3613f970335ef116b284fef86389/e957c/trip_statistics_8.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/c3de3613f970335ef116b284fef86389/60356/trip_statistics_8.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Trip Display Page - Data&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays details on one selected trip. Place and activity data are in separated tables that can be collapsed&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/e957c/trip_statistics_14.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACZklEQVQoz62TSY/TQBCF84u5cR8hwYEjRxBwQALEnEaIGxKLGGaSWbI4u/fd7jiO7cRJSDzzUcBfoKVSq0vdr+q9et06Ho/UdU29q9nvdmy3W4p6Q1lvWUtuu62ZmlOs0GXzq2a1LSn3FdV+TbX7E9Xfffdrx36/p8U9RMojK3KyLGeVZ+iBw9T1yZYRXhpy7upYqc3cNbATi27SY65maEGfC9VGyzVUrWiahtZdc4dSA/ykyzIxqcqCKErkHLPKKtQq5twYMTNH2KlDrAL80CFKfMLYZxZPmIVzwjzmcDzQapojSWwQeCMMU8P3Pcb6R8aXz7gOLlChThBquE6POHWJ0oUApsKkkIgJ5V3gW5TCsBH5Wo2g+l4ogBZKaOnGhNvJS9pfT+h+OqGnnxFIZ0UeSeGIwewnWv8DI2+IFwbY/pC51UflrsxgS+v+7iBaudieSap80WnMZ+OKr6ePMR8+4MvgKd+9U8L0mixf4wRy15ywyDLcImQc9dG9W+zNVLosZSjNgTgYMLSG9O05l6bJTTRjMnpJ9+Y5F+kbpi8eMBi8YpEYRI5GoGyWVcZ8aTDw+jhRB7/0/gHei4Z932YcmkJJx4sspvOhiGzhrHRG9nuc9lPOrXeM3ddo7Uf8aJ/wffmNwaLHrd+mt/iJX3kURUFrL6Mei/C6rmGZInwkVc0uE7FKz7uWLh/R6T1hKtSM9JZOfsaP9C2drMNNesVVdkMvPme1WVCIQ1rN3T3FKhd0RSU0dnVOUlak1fqfheoxTjESiiWrtWJZL8RzGWmdkmwSUsmpMqbey2co/2j4H9fhcOA3TJglf4wdlpEAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/51a8e/trip_statistics_14.webp 340w,
+/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/713b7/trip_statistics_14.webp 680w,
+/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/54376/trip_statistics_14.webp 1360w,
+/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/e0aab/trip_statistics_14.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/ad208/trip_statistics_14.png 340w,
+/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/a5a26/trip_statistics_14.png 680w,
+/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/60356/trip_statistics_14.png 1360w,
+/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/e957c/trip_statistics_14.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/60356/trip_statistics_14.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Trip Display Page - Map&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays details on one selected trip. Interactive heatmap containing all places with markers and labels showing more information&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc Denis I used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://spk2dc.github.io/portfolio/darkness/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
 &lt;p&gt;This is the final render.&lt;/p&gt;
@@ -43,7 +261,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -93,7 +311,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -143,7 +361,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -193,7 +411,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -241,7 +459,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -288,7 +506,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -336,7 +554,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -383,7 +601,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -431,7 +649,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -479,7 +697,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -527,7 +745,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -574,7 +792,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -622,7 +840,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -670,7 +888,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -718,7 +936,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -765,7 +983,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -813,7 +1031,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -861,7 +1079,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -909,7 +1127,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -956,7 +1174,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -1005,7 +1223,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -1053,7 +1271,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -1101,7 +1319,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -1149,7 +1367,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -1197,7 +1415,7 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -1356,7 +1574,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
