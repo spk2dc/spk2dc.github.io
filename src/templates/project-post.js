@@ -27,6 +27,24 @@ class ProjectPostTemplate extends React.Component {
             <p class="post-content-excerpt">{post.frontmatter.description}</p>
           )}
 
+          {/* Button for live site */}
+          <div class="m-2">
+            <a class="btn btn-sm btn-success" href="" target="_blank">
+              <i class="fa fa-external-link" aria-hidden="true">
+                {" "}
+                Live site
+              </i>
+            </a>
+
+            {/* Button for github */}
+            <a class="btn btn-sm btn-success" href="" target="_blank">
+              <i class="fa fa-github" aria-hidden="true">
+                {" "}
+                GitHub
+              </i>
+            </a>
+          </div>
+
           {post.frontmatter.thumbnail && (
             <div className="post-content-image">
               <Img
