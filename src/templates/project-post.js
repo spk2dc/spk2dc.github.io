@@ -29,18 +29,24 @@ class ProjectPostTemplate extends React.Component {
 
           {/* Button for live site */}
           <div class="m-2 text-center">
-            <a class="button primary large mx-5" href="" target="_blank">
+            <a
+              class="button primary large mx-5"
+              href={post.frontmatter.link_live}
+              target="_blank"
+            >
               <i class="fas fa-external-link-alt" aria-hidden="true">
-                {" "}
-                Live site
+                <b> Live Site</b>
               </i>
             </a>
 
             {/* Button for github */}
-            <a class="button primary large mx-5" href="" target="_blank">
+            <a
+              class="button primary large mx-5"
+              href={post.frontmatter.link_git}
+              target="_blank"
+            >
               <i class="fab fa-github" aria-hidden="true">
-                {" "}
-                GitHub
+                <b> GitHub</b>
               </i>
             </a>
           </div>
@@ -91,6 +97,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         category
         description
+        link_live
+        link_git
         thumbnail {
           childImageSharp {
             fluid(maxWidth: 1360) {
