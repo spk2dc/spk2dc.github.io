@@ -1,6 +1,7 @@
 ---
 title: Clean lines
 date: "2019-05-05"
+category: "blog_post"
 thumbnail: ./matthew-hamilton-351641-unsplash.jpg
 description: Let your hair down and paint the town red
 ---

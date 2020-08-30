@@ -1,6 +1,7 @@
 ---
 title: Get fruity
 date: "2019-05-02"
+category: "blog_post"
 thumbnail: ./mike-dorner-173502-unsplash.jpg
 description: A deep investigation into the pastel properties of colourful fruit and their psychological effects on hamsters
 ---
