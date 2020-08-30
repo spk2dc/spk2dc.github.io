@@ -1,66 +1,545 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://spk2dc.github.io/portfolio</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 30 Aug 2020 19:18:30 GMT</lastBuildDate><item><title><![CDATA[Spotify Track Filter]]></title><description><![CDATA[Technologies React Frontend Python Flask (backend micro web framework) SQLite3 / PostgreSQL Databases Node JavaScript HTML CSS Bootstrap…]]></description><link>https://spk2dc.github.io/portfolio/spotify_filter/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/spotify_filter/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://spk2dc.github.io/portfolio</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 30 Aug 2020 19:51:29 GMT</lastBuildDate><item><title><![CDATA[Battleship]]></title><description><![CDATA[Technologies MERN stack (Mongo, Express, React, Node) HTML CSS Bootstrap JavaScript Features Event listeners and handlers Document Object…]]></description><link>https://spk2dc.github.io/portfolio/battleship/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/battleship/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;React Frontend&lt;/li&gt;
-&lt;li&gt;Python Flask (backend micro web framework)&lt;/li&gt;
-&lt;li&gt;SQLite3 / PostgreSQL Databases&lt;/li&gt;
-&lt;li&gt;Node&lt;/li&gt;
-&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;MERN stack (Mongo, Express, React, Node)&lt;/li&gt;
 &lt;li&gt;HTML&lt;/li&gt;
 &lt;li&gt;CSS&lt;/li&gt;
 &lt;li&gt;Bootstrap&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Features&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Google Maps API Integration&lt;/li&gt;
+&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
+&lt;li&gt;User information storage and password encryption - using Bcrypt&lt;/li&gt;
+&lt;li&gt;User sign up and log in functionality&lt;/li&gt;
+&lt;li&gt;Full CRUD functionality&lt;/li&gt;
+&lt;li&gt;RESTful API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e957c/Battleship1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACEklEQVQoz02S6W7TQBSFZ/EyXhM7SZ2k2UocVJbQgmh/UIoIqdpSQeEfD4DE+7/B4dxxQI10NOOJ73fPuWNl4wSBy+DyCmFawsQZTJLDpAWCvISrhnC1aIC4GsAUPS9b1jDlAGE9RjlfQ5dDJOMVlA5jmMghr0ewhOkoheaqeJbx7PTsLdavtmhfv8Fme4ZkMIJKc+hcwBV0UUMRrPIaQT2BUspAoCqIvEyUdS5dDiuFJYsqQqQh3ZqsgKI03XfqE1bB9EbepWpmCxiCJLqTKDEdhiksgTpKoBndECoSV4rj0AKkJLrya4WobuiwgXp5/g4FZxMlGWL5k1F16OjWdU4lPpspl1KZj+uhaQf2QDYSp1ai2zCEjeiQLkfjKeG0bQJ0s/3nlK7Z0EM8rDiADw08uKToeLpYIe/10ect/vr9B9f339jAwZWcTRATnHiXliDvUCRwAsSZldhPoVHMiMYgLQo8356jpsuYBRFfCrnKJxUkRfdJcW9ZGBaMxwsxBARsLFC5ID9T/hAwttIa1XCIkA0ix5lp64FVM/EjUIoy/BJkvuLWcs8L9PNNDnNmrRofz9G+2Ho1xwtM5iuv2fIZtcbsZINle4rpgs+rDabLFtNVi4bPR/MTHHEd83zEvUhdfPyC91c7XFCX3F9e7/Hh8y32X3/g5uEnPt084Gp3h93dd549Yn//6Fc5+1/zRH8B6JAI00gcnt4AAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/51a8e/Battleship1.webp 340w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/713b7/Battleship1.webp 680w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/54376/Battleship1.webp 1360w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e0aab/Battleship1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/ad208/Battleship1.png 340w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/a5a26/Battleship1.png 680w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/60356/Battleship1.png 1360w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e957c/Battleship1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/60356/Battleship1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Landing Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays the instructions for how to use the site&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/e957c/Battleship3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACJ0lEQVQoz02SW29SQRSF58yc+w3OAXqAcqtQ4w2DxtZowUihtjZaffNB30x8MEbfTHxpiH98ufZATUlWZs8c5ttr79nKBBHcMEGYFvDiHDpIoKMUJsmoHHnVwfjRY4wfTlFrd6HTGnRWg8lL6LwBr2wj74/h5E1E7RGU4wXQfoi0bMEQ5vgxnIBiEuUGmJ+ucb25xubvBov1GZR8S3NKwAWcrIQiWKUl3LIDpZSGQJXrW2k/sS5NlFngk+cv8Pn7b3z58QczxorJt8Ab1QkroGst61JVvQE0QVJ6KKWIAy+GCdOt0yBENP+JcP4LTkzXcQYnEeW2dMVYnPplRYcV1IPZU2RFA36UIJCP4sAL6S7c9pNgZQz3VCRA7tljh6uALZDli1MjpRvPg/HpkC5bbHpW0LZ2se3tjdMUWpwJxMKyHXiXwIJzio67gxHSWh31soFPX79hcfGOCUKEed320PGiXU95UR5KRJAtmc6MlH0b6rNHjtaIswx3pzOUdBnwgs8/eVxlpFw+kB0pxjJOXsby+CCaAJeJBSoPZHvKH1yWrRwHRbMJjwn8MOLeWGDBOZQWKEVpToL0V9wa346Q4mPa0mXlXdXe72Nyf2pV7Q/Q6Y+sesM71Bi9g0MMJ/fQHXA/OkR3OEF3NEHF/V7/AHtc2zxvMRapo/kpnp0scUQdMz5erPDy9Rus3n7A+vIjXq0vcbI8x/L8Pc+usLq4squc/b9zS/8AF+AQAN+5QYAAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/51a8e/Battleship3.webp 340w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/713b7/Battleship3.webp 680w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/54376/Battleship3.webp 1360w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/e0aab/Battleship3.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/ad208/Battleship3.png 340w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/a5a26/Battleship3.png 680w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/60356/Battleship3.png 1360w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/e957c/Battleship3.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/60356/Battleship3.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Sign Up Page&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/e957c/Battleship4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACGUlEQVQoz1WS6W7bMBCEeUgUJUuyTVtHVNtxHDtHDyAtkP5JWsBJgDhGGhRFgT5Agb7/G0yHlAO0PwakluK3s7sUOkkR2QFsPkaclVDJACrNobIcUTGEdTXsxKvifgpdjqAY16WDKieIXYtyfgpZTpG2SwgZJ1DGIncVNGHSZJBJBkHpQYHV5TssV2tszi8xP7uAJkwwLvMhwWPIwkEQLHKHyB1BCKHgoSIyQcoMgkttcwhLsEkx2v2A2//sv1MmDcDyoBFhY6hhFVyKZraAIsiXbn0pdCbjLAC9U8l2JKvzIJkVB/FsUIbSvVvv1LiGDhuIt1efUIwnMMyc+EOWL2NLt7bvJ4FCRRA6Du4EYYI97qFFD2T53qn2pes4hjZ0SJdV2xE+DYC+t69OWaaHvIoue/AhQQCXFB13iyXy4QgjN8Gv33/wZffMBBaW0xRRQnDa9zT1PR30Cn0sg7MwpH+hJuElqZDlBc4+XME1HRJeMPwp5uqfVJQW/ZPi3k8+LlgeB6IIiJjYQ/2AQk+llIhZslQKrqphEgtjUx7oABw3R30PBaX4Enx/vVttwtMSHGYo3a+8K9y0xuJ0g2PK79s3C3TzJWbHK+oUsxOerS/QLfi93KA7XqNbrtHwu56foObaMl5x7yWapkHTtqjqGjX1/uM1bu+ecL97wcP+O74+7HGzfcT28Rvun15C3K8+dn2zxefbu//0FytcB3stNirvAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/51a8e/Battleship4.webp 340w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/713b7/Battleship4.webp 680w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/54376/Battleship4.webp 1360w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/e0aab/Battleship4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/ad208/Battleship4.png 340w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/a5a26/Battleship4.png 680w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/60356/Battleship4.png 1360w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/e957c/Battleship4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/60356/Battleship4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Home Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Default home page after login where user can start a new game&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e957c/Battleship5.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACtElEQVQozz2Sa28aRxRAF7O7wLIsYDCPYCyCMS8nKbZjRzYNGPPexXVTVVWrRk7IwyS1jUlU9Qf0H7YGXLVV+lNOL0TKh6vdmTtz7rkzo6heA9XrxwhG0AwLdRFmEN0KoQVCRDeyBLM5UtsPiKYzaKEIejiKN5JADa7hja1j3sugeC2q3QGKS9Vxe3wCXEX1GFiy2AiG8YcjWGtxwrE4o8oBZ+WvCMQThO+lsBJJVlNpArEkihnCZUVRND+HzR6K4nKzgK7oXvzZQ/TNBqHtDvHdAUahiWerRethk72Hbdy5BoFym7UdB1/hBE+xg//+npiuLg0fPz1BSW9u4dY8aD6TbGPIRvuaXG9M6fQjuf6YbP8DZsUhWT+X/wmZzhWlbyRnS87+KPA+mhVGMUI8abRRcqUyprSoGyal1ks2O5fku79Qsq8pOxICTu7alNtDCs4N99vvKA+k4OB6CY7vdFEDlrRssF9roKyoqhhqaHJ+j+wReXvCVkeAzpiiQIuDxSaHghTL2wJsvRPYzeecFItVOqz4/ShunYO6tLyeyWJaQcLRGN23v/Pg2W8Uepdsn06WliUBJgRY7ryi6EzE8L1Y38j8mPLZr0tDt2kuzKh35VI0sXO5XOheH5XBe9lwSU5aXhgU+lfS5oRExabYGsrZXrNxMhLwmLwUzTsfxLArT8xaGh73+nLLiiIwL6ruYfP4nHjtgmTtDanjt6QbF6RbV1ilFpmnz0nUR0SOhqw3RpK/INW8khfRxOUzFiCqJy2UR7v7HFTrPD6qsd/8jr32DxzaP1P/dkj97CXV0xccdb+nNpC5Z6/5Wsa1syEHvZ9k7Y/s1h12nlTJbVc4f32B8vc//zKdzpjN5sxu/2R6+wfz2S1/zWfLuJP/u8V3OZ5+idn089rZ9Jb5fC5xx6dP//E/5BV6ohWbMrMAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/51a8e/Battleship5.webp 340w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/713b7/Battleship5.webp 680w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/54376/Battleship5.webp 1360w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e0aab/Battleship5.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/ad208/Battleship5.png 340w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/a5a26/Battleship5.png 680w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/60356/Battleship5.png 1360w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e957c/Battleship5.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/60356/Battleship5.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;New Game Page&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e957c/Battleship7.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACv0lEQVQozy2S208bRxTGx2uvr+u18X0xJMikXExx8GV9t9d3GzB3FIUEMJA6KYrSKFKiSjRqpT61L31qpTRS/9ZfxtCHT2fOzDnffOebEYrTjU11oXp04uYJwfIVkcoV4cosXhCu3RDMbGNUX5CwpsTqN0Rq10Sq14RqUyJPh/iNBYTqp3/4DKGobhxuL4FoAqN4wlz5mmhVkklEZVOk9sP/hGcsdH4kKslClQlG8xVx6xZ9zcIRCCEcPnoHpwghFGwOFzOlsfwhenFCqHxJqPSA2QWBjSFG5Qyj9RrdfElcqpy3XhGuT9FWGjj0IMKlU+4MELHkIopdRZUqI7kjvIUJWuEczbyU8ULmVwS+HxEtnaEVr/Dmz+Wll/fwlW7wSUJXQBL65tiqNhHprSzaXER6qOFdruNa28G5MkSVcK1t41of40mV8a52cM7O5J5dnjnXRjg39nA/zmLz+aVCP9lqQ44uiezfDdAyh/g293EsW3hkob51gnN1iD3Vwp89wZs5wpZq4t7YJVp5gTO9g225iZaTD1l8jkjkeVqqIuKPl1FWD0ntfyQ1/iTNvsYnR06O3iNW9hGPOkS6b3HnLhBLXZT1Y6K9dyjpY8STAa78BUHppTAqkrCMcHql3PUDgu036NJsd+YANXeGpzTBvnmMfX0Xe+7lPRQ5ri1zipI7R5nF9K5cy33pq0hZD4Q2pwf97R/EP/9L4MNfOMavCf/8N9FfvuCf/k5gckfs81fCd19w7N3if/cnxm//ockede8Nsbt/mP/1K2J4yUY2J195fpFHrTFPRqfM1wYk8k2SjW2WOvskK32SpS6pwTGL7T0Ms82iNWapd0SiNiSWrbPQGN3XBtIFGp0+wqy2KBSrFMwHmKU6pszb8k/1+ttYrR7VmkWr3Zf5Dp3ukKbVfagtN+57zWKNzS2T6e1PfAOZh1lqObo5zQAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/51a8e/Battleship7.webp 340w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/713b7/Battleship7.webp 680w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/54376/Battleship7.webp 1360w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e0aab/Battleship7.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/ad208/Battleship7.png 340w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/a5a26/Battleship7.png 680w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/60356/Battleship7.png 1360w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e957c/Battleship7.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/60356/Battleship7.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Ship Placement&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Ships are displayed at the bottom of the new game page for a user to place them on their board and start playing the game&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/e957c/Battleship9.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACmklEQVQozyWTa1faWBSGA4YAuUASyYVw0XY5rVp0RghUIZWooLC0qx3XdKZWO+KFaftlvs7Pf2aHfnjXzllnn+e8706i5LUSuUIJtWyR08pSTUpVm2LFpiw1aG+w8WqbXzp71FptTD8QhVTCBjnLQVuvY0abKMUKw/NLlHwGK+lUaoFAapQdaag15EALK2yje02WuzHzrQ6qF+E0X1BtbmLWNyj7bVQ3JF/1UDSTo7MZiqLkUVSNzKm1c4F+cIM7uKOePFDp3WB0b2nuz6n3/qDcvcHufyFIFpi9v9DjO4ytEaqkyRzGx6cofqNNXi1QKBmE/Wvco0c58Ig3yvSAlyyp7M3wj24Ix/9gv/2b9eEDwTvZP/5GZfsYTUajGA6DdIKy+9sBpu1S1E2C+PdVcyTNfgYbLuTgErtzQSRAP3mSC+9pnCzlsgXu6FmA71AtE6WgMxifZWk11goahWKZ1uEncfQscX8CfQH6AnQ6MxrDL9TFYZhdJvvR+Ikw/Y71OmHNNFDWisTJGCVqy4ArVVzP5+jzf/jjHziDr7gSze7fURksqL65IHj7WUDPuIf3K9WG9zji0Ho1Ys3QBahxmMoMNa1ILpdHN022p4/UZHaBxPEziUNvJDHFYXN0S+v0O+sCa6RLmukzwfgbzs4xhSyyANPZHCWXy1HIYqsqtYOPGPE9Vv8rRu92Va3DJ4ztKevxnxj9BaWDW8q9bP8OffCInr1lw8g+F5LJFMULIl683mVrp0OwN8Hef4+7f4nX/YAv8nrXtLrnRN3L1bPX/UhN5OxfYf/6gfBNQrT5kpLrc3X9CaU/OiEepsRS+6OU/nDMQOrZxRXT+XvSyYzk5JwT+Qsmsj6bXZFO56u+n0oZJKfs9YYsf/zL/8mYR5qX6ijDAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/51a8e/Battleship9.webp 340w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/713b7/Battleship9.webp 680w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/54376/Battleship9.webp 1360w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/e0aab/Battleship9.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/ad208/Battleship9.png 340w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/a5a26/Battleship9.png 680w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/60356/Battleship9.png 1360w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/e957c/Battleship9.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/60356/Battleship9.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Game Play&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Locations are marked as hit (H) or miss (M) when a user clicks or the computer attacks back. User&amp;apos;s ships are indicated on their board by their first 2 letters&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Run Analyzer]]></title><description><![CDATA[Technologies HTML website CSS styling and animations Node.js Express.js, Express-Sessions EJS (Embedded JavaScript Templates), EJS Partials…]]></description><link>https://spk2dc.github.io/portfolio/run_analyzer/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/run_analyzer/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML website&lt;/li&gt;
+&lt;li&gt;CSS styling and animations&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;Express.js, Express-Sessions&lt;/li&gt;
+&lt;li&gt;EJS (Embedded JavaScript Templates), EJS Partials&lt;/li&gt;
+&lt;li&gt;MongoDB and Mongoose&lt;/li&gt;
+&lt;li&gt;Heroku Cloud Platform for Live Site&lt;/li&gt;
+&lt;li&gt;jQuery and vanilla JavaScript&lt;/li&gt;
+&lt;li&gt;Axios requests to pull external data from Strava API&lt;/li&gt;
+&lt;li&gt;Dotenv environment variables&lt;/li&gt;
+&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Strava API Integration&lt;/li&gt;
 &lt;li&gt;Event listeners and handlers&lt;/li&gt;
 &lt;li&gt;jQuery &amp;#x26; Document Object Model (DOM) manipulation&lt;/li&gt;
 &lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
-&lt;li&gt;User information storage and password encryption using Flask Bcrypt&lt;/li&gt;
+&lt;li&gt;User information storage and authentication&lt;/li&gt;
 &lt;li&gt;User sign up and log in functionality&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br /&gt;
 &lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/97174ecdba556dc2b158bd5113716d16/e957c/RunAnalyzer_1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAC9UlEQVQozyWS7U9bBRTG+7/ocNn+BT/4xQ/G+EmyqNEYlm10y3TJNMNEcIuCLNFtUTZgASYpTEaoDtzCm11bgUEp3I6+995ebu+9vbeFlvb2jdLx5ecVPzx5nnNy8uQ5OcdRvvgGlc42qs63/sfl/3D6hC1nG8qFM4gXzhI7fxbl4pmTfu3KaeonsLXzTZtPUbvchtV5CocQCLATSxCXdhEVHVk3qNQb1A6bZM08qqZhGAamDc3W+UKRVqtF86jJfkGneqhzcJBBV2Vi8QiOZGgNaTdFym5Iuopqmpj5PTJaFlnJoKg6iq0lVSNu10EpjZhRWYuIbIQjbI27MOJbWFYWTRJwpEM+VCVhJ5NIaPawaaAbJtF4glgyiRANsxWN4N8WWApu4wu+wr+6RTomIY9MMv/5R2SfddNY+Z49z884xB0vim2YMTKkDJVUPs/h8TFHr495bXPL5oHQBHe3JsiWapjlOtVSHRoN6s+HaPq6OPjpHSrDH1KKPMURDS4gSmFEPU3aXjezVyBvVTAsC8GQWUgH+cH/mE/GBnAteBkbX2R+YJbcqJvi/R4M59sUbrdT8Y5wYEbto/j+YEdYISqGSai2aS6LXtpHLuZ4mlind9HFhLBM7/QwV/u+orvrOx5/cxvtsy9ROs6RPP8uxW/fpx58QknZwBF47uLV2jyJyDqSHEHNpjEKGlatgCDvsJncZFvy4hfceF9OMP3oDuqTQaq9V8l2tFPwD9OY7abiGcHSfDjW3IOEPFMkNhdR7ER5PUYxl8IqyAjBZVKRF1QLSSRxBeGvUeL9XbQmf+Qo8Ixm4m/UIdvMfYv6XD/l+BiOlfE+e3CQqNdFasONFluimNlAiy4TXp1if3edsrSKx/OI2Z4veHHrOuWA/Sq+Uczle0gPv+afT98j0/8x+0s3cHjvXSP4ex+h2TtEFh+QfvkbZnSO8NIQvql+tqcfEPjlJvM9TuautDPT8QGxu5cQf+1EfniN7J83yc7cQJ90kpu5xL9bbMZ5IV6WaAAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/97174ecdba556dc2b158bd5113716d16/51a8e/RunAnalyzer_1.webp 340w,
+/portfolio/static/97174ecdba556dc2b158bd5113716d16/713b7/RunAnalyzer_1.webp 680w,
+/portfolio/static/97174ecdba556dc2b158bd5113716d16/54376/RunAnalyzer_1.webp 1360w,
+/portfolio/static/97174ecdba556dc2b158bd5113716d16/e0aab/RunAnalyzer_1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/97174ecdba556dc2b158bd5113716d16/ad208/RunAnalyzer_1.png 340w,
+/portfolio/static/97174ecdba556dc2b158bd5113716d16/a5a26/RunAnalyzer_1.png 680w,
+/portfolio/static/97174ecdba556dc2b158bd5113716d16/60356/RunAnalyzer_1.png 1360w,
+/portfolio/static/97174ecdba556dc2b158bd5113716d16/e957c/RunAnalyzer_1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/97174ecdba556dc2b158bd5113716d16/60356/RunAnalyzer_1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Sign In Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Login to your personal Strava account when prompted to allow authorization to read your activity data.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/0c04721361cd291167fccee4d3489105/e957c/RunAnalyzer_2.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABGklEQVQoz51SS07DMBDtdTkDXIQ1nKAnYB3UJaxYlA2ug1sbN/EvtR8em5SoSpHCSC9jzefNy9gr4yNMSDAmwFqfvYdzA1JKBWRd1+F4PJbzGKMaqrU2FD9iZSn4kxiTVEwWY4TWGowx8B0rxHOEU5wJp9NGhWS6N2j3Eh+tgNK/Kq8rvJgwVehMDyUlpFLwPhTFKeNvhbOEoTRx1WPLWjAhIXQH7U6IVSKc/wfhbvsOvnmCfG1weGng3zaA4khFYVhAmG+7XEqzRry/gXu8g324Lef4vK6/bP0ShbTDBPraDOUiZJ8JsrS63bR0h7VtGAIOQoBzjk+xh1JfOA3D8kshTw21yVVQzvpzfFp7lXDuXc0NNBfvdpr/BjPaVIqeXzlyAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/0c04721361cd291167fccee4d3489105/51a8e/RunAnalyzer_2.webp 340w,
+/portfolio/static/0c04721361cd291167fccee4d3489105/713b7/RunAnalyzer_2.webp 680w,
+/portfolio/static/0c04721361cd291167fccee4d3489105/54376/RunAnalyzer_2.webp 1360w,
+/portfolio/static/0c04721361cd291167fccee4d3489105/e0aab/RunAnalyzer_2.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/0c04721361cd291167fccee4d3489105/ad208/RunAnalyzer_2.png 340w,
+/portfolio/static/0c04721361cd291167fccee4d3489105/a5a26/RunAnalyzer_2.png 680w,
+/portfolio/static/0c04721361cd291167fccee4d3489105/60356/RunAnalyzer_2.png 1360w,
+/portfolio/static/0c04721361cd291167fccee4d3489105/e957c/RunAnalyzer_2.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/0c04721361cd291167fccee4d3489105/60356/RunAnalyzer_2.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Authorization Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Must grant authorization to read all of a user&amp;apos;s Strava data in order for this site to import and analyze all activites.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/033cf0021ee6349f5e221eb1c1325a42/e957c/RunAnalyzer_4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACl0lEQVQoz3WRS2/TaBSG/Tv4B+xZ8g9gD0JsWLFjg8QCCYmZHQIhBAimEqwQIBbMlBmgXEpF0+ba3Jqkaey6adLEsZ3YTuzcnLjpw2dzEZv55Ffn+JzP73nfYym58pbcRoxyOoFSyLBfyiLnkuykN9nJbFLbiiNvbVLNbLCXS9DYTmMqJbRqnnY1hyoXkAUqhRSJ9TWkfK5ASa6z29BQ2iYHhs1afpsn7z5x5+Uyr1djJNJbpEUtlSuyVSzhjX2c0RDD1pgEJrbVptE6pLK7i7SbjaGoVWoHCnsH+zR1k/jfS6w/uMzSrSusfv4P0zAxdZ3wLI6OorhWlIknE2SfPcfSVdHfo71fRtorfKW+v4PSlCkfyKi2zb3rV7l48gTnTp/i6V+PKFZ2qNRqQkWbjhiod3vU82Wy1//k46Wz2Ks3GLy/irn9RijMf6GjHaKZGk1D47DbpdnpUG9ptDo6HUOn1mqSqslkFZWK2kJRGliVKm7mE9PuGm7sPs7yTSw1jlRIvWexOOb/zng8xggtm12OgoDj42Nxf8FC9OYhAhAP3tSn16wg5b7+Q98b0nWHjCcThqMRjuNg2w6WsG9ZNq7n4fT7Uc0WvZDcE7V2q8VI/BzdMHCMJnYjLxSuvOBuusSZf2OobY2+IDFMMyIdDAYRUV8gfO//yMNBrutGfc9zxcAhttHAqW8gZZefsJSvcuFDEmPgEsz8SKU/mzGfz5n9Fn3fjzCdToXVQOQzgmBOIPx7XRWr/Aop8/w2j3MVzq8k0YQlfzKOLE4m018f/4wTsZIQI7HXcGCYz4SAuSDsN4uYiYdIyYfX+COe59TrdeTDNk6vR8+yon2FNr8j3F+4TytCT9yJrIt8MOjjjny6Sgr98y2+ASK/FGeLwNe3AAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/033cf0021ee6349f5e221eb1c1325a42/51a8e/RunAnalyzer_4.webp 340w,
+/portfolio/static/033cf0021ee6349f5e221eb1c1325a42/713b7/RunAnalyzer_4.webp 680w,
+/portfolio/static/033cf0021ee6349f5e221eb1c1325a42/54376/RunAnalyzer_4.webp 1360w,
+/portfolio/static/033cf0021ee6349f5e221eb1c1325a42/e0aab/RunAnalyzer_4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/033cf0021ee6349f5e221eb1c1325a42/ad208/RunAnalyzer_4.png 340w,
+/portfolio/static/033cf0021ee6349f5e221eb1c1325a42/a5a26/RunAnalyzer_4.png 680w,
+/portfolio/static/033cf0021ee6349f5e221eb1c1325a42/60356/RunAnalyzer_4.png 1360w,
+/portfolio/static/033cf0021ee6349f5e221eb1c1325a42/e957c/RunAnalyzer_4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/033cf0021ee6349f5e221eb1c1325a42/60356/RunAnalyzer_4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;User Overview Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays all Strava activies imported from user&amp;apos;s account. Click refresh in the nav bar to update with any recent activities.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/01bbfa2cbbe938b589d93903a9575475/e957c/RunAnalyzer_6.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB/0lEQVQoz41SyY7TQBD1T/MFXODAAcQBiRvigJAQBwRIHCYkmcTZnMV2Fsd2MjiTxWuctjOTxMuj7XZGE+BASU/V6nr1urqquPr3L+iUf0Lkq1A6PLReE2OBh9S8xrBdgzpoQxU7GHebUPstqL0G5fC4EVsw5Damkx5GQwGiUEO9UgLX6Qg4xCkiAKeUITtn5uxCdKURxImKoTqDPNVxpPEEjJMhThh3S0L0BiI4uVVGEsfsNmXR+/s7hAHB1vMgUpIyUjAdK5jPZggIyRGdTiylyAnJFpMBD24ilBAVgmma5n6/38NxnNzPFjco92q4HjSwNjcIggC+7yOKoqIGJni3lKDzH8CNu1eIHwmeRc8mbSZ4Wn2JF423IIfgIsb4haCl41a+AtdvfPtL8Cx6ot/SNB3LxRLWxsLxeLzgPOaGxIP9S6ZDKX1+EPzTMkFJliEPR5hqGkgQ/INVtGlnwZkL4Piv7+nLh/ylJIkpkhzZVzJB0zRh2zZc12UVZvHo9MBLil6G2yVcvQKu+ukN1rdz2NaaJprwXJtO16GwYZkrODYdBJ2g51DhzQLuXIGvK9j5DnybxjV6XhmwNR6O/BFc5d3zXMCne0T2rIK4qDRrRRxHhWfIKsrWjFVI74r1IYsBzPprcKVXTyBJIkRJhmEYF+vzP3aeMjH6WP14ht8a9zveweqdYgAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/01bbfa2cbbe938b589d93903a9575475/51a8e/RunAnalyzer_6.webp 340w,
+/portfolio/static/01bbfa2cbbe938b589d93903a9575475/713b7/RunAnalyzer_6.webp 680w,
+/portfolio/static/01bbfa2cbbe938b589d93903a9575475/54376/RunAnalyzer_6.webp 1360w,
+/portfolio/static/01bbfa2cbbe938b589d93903a9575475/e0aab/RunAnalyzer_6.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/01bbfa2cbbe938b589d93903a9575475/ad208/RunAnalyzer_6.png 340w,
+/portfolio/static/01bbfa2cbbe938b589d93903a9575475/a5a26/RunAnalyzer_6.png 680w,
+/portfolio/static/01bbfa2cbbe938b589d93903a9575475/60356/RunAnalyzer_6.png 1360w,
+/portfolio/static/01bbfa2cbbe938b589d93903a9575475/e957c/RunAnalyzer_6.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/01bbfa2cbbe938b589d93903a9575475/60356/RunAnalyzer_6.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Activity Show Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Shows detailed data for chosen activity&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/c663c97a522036c5d4a5e6d2e8bb0e97/e957c/RunAnalyzer_7.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB10lEQVQoz21Sy27TQBSdj+YjumTDgiUIlrCooBtUCqIqhFppnFbOw2lDgbTxc/x+Jj7MvfFAG2Hp6Pi+zj3jsTg7OsSvqyHupyac2RjunNjEejZSPIKr3glOz958B38+hm+P8XtpYXU7hX05gGkMIAxjiCgrEBUN4rpDB2Czh7bH5j+gfnrCOMVscQ1x+f0TLMvCdDKB77mqQ7V02wfQI9jLb1muYwaSKMBP24SYGCfwgwBSSkRRjDzP/813HUPK6FFe19q2xXa74bhcXWF++hrCGh5DRhEXgzBk8aIo0ag4Lwo4joP79Rq+H6BpGtR1zZxlGVzXQ664VSYzZwH7/D3E6NsRD5IIuayqCmVZolScphm7pmUkxPke5JiY+6saaRzANk8hzk/eIs1SLtDRir6JQC5IUC/ReUKhTGjxqm6QSgfXo48QZ+9eKSckWCMM5aNBEiTXf92xsK7l7LKqSLBFJu+wMA4hvrx5rgQTFgyCcLe5F6RFtGT/uHoZoaK42SBxbayMlxCfXxwgSWIeIkE9QDENhMohXcLD41KN3GmHSg/y9gLe12cQx0+fIPA9JZri5maJOE7YGd+i52G5/MGuk2SX16BPEaq/gk6XlQ38xQB3Hw7wB7jzQeMcK1Z2AAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/c663c97a522036c5d4a5e6d2e8bb0e97/51a8e/RunAnalyzer_7.webp 340w,
+/portfolio/static/c663c97a522036c5d4a5e6d2e8bb0e97/713b7/RunAnalyzer_7.webp 680w,
+/portfolio/static/c663c97a522036c5d4a5e6d2e8bb0e97/54376/RunAnalyzer_7.webp 1360w,
+/portfolio/static/c663c97a522036c5d4a5e6d2e8bb0e97/e0aab/RunAnalyzer_7.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/c663c97a522036c5d4a5e6d2e8bb0e97/ad208/RunAnalyzer_7.png 340w,
+/portfolio/static/c663c97a522036c5d4a5e6d2e8bb0e97/a5a26/RunAnalyzer_7.png 680w,
+/portfolio/static/c663c97a522036c5d4a5e6d2e8bb0e97/60356/RunAnalyzer_7.png 1360w,
+/portfolio/static/c663c97a522036c5d4a5e6d2e8bb0e97/e957c/RunAnalyzer_7.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/c663c97a522036c5d4a5e6d2e8bb0e97/60356/RunAnalyzer_7.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Activity Show Page Metric/Imperial&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Data such as splits can be viewed in either miles or kilometers&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/6d3d4c50fecae32848792e68d29946d7/e957c/RunAnalyzer_9.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAC6UlEQVQozzXS2U8bVxTH8fnHKvWlD1XVh6pIVZW+kIcUVY0iVVXUJShRlIg0apo2CYSIbIIW2kDZjAirbWyK9wVvw8zYs3hmDB6wcYDiyLH97YDUI13dc+/DR78jHSG0tEAiGCAX2UJJRSll4kjpKFIqQjkbp5QKnd+Ge7R0BLuQRM3EKOcS7IpJtJ0kspxGzMaIbvoQkokUGVlF1G0Uq4piO4jmHsXKPmV7F1k1KOplFM1AtypUaw0Oj49wjmrs1iucvKvSaNhYtklekhDEeABZKbCjSii6SskwXERHKmk0T/+FbpdOu0230+asOu9aeBJ5Prk7zow3SHpszJ0gTL1uYOzEEOSUH10VKZYVxHKRfNkg7yZSTZtWq3WOtLsd2megi5/1Pz/wMPLDMNLDp7zuvYDp6eckeJO99XsIUtqLqhbQLA3JMshZFvnKHtqeQ7PZpOMC/1e30+HY/Yt5whxNL3Iy/Sun/u85uPs+jeFPqWVmELLR10jyNpKbsGjbqC5kHNTQnSpvT5uuAvPSCnPS6nnfctHkzAbFOyMcPLqG1fcezp0eGl73bWcREr6/SScCZKVtCrqCUjEx6w6aUyFrlZiK+hkKv2LY/4Lx+THmZ6fxPXpO6cJltIufIV78gP0fP+I4+ic1NYQQXhgltblIIbOFXMygmwqWo1M/cgjJcQK5ICllg/XIJAtuipeDt1DGHvLm1teYvT04/mFOZq/RWBvh0HDXZnNqiOTaBIXIEmphi91yjv3KDodOkWRsFSnr5Y0josgBUp5niD99x9s/BmiGPJwWVtEfu9jUDY7nBqjnnyEEXt4mMT9E1jvKTmgKI7fMvhZyF3mF7eAE1dIWdTnI2tpzZvsvs37jG+rhUSzfU+yV+8hPvmXjiw/RBj6nunwVwXv/CtHx2yRn75FZGkT55wV2do7t5cf4JgaI/zVI+LfrLPb3MfdVD5O9H5P75RLSgy8pPrmCOX0dc/Iq5d/7qExe4j+Hk+K9755qOwAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/6d3d4c50fecae32848792e68d29946d7/51a8e/RunAnalyzer_9.webp 340w,
+/portfolio/static/6d3d4c50fecae32848792e68d29946d7/713b7/RunAnalyzer_9.webp 680w,
+/portfolio/static/6d3d4c50fecae32848792e68d29946d7/54376/RunAnalyzer_9.webp 1360w,
+/portfolio/static/6d3d4c50fecae32848792e68d29946d7/e0aab/RunAnalyzer_9.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/6d3d4c50fecae32848792e68d29946d7/ad208/RunAnalyzer_9.png 340w,
+/portfolio/static/6d3d4c50fecae32848792e68d29946d7/a5a26/RunAnalyzer_9.png 680w,
+/portfolio/static/6d3d4c50fecae32848792e68d29946d7/60356/RunAnalyzer_9.png 1360w,
+/portfolio/static/6d3d4c50fecae32848792e68d29946d7/e957c/RunAnalyzer_9.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/6d3d4c50fecae32848792e68d29946d7/60356/RunAnalyzer_9.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Add Custom Note&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/f6d6e435a9ac8a77be1b7c095b373e66/e957c/RunAnalyzer_10.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACEElEQVQoz32SS2/TUBCF/af5Cwg2LBBILFghFgipYoEAiUVDWxo3bdwktvO0HQe3aRs7r7pxiJ8f13ZSHgKOPLJ958zRmTsjVT+9p37wBVU+ol+XMRs1uoqMVvtK++wYo3WGodbpntcwmqcYjRPBkRmppzj6GYNeg05bQVWOqR5WkOp1hU2SEQNR9jPEg7e841zroPYM2sYQvW8SppDm3C0/yX8EFv6KRktF0k8PSJOkPM3KbBxFfF+v8f1bNFWjp3cZdPqM7BHrYEWwWglqyc22NSt/Qa8lI/WUCvFOUCAI1gwMA73dwR6OaA+6KIMWsiZatyxsITq0bVzXJcnrtoLrsYYlv0Hqnu+XiS3iOGaz2RBGYdF3c9zmYfU5T2ovmQdLUZ8VnEh0kQqXWZaVgq7Fpb6P1Dz5eC+4S+6Qn1vmkEtnjHvjEoURf2JXs/LneN90MZTKu98c/krKXWi6XrQ/ME1xp3f8C8Gty9RWkOQPrwnDTSGSpknRRtlKWghOJhM8z2M2mwleWAwjjaN7XhrHpcPFmJl1iHS094LrSxvPvRaFE+Yzj8V8KsLDnVwx9W64ExOcT4XwzQUzu8/S6nO7nLL0RN4U31cOnikz1d8iHb56XAgsxR75Qekg2TrNryJJ4u27jNxRvmalQ3EWlffqX7SYVJ8hVZ4+QNNUVE3HcZy/Dud/2O2h7zS5+vyIHwkMOiBvxW4jAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/f6d6e435a9ac8a77be1b7c095b373e66/51a8e/RunAnalyzer_10.webp 340w,
+/portfolio/static/f6d6e435a9ac8a77be1b7c095b373e66/713b7/RunAnalyzer_10.webp 680w,
+/portfolio/static/f6d6e435a9ac8a77be1b7c095b373e66/54376/RunAnalyzer_10.webp 1360w,
+/portfolio/static/f6d6e435a9ac8a77be1b7c095b373e66/e0aab/RunAnalyzer_10.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/f6d6e435a9ac8a77be1b7c095b373e66/ad208/RunAnalyzer_10.png 340w,
+/portfolio/static/f6d6e435a9ac8a77be1b7c095b373e66/a5a26/RunAnalyzer_10.png 680w,
+/portfolio/static/f6d6e435a9ac8a77be1b7c095b373e66/60356/RunAnalyzer_10.png 1360w,
+/portfolio/static/f6d6e435a9ac8a77be1b7c095b373e66/e957c/RunAnalyzer_10.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/f6d6e435a9ac8a77be1b7c095b373e66/60356/RunAnalyzer_10.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Custom Note Displayed&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Spotify Track Filter]]></title><description><![CDATA[Technologies HTML website CSS styling and animations jQuery and vanilla JavaScript AJAX requests to pull external data from Spotify API…]]></description><link>https://spk2dc.github.io/portfolio/spotify_filter/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/spotify_filter/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML website&lt;/li&gt;
+&lt;li&gt;CSS styling and animations&lt;/li&gt;
+&lt;li&gt;jQuery and vanilla JavaScript&lt;/li&gt;
+&lt;li&gt;AJAX requests to pull external data from Spotify API&lt;/li&gt;
+&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spotify API Integration&lt;/li&gt;
+&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;li&gt;jQuery &amp;#x26; Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
+&lt;/ul&gt;
 &lt;br /&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
-  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_1.png&quot; alt=&quot;trip_statistics&quot;&gt;
+&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e957c/SpotifyFilter_5.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB5UlEQVQoz22Sy5LTMBBF/RvDAIlfkvyKZUt2HMf2hLwzkOELYE2xABYzUPDzl5acpFiwONWyr/rW7badu0OE5Os7NL8/ong5Qb4cLernI/wfA6JfW2R/jhb+vIb7rYP3vb8x/bLA208a0881vH0OhwUMsS/gvprAv59avAvBvYtBL3F82OG02qNOS/h3E7DXPuGNvKHzxBDA93w47dDh/HRGqRUKVUJXGrqu7LNhJnNk+YzIIAtJmrZcdVWpsYcIRAgnkzOsVivUdY1KV6iqisSxXjGaQUqJPM//i9G8kBLmpcR2s0HbtlgsFpamaWxtF+O7drm0VcoCZVGiKAqLUspSljSZ0qMhi7g1WFLTMAzo+x4dcT0bjNZ1nb1nDExqUxljNzjnmHhTOHGaYLfZYkMpTaOFmrsL/cXcYKaYzxtibg2FEDeiKMLUd+GILMb6sEU/UDKTZNmNpu14rrSGzCUKGlfRaKZyShSGIQQXFpMuEhdDVzKIB4moTBFnyY1kliJKY7sXgxt4tpoV8VhY2BV6J5IIE2tIF80OQh7SZ6d6wecBUvpVHp8+YL3f4HR+j93pAJ6I8Q6ZjIz3WUw79GmHPgtsXBvf7INWINIInIjzBKqhkasSaq5R1MrqRhNXTM8/I/8FflBbcOqPUWcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/51a8e/SpotifyFilter_5.webp 340w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/713b7/SpotifyFilter_5.webp 680w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/54376/SpotifyFilter_5.webp 1360w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e0aab/SpotifyFilter_5.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/ad208/SpotifyFilter_5.png 340w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/a5a26/SpotifyFilter_5.png 680w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/60356/SpotifyFilter_5.png 1360w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e957c/SpotifyFilter_5.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/60356/SpotifyFilter_5.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
   &lt;div class=&quot;card-body&quot;&gt;
     &lt;h5 class=&quot;card-title&quot;&gt;Landing Page&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Displays the landing page to login/register and a link to download your Google Maps location history data&lt;/p&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays the instructions for how to use the site&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
-  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_4.png&quot; alt=&quot;trip_statistics&quot;&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e957c/SpotifyFilter_4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB8UlEQVQoz5WQy27TQBiF+xjcktgeey62YztxHV/HTkqoKgUQVVWlElIvtIWyqMSGSLAA3oAFq2541cPM1EgVSEUsPh3L0vl8/G9Z+xPExx2SswXGJx3isznGivC0hTiXaD6+Qv5hBbnZx/b1HlbfjnH98wve3XzC1c1nvP2xwfvvGxx9vcRoN8QWGTmgIxfeQCcBHRB4D214DyyEQ46nsw7zaY2lSpkUSEWMNqvRpCVkURu6WiJPMxDbUULmgvtCwcEFh7dMEBxW8A8K2C8niNYS2ZtnyE6WSI5a2C8mIKsJnFUCe0LhOA5s4sB1XVDl2CJUCTk3UEoxPqggr54jWFeITueoLvbgHc4wO99F+noBus4hLiT4pQRtInDKzBDd9zi9I2S3L7Iqx07ZYUx9yKxCmzcIXYGuaMAsz0CL0MAiH0x1GWMQXMAi9t/CfFGjbVtzhlo2kF0LPwj6VAK1hnUx6DwGS3zVY/cIGUW506AsChB1k0YLWwnf99E0DYQQahED7SIDi/8lVAtnXYlFNzeSulJrpVomfJO6pMusHpv76YXsPiFVX4+rFGmZmftMi21M1bOIA5Nc30xTR7eYhX/c0PGIEZov6d8JlNjvs4f9zvAO/Xvd0V3tsBwlfGwNMCAjDJwe8p/0vSGx8Gj4BL8AKktYuwKF+AcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/51a8e/SpotifyFilter_4.webp 340w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/713b7/SpotifyFilter_4.webp 680w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/54376/SpotifyFilter_4.webp 1360w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e0aab/SpotifyFilter_4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/ad208/SpotifyFilter_4.png 340w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/a5a26/SpotifyFilter_4.png 680w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/60356/SpotifyFilter_4.png 1360w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e957c/SpotifyFilter_4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/60356/SpotifyFilter_4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;User Profile&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Shows basic account data and short instructions on how to use the site&lt;/p&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Search Results&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Users can search from anywhere on the page from the navigation bar and see the search results here.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
-  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_6.png&quot; alt=&quot;trip_statistics&quot;&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e957c/SpotifyFilter_1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACfElEQVQoz22Sy27TQBSG+xagpm0utmfGjp3ETpukadq4kIbQQBsnXCouBSEVSqVCWVVCILFgwXWBkHgHdqxYsQC2CPEUSCAe4uPYZQESi19n5PH5Zv5/zlQhCalud6ldXyW41qV6Pc5qKr3dpnNng9buaeKDhMbeAPtKC0dkX25la2urQTGJsJN5iv0KU1a+hMrbOHMlnNkjqTkLO1fAni7Su7HB8NFVeg+26E7WcI4Vsn/MnI3JO0cqKLySpjCbF6CWDc9FGU1Yj4jm6+Qti/n2MnHcpTHoEG4s8eLtGy7t7RBGdbonVikHZbRr0J7JqiuMgl0UoLJxjcG2bcJaFU82czOzDM4knJuMaS00qVdCfn3/wfOXr1lcWmY8OU+lEqCUwkiv1loYArT+ALVslH2fd+8/8OXrN548ecr6YMBoNKLf79NsNvn58wePn71isd1hMh4TBEHW9w+wJMCSAFO7btnl2u277B8+5MKly/ROrdHrr9FZWcavBnz6/JGDw/tEjQbrZ9bxKz5KK7T0ZhJn6eWmitpClcWyq8jlpzmeO8bMTE4O8IjqdYJqhTAMZR1JfiG1Wk1AGkc5OGWp3l8SxpTlSIbaYESe8TBxiBkuUB0t0d+bcGp3Qm834eTOJmf3t+jdGuENG+hBhK6XMUpnvalSp1mGaQ6p0pD9c21W742JbpzEbC/RvDmgtLXAws4atSsxxYvzuLtdzO0VVCfAOKnl/wHlg2MUrU6bXjvGt126zQ5xSzK0XOLFFUxRZTOnWpLfoo+ueBns6FEMRbv07w1LjsXwwiZJkuBoh82R2Nw4KzPny0MMZRKOZk+th6ihWK5JRAL7+5V/A1Ccbj8gvAatAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/51a8e/SpotifyFilter_1.webp 340w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/713b7/SpotifyFilter_1.webp 680w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/54376/SpotifyFilter_1.webp 1360w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e0aab/SpotifyFilter_1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/ad208/SpotifyFilter_1.png 340w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/a5a26/SpotifyFilter_1.png 680w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/60356/SpotifyFilter_1.png 1360w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e957c/SpotifyFilter_1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/60356/SpotifyFilter_1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;New Trip&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Allows user to upload data for a new trip to be analyzed, or download demo files to test out if they do not have any data&lt;/p&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Filter Settings&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displayed search results can be filtered using any number of options and values desired. Each parameter can be hovered over to display an explanation of its meaning and a graph of the standard distribution of values.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
-  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_7.png&quot; alt=&quot;trip_statistics&quot;&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/e957c/SpotifyFilter_2.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB80lEQVQoz42SW0/bQBCF80dISOzd2V1fcyEXcrMhSSsISihWgRYFCVAIQan4/y+n40sAVa3Uh6OZ9Xq+8cxx6XBZR3A3Rn0Vw1+NEP4Yw1x20bo7weTtCqPtBeLdEoPNOaLdAtHrAnTVhr1oQtx2YF+3UVs0snN15qNkVWqQFRuizPGgBmsSoH5/kjVprWeItgs0n6YYvMwx3SWcT2B+DqBue5B1A1UWUFUJXSNUDioMJBvK6EyCJDrfI5y9JThi4PHDFPH6HG7SQcQxSLrQ31pwnodwN0Oovg8iAmkFzfWHdpWBkoFKQZGCUBLtcRdRPIIXOBiO+hhFA/ihx5Eh/MzxDUwUZFKhyYEsrRhopUBhQ1MK5AtFMA0PJnRhu9y1zjlL+ppzF9LjKTxu3HQgWcRnVdS+A6tkQToEYXLZnEuGOa6bjWGMyeXkcoqzSGvcj7pUlhIo1XjkdAfp16VRSAm/EWK+vcbXlwTxI7v8dIH5rxvMni/x5TXB7GGZ7VwWU+0lNX3eIeVR8kWg0d2esctTeOsYweYU5n4Ih2WvupA3HShd1NBHTE19B1IBJAZq38H4eAhPGAyaPRy5DcgyT8K/l0pj4Wy+d/WHKX8Dspudfi/bmR8GXFwAjMrfCcz/AfeXit0jk8P3jbJ3itUQu/4v4G/iHlmG4TSTkAAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/51a8e/SpotifyFilter_2.webp 340w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/713b7/SpotifyFilter_2.webp 680w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/54376/SpotifyFilter_2.webp 1360w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/e0aab/SpotifyFilter_2.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/ad208/SpotifyFilter_2.png 340w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/a5a26/SpotifyFilter_2.png 680w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/60356/SpotifyFilter_2.png 1360w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/e957c/SpotifyFilter_2.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/60356/SpotifyFilter_2.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;All Trips&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Shows all trips that have been uploaded&lt;/p&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Filter Results&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;The filtered results are displayed below the filter settings once the run filters button is clicked&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
-  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_8.png&quot; alt=&quot;trip_statistics&quot;&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e957c/SpotifyFilter_3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABjklEQVQoz5WSTU/bQBCG+SEtjp31fsbrGJzFcUI+3NgIDqVSJVRSKnrhRiv1XlEOSPzsl9kFcahiCQ6v3p2dnUejmd0bfCmQXy1RXK9hfyxgrxZwNx2+Pt6g/bdF8/ci6OzhGpu7b+jut2jvLsG/T8Euj8AuHJLzA7DzQ8Sdxd4wSsAjhnTf+xDpB3IhMP/zGTNSfttiTHK/T1HeniD/RfHPNWTMIfdTyEEazioRiD5GBBQMUiuSDBKSfGzgVjVMkcEdTzGZUydGIB3J4KxQEIak5KsUMQYsJiAnIEEEdRWcCyhrcLxcIDMjTA5LGG3CvfRvvGfPMB+Ll1olCTjsA+YjHNVVuLN5Dq31az5ArH4fUFLBYr1Cbi2KooAx5j/g7g6jZNAPbNpPmNUzVFX1JqDPDVPWP8PpvIZW+m1A6ecrwZXom6HBpHJ05ijLElmWgTEWvpPP9wJlD1DTUsblAXjKUdc1mqaBcw6WZuoLdy3F18Ys6e8wG1tw6nBNy9lsNui6Dm3bhrmKvm+TxHgC+ipSgV4dPTUAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/51a8e/SpotifyFilter_3.webp 340w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/713b7/SpotifyFilter_3.webp 680w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/54376/SpotifyFilter_3.webp 1360w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e0aab/SpotifyFilter_3.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/ad208/SpotifyFilter_3.png 340w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/a5a26/SpotifyFilter_3.png 680w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/60356/SpotifyFilter_3.png 1360w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e957c/SpotifyFilter_3.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/60356/SpotifyFilter_3.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Trip Display Page - Data&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Displays details on one selected trip. Place and activity data are in separated tables that can be collapsed&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
-  &lt;img class=&quot;card-img-top border my-1&quot; src=&quot;./trip_statistics_14.png&quot; alt=&quot;trip_statistics&quot;&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Trip Display Page - Map&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Displays details on one selected trip. Interactive heatmap containing all places with markers and labels showing more information&lt;/p&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Audio Analysis&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Each song from either the search results or filtered results can be clicked to display an audio analysis of its values at the bottom of the page.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Trip Statistics]]></title><description><![CDATA[Technologies React Frontend Python Flask (backend micro web framework) SQLite3 / PostgreSQL Databases Node JavaScript HTML CSS Bootstrap…]]></description><link>https://spk2dc.github.io/portfolio/trip_statistics/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/trip_statistics/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
@@ -84,8 +563,7 @@
 &lt;/ul&gt;
 &lt;br /&gt;
 &lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
-&lt;br /&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5448df9aa3e7bfc152d0bfbc91ace96e/e957c/trip_statistics_1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -112,7 +590,7 @@
     &lt;p class=&quot;card-text&quot;&gt;Displays the landing page to login/register and a link to download your Google Maps location history data&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5f4cc1358d0e57392a341184a34b06ac/e957c/trip_statistics_4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -139,7 +617,7 @@
     &lt;p class=&quot;card-text&quot;&gt;Shows basic account data and short instructions on how to use the site&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/603e83ebab2da57d2b96913cc198804f/e957c/trip_statistics_6.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -166,7 +644,7 @@
     &lt;p class=&quot;card-text&quot;&gt;Allows user to upload data for a new trip to be analyzed, or download demo files to test out if they do not have any data&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/312bddeacf36d06d7736b637db62dc48/e957c/trip_statistics_7.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -193,7 +671,7 @@
     &lt;p class=&quot;card-text&quot;&gt;Shows all trips that have been uploaded&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/c3de3613f970335ef116b284fef86389/e957c/trip_statistics_8.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
@@ -220,7 +698,7 @@
     &lt;p class=&quot;card-text&quot;&gt;Displays details on one selected trip. Place and activity data are in separated tables that can be collapsed&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;card bg-light mb-3 p-2&quot;&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/d6060ed1a3df2c2a02c84ade49ecb80a/e957c/trip_statistics_14.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   

@@ -159,6 +159,26 @@
   Link: </portfolio/component---src-templates-blog-post-js-17fe01d651e1161c045b.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/hello-world/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/battleship/
+  Link: </portfolio/webpack-runtime-68df9177c57fa42228d0.js>; rel=preload; as=script
+  Link: </portfolio/styles-2d82ac8e3afc0c213061.js>; rel=preload; as=script
+  Link: </portfolio/framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </portfolio/app-c961cb9b527265cdbd58.js>; rel=preload; as=script
+  Link: </portfolio/c3d88191fc37ce95875094d54a334e79e5e20b44-68d6db6ef6b547bacca6.js>; rel=preload; as=script
+  Link: </portfolio/cdd71b60eef3840995a4875138328f34e98dc1cc-3299b0e60bf3d0885339.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-project-post-js-a8327129979965be0347.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/battleship/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/run_analyzer/
+  Link: </portfolio/webpack-runtime-68df9177c57fa42228d0.js>; rel=preload; as=script
+  Link: </portfolio/styles-2d82ac8e3afc0c213061.js>; rel=preload; as=script
+  Link: </portfolio/framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </portfolio/app-c961cb9b527265cdbd58.js>; rel=preload; as=script
+  Link: </portfolio/c3d88191fc37ce95875094d54a334e79e5e20b44-68d6db6ef6b547bacca6.js>; rel=preload; as=script
+  Link: </portfolio/cdd71b60eef3840995a4875138328f34e98dc1cc-3299b0e60bf3d0885339.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-project-post-js-a8327129979965be0347.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/run_analyzer/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/spotify_filter/
   Link: </portfolio/webpack-runtime-68df9177c57fa42228d0.js>; rel=preload; as=script
   Link: </portfolio/styles-2d82ac8e3afc0c213061.js>; rel=preload; as=script
