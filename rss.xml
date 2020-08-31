@@ -1,183 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://spk2dc.github.io/portfolio</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 30 Aug 2020 21:31:29 GMT</lastBuildDate><item><title><![CDATA[Battleship]]></title><description><![CDATA[Technologies MERN stack (Mongo, Express, React, Node) HTML CSS Bootstrap JavaScript Features Event listeners and handlers Document Object…]]></description><link>https://spk2dc.github.io/portfolio/battleship/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/battleship/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;MERN stack (Mongo, Express, React, Node)&lt;/li&gt;
-&lt;li&gt;HTML&lt;/li&gt;
-&lt;li&gt;CSS&lt;/li&gt;
-&lt;li&gt;Bootstrap&lt;/li&gt;
-&lt;li&gt;JavaScript&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Features&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Event listeners and handlers&lt;/li&gt;
-&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
-&lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
-&lt;li&gt;User information storage and password encryption - using Bcrypt&lt;/li&gt;
-&lt;li&gt;User sign up and log in functionality&lt;/li&gt;
-&lt;li&gt;Full CRUD functionality&lt;/li&gt;
-&lt;li&gt;RESTful API&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br /&gt;
-&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e957c/Battleship1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACEklEQVQoz02S6W7TQBSFZ/EyXhM7SZ2k2UocVJbQgmh/UIoIqdpSQeEfD4DE+7/B4dxxQI10NOOJ73fPuWNl4wSBy+DyCmFawsQZTJLDpAWCvISrhnC1aIC4GsAUPS9b1jDlAGE9RjlfQ5dDJOMVlA5jmMghr0ewhOkoheaqeJbx7PTsLdavtmhfv8Fme4ZkMIJKc+hcwBV0UUMRrPIaQT2BUspAoCqIvEyUdS5dDiuFJYsqQqQh3ZqsgKI03XfqE1bB9EbepWpmCxiCJLqTKDEdhiksgTpKoBndECoSV4rj0AKkJLrya4WobuiwgXp5/g4FZxMlGWL5k1F16OjWdU4lPpspl1KZj+uhaQf2QDYSp1ai2zCEjeiQLkfjKeG0bQJ0s/3nlK7Z0EM8rDiADw08uKToeLpYIe/10ect/vr9B9f339jAwZWcTRATnHiXliDvUCRwAsSZldhPoVHMiMYgLQo8356jpsuYBRFfCrnKJxUkRfdJcW9ZGBaMxwsxBARsLFC5ID9T/hAwttIa1XCIkA0ix5lp64FVM/EjUIoy/BJkvuLWcs8L9PNNDnNmrRofz9G+2Ho1xwtM5iuv2fIZtcbsZINle4rpgs+rDabLFtNVi4bPR/MTHHEd83zEvUhdfPyC91c7XFCX3F9e7/Hh8y32X3/g5uEnPt084Gp3h93dd549Yn//6Fc5+1/zRH8B6JAI00gcnt4AAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/51a8e/Battleship1.webp 340w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/713b7/Battleship1.webp 680w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/54376/Battleship1.webp 1360w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e0aab/Battleship1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/ad208/Battleship1.png 340w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/a5a26/Battleship1.png 680w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/60356/Battleship1.png 1360w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e957c/Battleship1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/60356/Battleship1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Landing Page&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Displays the instructions for how to use the site&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/e957c/Battleship3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACJ0lEQVQoz02SW29SQRSF58yc+w3OAXqAcqtQ4w2DxtZowUihtjZaffNB30x8MEbfTHxpiH98ufZATUlWZs8c5ttr79nKBBHcMEGYFvDiHDpIoKMUJsmoHHnVwfjRY4wfTlFrd6HTGnRWg8lL6LwBr2wj74/h5E1E7RGU4wXQfoi0bMEQ5vgxnIBiEuUGmJ+ucb25xubvBov1GZR8S3NKwAWcrIQiWKUl3LIDpZSGQJXrW2k/sS5NlFngk+cv8Pn7b3z58QczxorJt8Ab1QkroGst61JVvQE0QVJ6KKWIAy+GCdOt0yBENP+JcP4LTkzXcQYnEeW2dMVYnPplRYcV1IPZU2RFA36UIJCP4sAL6S7c9pNgZQz3VCRA7tljh6uALZDli1MjpRvPg/HpkC5bbHpW0LZ2se3tjdMUWpwJxMKyHXiXwIJzio67gxHSWh31soFPX79hcfGOCUKEed320PGiXU95UR5KRJAtmc6MlH0b6rNHjtaIswx3pzOUdBnwgs8/eVxlpFw+kB0pxjJOXsby+CCaAJeJBSoPZHvKH1yWrRwHRbMJjwn8MOLeWGDBOZQWKEVpToL0V9wa346Q4mPa0mXlXdXe72Nyf2pV7Q/Q6Y+sesM71Bi9g0MMJ/fQHXA/OkR3OEF3NEHF/V7/AHtc2zxvMRapo/kpnp0scUQdMz5erPDy9Rus3n7A+vIjXq0vcbI8x/L8Pc+usLq4squc/b9zS/8AF+AQAN+5QYAAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/51a8e/Battleship3.webp 340w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/713b7/Battleship3.webp 680w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/54376/Battleship3.webp 1360w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/e0aab/Battleship3.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/ad208/Battleship3.png 340w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/a5a26/Battleship3.png 680w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/60356/Battleship3.png 1360w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/e957c/Battleship3.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/60356/Battleship3.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Sign Up Page&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/e957c/Battleship4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACGUlEQVQoz1WS6W7bMBCEeUgUJUuyTVtHVNtxHDtHDyAtkP5JWsBJgDhGGhRFgT5Agb7/G0yHlAO0PwakluK3s7sUOkkR2QFsPkaclVDJACrNobIcUTGEdTXsxKvifgpdjqAY16WDKieIXYtyfgpZTpG2SwgZJ1DGIncVNGHSZJBJBkHpQYHV5TssV2tszi8xP7uAJkwwLvMhwWPIwkEQLHKHyB1BCKHgoSIyQcoMgkttcwhLsEkx2v2A2//sv1MmDcDyoBFhY6hhFVyKZraAIsiXbn0pdCbjLAC9U8l2JKvzIJkVB/FsUIbSvVvv1LiGDhuIt1efUIwnMMyc+EOWL2NLt7bvJ4FCRRA6Du4EYYI97qFFD2T53qn2pes4hjZ0SJdV2xE+DYC+t69OWaaHvIoue/AhQQCXFB13iyXy4QgjN8Gv33/wZffMBBaW0xRRQnDa9zT1PR30Cn0sg7MwpH+hJuElqZDlBc4+XME1HRJeMPwp5uqfVJQW/ZPi3k8+LlgeB6IIiJjYQ/2AQk+llIhZslQKrqphEgtjUx7oABw3R30PBaX4Enx/vVttwtMSHGYo3a+8K9y0xuJ0g2PK79s3C3TzJWbHK+oUsxOerS/QLfi93KA7XqNbrtHwu56foObaMl5x7yWapkHTtqjqGjX1/uM1bu+ecL97wcP+O74+7HGzfcT28Rvun15C3K8+dn2zxefbu//0FytcB3stNirvAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/51a8e/Battleship4.webp 340w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/713b7/Battleship4.webp 680w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/54376/Battleship4.webp 1360w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/e0aab/Battleship4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/ad208/Battleship4.png 340w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/a5a26/Battleship4.png 680w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/60356/Battleship4.png 1360w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/e957c/Battleship4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/60356/Battleship4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Home Page&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Default home page after login where user can start a new game&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e957c/Battleship5.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACtElEQVQozz2Sa28aRxRAF7O7wLIsYDCPYCyCMS8nKbZjRzYNGPPexXVTVVWrRk7IwyS1jUlU9Qf0H7YGXLVV+lNOL0TKh6vdmTtz7rkzo6heA9XrxwhG0AwLdRFmEN0KoQVCRDeyBLM5UtsPiKYzaKEIejiKN5JADa7hja1j3sugeC2q3QGKS9Vxe3wCXEX1GFiy2AiG8YcjWGtxwrE4o8oBZ+WvCMQThO+lsBJJVlNpArEkihnCZUVRND+HzR6K4nKzgK7oXvzZQ/TNBqHtDvHdAUahiWerRethk72Hbdy5BoFym7UdB1/hBE+xg//+npiuLg0fPz1BSW9u4dY8aD6TbGPIRvuaXG9M6fQjuf6YbP8DZsUhWT+X/wmZzhWlbyRnS87+KPA+mhVGMUI8abRRcqUyprSoGyal1ks2O5fku79Qsq8pOxICTu7alNtDCs4N99vvKA+k4OB6CY7vdFEDlrRssF9roKyoqhhqaHJ+j+wReXvCVkeAzpiiQIuDxSaHghTL2wJsvRPYzeecFItVOqz4/ShunYO6tLyeyWJaQcLRGN23v/Pg2W8Uepdsn06WliUBJgRY7ryi6EzE8L1Y38j8mPLZr0tDt2kuzKh35VI0sXO5XOheH5XBe9lwSU5aXhgU+lfS5oRExabYGsrZXrNxMhLwmLwUzTsfxLArT8xaGh73+nLLiiIwL6ruYfP4nHjtgmTtDanjt6QbF6RbV1ilFpmnz0nUR0SOhqw3RpK/INW8khfRxOUzFiCqJy2UR7v7HFTrPD6qsd/8jr32DxzaP1P/dkj97CXV0xccdb+nNpC5Z6/5Wsa1syEHvZ9k7Y/s1h12nlTJbVc4f32B8vc//zKdzpjN5sxu/2R6+wfz2S1/zWfLuJP/u8V3OZ5+idn089rZ9Jb5fC5xx6dP//E/5BV6ohWbMrMAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/51a8e/Battleship5.webp 340w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/713b7/Battleship5.webp 680w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/54376/Battleship5.webp 1360w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e0aab/Battleship5.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/ad208/Battleship5.png 340w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/a5a26/Battleship5.png 680w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/60356/Battleship5.png 1360w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e957c/Battleship5.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/60356/Battleship5.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;New Game Page&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e957c/Battleship7.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACv0lEQVQozy2S208bRxTGx2uvr+u18X0xJMikXExx8GV9t9d3GzB3FIUEMJA6KYrSKFKiSjRqpT61L31qpTRS/9ZfxtCHT2fOzDnffOebEYrTjU11oXp04uYJwfIVkcoV4cosXhCu3RDMbGNUX5CwpsTqN0Rq10Sq14RqUyJPh/iNBYTqp3/4DKGobhxuL4FoAqN4wlz5mmhVkklEZVOk9sP/hGcsdH4kKslClQlG8xVx6xZ9zcIRCCEcPnoHpwghFGwOFzOlsfwhenFCqHxJqPSA2QWBjSFG5Qyj9RrdfElcqpy3XhGuT9FWGjj0IMKlU+4MELHkIopdRZUqI7kjvIUJWuEczbyU8ULmVwS+HxEtnaEVr/Dmz+Wll/fwlW7wSUJXQBL65tiqNhHprSzaXER6qOFdruNa28G5MkSVcK1t41of40mV8a52cM7O5J5dnjnXRjg39nA/zmLz+aVCP9lqQ44uiezfDdAyh/g293EsW3hkob51gnN1iD3Vwp89wZs5wpZq4t7YJVp5gTO9g225iZaTD1l8jkjkeVqqIuKPl1FWD0ntfyQ1/iTNvsYnR06O3iNW9hGPOkS6b3HnLhBLXZT1Y6K9dyjpY8STAa78BUHppTAqkrCMcHql3PUDgu036NJsd+YANXeGpzTBvnmMfX0Xe+7lPRQ5ri1zipI7R5nF9K5cy33pq0hZD4Q2pwf97R/EP/9L4MNfOMavCf/8N9FfvuCf/k5gckfs81fCd19w7N3if/cnxm//ockede8Nsbt/mP/1K2J4yUY2J195fpFHrTFPRqfM1wYk8k2SjW2WOvskK32SpS6pwTGL7T0Ms82iNWapd0SiNiSWrbPQGN3XBtIFGp0+wqy2KBSrFMwHmKU6pszb8k/1+ttYrR7VmkWr3Zf5Dp3ukKbVfagtN+57zWKNzS2T6e1PfAOZh1lqObo5zQAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/51a8e/Battleship7.webp 340w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/713b7/Battleship7.webp 680w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/54376/Battleship7.webp 1360w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e0aab/Battleship7.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/ad208/Battleship7.png 340w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/a5a26/Battleship7.png 680w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/60356/Battleship7.png 1360w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e957c/Battleship7.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/60356/Battleship7.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Ship Placement&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Ships are displayed at the bottom of the new game page for a user to place them on their board and start playing the game&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/e957c/Battleship9.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACmklEQVQozyWTa1faWBSGA4YAuUASyYVw0XY5rVp0RghUIZWooLC0qx3XdKZWO+KFaftlvs7Pf2aHfnjXzllnn+e8706i5LUSuUIJtWyR08pSTUpVm2LFpiw1aG+w8WqbXzp71FptTD8QhVTCBjnLQVuvY0abKMUKw/NLlHwGK+lUaoFAapQdaag15EALK2yje02WuzHzrQ6qF+E0X1BtbmLWNyj7bVQ3JF/1UDSTo7MZiqLkUVSNzKm1c4F+cIM7uKOePFDp3WB0b2nuz6n3/qDcvcHufyFIFpi9v9DjO4ytEaqkyRzGx6cofqNNXi1QKBmE/Wvco0c58Ig3yvSAlyyp7M3wj24Ix/9gv/2b9eEDwTvZP/5GZfsYTUajGA6DdIKy+9sBpu1S1E2C+PdVcyTNfgYbLuTgErtzQSRAP3mSC+9pnCzlsgXu6FmA71AtE6WgMxifZWk11goahWKZ1uEncfQscX8CfQH6AnQ6MxrDL9TFYZhdJvvR+Ikw/Y71OmHNNFDWisTJGCVqy4ArVVzP5+jzf/jjHziDr7gSze7fURksqL65IHj7WUDPuIf3K9WG9zji0Ho1Ys3QBahxmMoMNa1ILpdHN022p4/UZHaBxPEziUNvJDHFYXN0S+v0O+sCa6RLmukzwfgbzs4xhSyyANPZHCWXy1HIYqsqtYOPGPE9Vv8rRu92Va3DJ4ztKevxnxj9BaWDW8q9bP8OffCInr1lw8g+F5LJFMULIl683mVrp0OwN8Hef4+7f4nX/YAv8nrXtLrnRN3L1bPX/UhN5OxfYf/6gfBNQrT5kpLrc3X9CaU/OiEepsRS+6OU/nDMQOrZxRXT+XvSyYzk5JwT+Qsmsj6bXZFO56u+n0oZJKfs9YYsf/zL/8mYR5qX6ijDAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/51a8e/Battleship9.webp 340w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/713b7/Battleship9.webp 680w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/54376/Battleship9.webp 1360w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/e0aab/Battleship9.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/ad208/Battleship9.png 340w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/a5a26/Battleship9.png 680w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/60356/Battleship9.png 1360w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/e957c/Battleship9.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/60356/Battleship9.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Game Play&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Locations are marked as hit (H) or miss (M) when a user clicks or the computer attacks back. User&amp;apos;s ships are indicated on their board by their first 2 letters&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Run Analyzer]]></title><description><![CDATA[Technologies HTML website CSS styling and animations Node.js Express.js, Express-Sessions EJS (Embedded JavaScript Templates), EJS Partials…]]></description><link>https://spk2dc.github.io/portfolio/run_analyzer/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/run_analyzer/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://spk2dc.github.io/portfolio</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 31 Aug 2020 00:31:23 GMT</lastBuildDate><item><title><![CDATA[Run Analyzer]]></title><description><![CDATA[Technologies HTML website CSS styling and animations Node.js Express.js, Express-Sessions EJS (Embedded JavaScript Templates), EJS Partials…]]></description><link>https://spk2dc.github.io/portfolio/run_analyzer/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/run_analyzer/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;HTML website&lt;/li&gt;
 &lt;li&gt;CSS styling and animations&lt;/li&gt;
@@ -388,6 +209,185 @@
     
   &lt;div class=&quot;card-body&quot;&gt;
     &lt;h5 class=&quot;card-title&quot;&gt;Custom Note Displayed&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Battleship]]></title><description><![CDATA[Technologies MERN stack (Mongo, Express, React, Node) HTML CSS Bootstrap JavaScript Features Event listeners and handlers Document Object…]]></description><link>https://spk2dc.github.io/portfolio/battleship/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/battleship/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MERN stack (Mongo, Express, React, Node)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;Bootstrap&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
+&lt;li&gt;User information storage and password encryption - using Bcrypt&lt;/li&gt;
+&lt;li&gt;User sign up and log in functionality&lt;/li&gt;
+&lt;li&gt;Full CRUD functionality&lt;/li&gt;
+&lt;li&gt;RESTful API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e957c/Battleship1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACEklEQVQoz02S6W7TQBSFZ/EyXhM7SZ2k2UocVJbQgmh/UIoIqdpSQeEfD4DE+7/B4dxxQI10NOOJ73fPuWNl4wSBy+DyCmFawsQZTJLDpAWCvISrhnC1aIC4GsAUPS9b1jDlAGE9RjlfQ5dDJOMVlA5jmMghr0ewhOkoheaqeJbx7PTsLdavtmhfv8Fme4ZkMIJKc+hcwBV0UUMRrPIaQT2BUspAoCqIvEyUdS5dDiuFJYsqQqQh3ZqsgKI03XfqE1bB9EbepWpmCxiCJLqTKDEdhiksgTpKoBndECoSV4rj0AKkJLrya4WobuiwgXp5/g4FZxMlGWL5k1F16OjWdU4lPpspl1KZj+uhaQf2QDYSp1ai2zCEjeiQLkfjKeG0bQJ0s/3nlK7Z0EM8rDiADw08uKToeLpYIe/10ect/vr9B9f339jAwZWcTRATnHiXliDvUCRwAsSZldhPoVHMiMYgLQo8356jpsuYBRFfCrnKJxUkRfdJcW9ZGBaMxwsxBARsLFC5ID9T/hAwttIa1XCIkA0ix5lp64FVM/EjUIoy/BJkvuLWcs8L9PNNDnNmrRofz9G+2Ho1xwtM5iuv2fIZtcbsZINle4rpgs+rDabLFtNVi4bPR/MTHHEd83zEvUhdfPyC91c7XFCX3F9e7/Hh8y32X3/g5uEnPt084Gp3h93dd549Yn//6Fc5+1/zRH8B6JAI00gcnt4AAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/51a8e/Battleship1.webp 340w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/713b7/Battleship1.webp 680w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/54376/Battleship1.webp 1360w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e0aab/Battleship1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/ad208/Battleship1.png 340w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/a5a26/Battleship1.png 680w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/60356/Battleship1.png 1360w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e957c/Battleship1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/60356/Battleship1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Landing Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays the instructions for how to use the site&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/e957c/Battleship3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACJ0lEQVQoz02SW29SQRSF58yc+w3OAXqAcqtQ4w2DxtZowUihtjZaffNB30x8MEbfTHxpiH98ufZATUlWZs8c5ttr79nKBBHcMEGYFvDiHDpIoKMUJsmoHHnVwfjRY4wfTlFrd6HTGnRWg8lL6LwBr2wj74/h5E1E7RGU4wXQfoi0bMEQ5vgxnIBiEuUGmJ+ucb25xubvBov1GZR8S3NKwAWcrIQiWKUl3LIDpZSGQJXrW2k/sS5NlFngk+cv8Pn7b3z58QczxorJt8Ab1QkroGst61JVvQE0QVJ6KKWIAy+GCdOt0yBENP+JcP4LTkzXcQYnEeW2dMVYnPplRYcV1IPZU2RFA36UIJCP4sAL6S7c9pNgZQz3VCRA7tljh6uALZDli1MjpRvPg/HpkC5bbHpW0LZ2se3tjdMUWpwJxMKyHXiXwIJzio67gxHSWh31soFPX79hcfGOCUKEed320PGiXU95UR5KRJAtmc6MlH0b6rNHjtaIswx3pzOUdBnwgs8/eVxlpFw+kB0pxjJOXsby+CCaAJeJBSoPZHvKH1yWrRwHRbMJjwn8MOLeWGDBOZQWKEVpToL0V9wa346Q4mPa0mXlXdXe72Nyf2pV7Q/Q6Y+sesM71Bi9g0MMJ/fQHXA/OkR3OEF3NEHF/V7/AHtc2zxvMRapo/kpnp0scUQdMz5erPDy9Rus3n7A+vIjXq0vcbI8x/L8Pc+usLq4squc/b9zS/8AF+AQAN+5QYAAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/51a8e/Battleship3.webp 340w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/713b7/Battleship3.webp 680w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/54376/Battleship3.webp 1360w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/e0aab/Battleship3.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/ad208/Battleship3.png 340w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/a5a26/Battleship3.png 680w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/60356/Battleship3.png 1360w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/e957c/Battleship3.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/60356/Battleship3.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Sign Up Page&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/e957c/Battleship4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACGUlEQVQoz1WS6W7bMBCEeUgUJUuyTVtHVNtxHDtHDyAtkP5JWsBJgDhGGhRFgT5Agb7/G0yHlAO0PwakluK3s7sUOkkR2QFsPkaclVDJACrNobIcUTGEdTXsxKvifgpdjqAY16WDKieIXYtyfgpZTpG2SwgZJ1DGIncVNGHSZJBJBkHpQYHV5TssV2tszi8xP7uAJkwwLvMhwWPIwkEQLHKHyB1BCKHgoSIyQcoMgkttcwhLsEkx2v2A2//sv1MmDcDyoBFhY6hhFVyKZraAIsiXbn0pdCbjLAC9U8l2JKvzIJkVB/FsUIbSvVvv1LiGDhuIt1efUIwnMMyc+EOWL2NLt7bvJ4FCRRA6Du4EYYI97qFFD2T53qn2pes4hjZ0SJdV2xE+DYC+t69OWaaHvIoue/AhQQCXFB13iyXy4QgjN8Gv33/wZffMBBaW0xRRQnDa9zT1PR30Cn0sg7MwpH+hJuElqZDlBc4+XME1HRJeMPwp5uqfVJQW/ZPi3k8+LlgeB6IIiJjYQ/2AQk+llIhZslQKrqphEgtjUx7oABw3R30PBaX4Enx/vVttwtMSHGYo3a+8K9y0xuJ0g2PK79s3C3TzJWbHK+oUsxOerS/QLfi93KA7XqNbrtHwu56foObaMl5x7yWapkHTtqjqGjX1/uM1bu+ecL97wcP+O74+7HGzfcT28Rvun15C3K8+dn2zxefbu//0FytcB3stNirvAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/51a8e/Battleship4.webp 340w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/713b7/Battleship4.webp 680w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/54376/Battleship4.webp 1360w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/e0aab/Battleship4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/ad208/Battleship4.png 340w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/a5a26/Battleship4.png 680w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/60356/Battleship4.png 1360w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/e957c/Battleship4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/60356/Battleship4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Home Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Default home page after login where user can start a new game&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e957c/Battleship5.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACtElEQVQozz2Sa28aRxRAF7O7wLIsYDCPYCyCMS8nKbZjRzYNGPPexXVTVVWrRk7IwyS1jUlU9Qf0H7YGXLVV+lNOL0TKh6vdmTtz7rkzo6heA9XrxwhG0AwLdRFmEN0KoQVCRDeyBLM5UtsPiKYzaKEIejiKN5JADa7hja1j3sugeC2q3QGKS9Vxe3wCXEX1GFiy2AiG8YcjWGtxwrE4o8oBZ+WvCMQThO+lsBJJVlNpArEkihnCZUVRND+HzR6K4nKzgK7oXvzZQ/TNBqHtDvHdAUahiWerRethk72Hbdy5BoFym7UdB1/hBE+xg//+npiuLg0fPz1BSW9u4dY8aD6TbGPIRvuaXG9M6fQjuf6YbP8DZsUhWT+X/wmZzhWlbyRnS87+KPA+mhVGMUI8abRRcqUyprSoGyal1ks2O5fku79Qsq8pOxICTu7alNtDCs4N99vvKA+k4OB6CY7vdFEDlrRssF9roKyoqhhqaHJ+j+wReXvCVkeAzpiiQIuDxSaHghTL2wJsvRPYzeecFItVOqz4/ShunYO6tLyeyWJaQcLRGN23v/Pg2W8Uepdsn06WliUBJgRY7ryi6EzE8L1Y38j8mPLZr0tDt2kuzKh35VI0sXO5XOheH5XBe9lwSU5aXhgU+lfS5oRExabYGsrZXrNxMhLwmLwUzTsfxLArT8xaGh73+nLLiiIwL6ruYfP4nHjtgmTtDanjt6QbF6RbV1ilFpmnz0nUR0SOhqw3RpK/INW8khfRxOUzFiCqJy2UR7v7HFTrPD6qsd/8jr32DxzaP1P/dkj97CXV0xccdb+nNpC5Z6/5Wsa1syEHvZ9k7Y/s1h12nlTJbVc4f32B8vc//zKdzpjN5sxu/2R6+wfz2S1/zWfLuJP/u8V3OZ5+idn089rZ9Jb5fC5xx6dP//E/5BV6ohWbMrMAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/51a8e/Battleship5.webp 340w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/713b7/Battleship5.webp 680w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/54376/Battleship5.webp 1360w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e0aab/Battleship5.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/ad208/Battleship5.png 340w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/a5a26/Battleship5.png 680w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/60356/Battleship5.png 1360w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e957c/Battleship5.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/60356/Battleship5.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;New Game Page&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e957c/Battleship7.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACv0lEQVQozy2S208bRxTGx2uvr+u18X0xJMikXExx8GV9t9d3GzB3FIUEMJA6KYrSKFKiSjRqpT61L31qpTRS/9ZfxtCHT2fOzDnffOebEYrTjU11oXp04uYJwfIVkcoV4cosXhCu3RDMbGNUX5CwpsTqN0Rq10Sq14RqUyJPh/iNBYTqp3/4DKGobhxuL4FoAqN4wlz5mmhVkklEZVOk9sP/hGcsdH4kKslClQlG8xVx6xZ9zcIRCCEcPnoHpwghFGwOFzOlsfwhenFCqHxJqPSA2QWBjSFG5Qyj9RrdfElcqpy3XhGuT9FWGjj0IMKlU+4MELHkIopdRZUqI7kjvIUJWuEczbyU8ULmVwS+HxEtnaEVr/Dmz+Wll/fwlW7wSUJXQBL65tiqNhHprSzaXER6qOFdruNa28G5MkSVcK1t41of40mV8a52cM7O5J5dnjnXRjg39nA/zmLz+aVCP9lqQ44uiezfDdAyh/g293EsW3hkob51gnN1iD3Vwp89wZs5wpZq4t7YJVp5gTO9g225iZaTD1l8jkjkeVqqIuKPl1FWD0ntfyQ1/iTNvsYnR06O3iNW9hGPOkS6b3HnLhBLXZT1Y6K9dyjpY8STAa78BUHppTAqkrCMcHql3PUDgu036NJsd+YANXeGpzTBvnmMfX0Xe+7lPRQ5ri1zipI7R5nF9K5cy33pq0hZD4Q2pwf97R/EP/9L4MNfOMavCf/8N9FfvuCf/k5gckfs81fCd19w7N3if/cnxm//ockede8Nsbt/mP/1K2J4yUY2J195fpFHrTFPRqfM1wYk8k2SjW2WOvskK32SpS6pwTGL7T0Ms82iNWapd0SiNiSWrbPQGN3XBtIFGp0+wqy2KBSrFMwHmKU6pszb8k/1+ttYrR7VmkWr3Zf5Dp3ukKbVfagtN+57zWKNzS2T6e1PfAOZh1lqObo5zQAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/51a8e/Battleship7.webp 340w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/713b7/Battleship7.webp 680w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/54376/Battleship7.webp 1360w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e0aab/Battleship7.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/ad208/Battleship7.png 340w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/a5a26/Battleship7.png 680w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/60356/Battleship7.png 1360w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e957c/Battleship7.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/60356/Battleship7.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Ship Placement&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Ships are displayed at the bottom of the new game page for a user to place them on their board and start playing the game&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/e957c/Battleship9.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACmklEQVQozyWTa1faWBSGA4YAuUASyYVw0XY5rVp0RghUIZWooLC0qx3XdKZWO+KFaftlvs7Pf2aHfnjXzllnn+e8706i5LUSuUIJtWyR08pSTUpVm2LFpiw1aG+w8WqbXzp71FptTD8QhVTCBjnLQVuvY0abKMUKw/NLlHwGK+lUaoFAapQdaag15EALK2yje02WuzHzrQ6qF+E0X1BtbmLWNyj7bVQ3JF/1UDSTo7MZiqLkUVSNzKm1c4F+cIM7uKOePFDp3WB0b2nuz6n3/qDcvcHufyFIFpi9v9DjO4ytEaqkyRzGx6cofqNNXi1QKBmE/Wvco0c58Ig3yvSAlyyp7M3wj24Ix/9gv/2b9eEDwTvZP/5GZfsYTUajGA6DdIKy+9sBpu1S1E2C+PdVcyTNfgYbLuTgErtzQSRAP3mSC+9pnCzlsgXu6FmA71AtE6WgMxifZWk11goahWKZ1uEncfQscX8CfQH6AnQ6MxrDL9TFYZhdJvvR+Ikw/Y71OmHNNFDWisTJGCVqy4ArVVzP5+jzf/jjHziDr7gSze7fURksqL65IHj7WUDPuIf3K9WG9zji0Ho1Ys3QBahxmMoMNa1ILpdHN022p4/UZHaBxPEziUNvJDHFYXN0S+v0O+sCa6RLmukzwfgbzs4xhSyyANPZHCWXy1HIYqsqtYOPGPE9Vv8rRu92Va3DJ4ztKevxnxj9BaWDW8q9bP8OffCInr1lw8g+F5LJFMULIl683mVrp0OwN8Hef4+7f4nX/YAv8nrXtLrnRN3L1bPX/UhN5OxfYf/6gfBNQrT5kpLrc3X9CaU/OiEepsRS+6OU/nDMQOrZxRXT+XvSyYzk5JwT+Qsmsj6bXZFO56u+n0oZJKfs9YYsf/zL/8mYR5qX6ijDAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/51a8e/Battleship9.webp 340w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/713b7/Battleship9.webp 680w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/54376/Battleship9.webp 1360w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/e0aab/Battleship9.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/ad208/Battleship9.png 340w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/a5a26/Battleship9.png 680w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/60356/Battleship9.png 1360w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/e957c/Battleship9.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/60356/Battleship9.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Game Play&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Locations are marked as hit (H) or miss (M) when a user clicks or the computer attacks back. User&amp;apos;s ships are indicated on their board by their first 2 letters&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Trip Statistics]]></title><description><![CDATA[Technologies React Frontend Python Flask (backend micro web framework) SQLite3 / PostgreSQL Databases Node JavaScript HTML CSS Bootstrap…]]></description><link>https://spk2dc.github.io/portfolio/trip_statistics/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/trip_statistics/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
