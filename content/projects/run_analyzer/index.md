@@ -5,7 +5,7 @@ category: "project_post"
 thumbnail: ./RunAnalyzer_4.png
 link_live: https://runanalyzer.herokuapp.com/
 link_git: https://github.com/spk2dc/RunAnalyzer#run-analyzer-read-me
-description: A website integrated with Strava that allows users to import all of their running data for a detailed analysis of of their running performance.
+description: A website integrated with Strava that allows users to import all of their running data for a detailed analysis of their running performance.
 ---
 
 ### Technologies
