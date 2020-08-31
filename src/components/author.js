@@ -30,7 +30,7 @@ function Author() {
                   development and robotics, with experience working in the
                   aerospace industry. I have used the skills I learned minoring
                   in computer science to optimize and automate inefficient
-                  processes I encountered in my aerospace job to save employees
+                  processes I encountered in my aerospace job, saving employees
                   countless hours on unnecessary and repetitive tasks. Recently
                   I also completed a software engineering bootcamp to further
                   develop this knowledge and gain experience with modern
