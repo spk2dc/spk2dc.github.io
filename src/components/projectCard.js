@@ -25,9 +25,13 @@ export default props => (
       </Link>
     </article>
 
-    <div className="project-card-text">
-      {props.node.frontmatter.title}
-      {props.node.frontmatter.description}
+    <div className="project-card-textpanel">
+      <div className="project-card-text">
+        <Link to={props.node.fields.slug} className="post-card-link">
+          <h4 className="text-center">{props.node.frontmatter.title}</h4>
+        </Link>
+        <p>{props.node.frontmatter.description}</p>
+      </div>
     </div>
   </div>
 )

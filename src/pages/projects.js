@@ -3,7 +3,7 @@ import { graphql, StaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import PostCard from "../components/postCard"
+import ProjectCard from "../components/projectCard"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
@@ -28,7 +28,7 @@ const ProjectsPage = ({ data }, location) => {
             {posts.map(({ node }) => {
               postCounter++
               return (
-                <PostCard
+                <ProjectCard
                   key={node.fields.slug}
                   count={postCounter}
                   node={node}

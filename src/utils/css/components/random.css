@@ -46,9 +46,17 @@
 .project-card {
   display: flex;
   flex: 1 1 100%;
+  border: 1px #000000 solid;
+  margin-bottom: 10px;
+}
+
+.project-card-textpanel {
+  flex: 1 1 50%;
+  padding: 5px 10px;
+  display: flex;
+  border-left: 1px #000000 solid;
 }
 
 .project-card-text {
-  flex: 1 1 50%;
-  padding: 5px 10px;
+  margin: auto;
 }
