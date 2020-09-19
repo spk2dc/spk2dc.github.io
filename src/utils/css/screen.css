@@ -507,6 +507,12 @@ body {
   padding: 6vw 0;
 }
 
+.project-content {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 6vw 0;
+}
+
 .post-content-header {
   display: flex;
   flex-direction: column;

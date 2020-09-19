@@ -20,7 +20,7 @@ const ProjectsPage = ({ data }, location) => {
         keywords={[`projects`, `gatsby`, `javascript`, `react`]}
       />
 
-      <article className="post-content page-template no-image">
+      <article className="project-content page-template no-image">
         <div className="post-content-body">
           <h2 className="mb-5">PROJECTS</h2>
 
