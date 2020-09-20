@@ -54,6 +54,27 @@ const ProjectsPage = ({ data }, location) => {
                 }
               })}
             </div>
+
+            <button
+              className="accordion text-center"
+              onClick={event => accordionClick(event)}
+            >
+              Mechanical Engineering
+            </button>
+
+            <div className="accordion-panel">
+              {posts.map(({ node }) => {
+                if (node.frontmatter.tags === "mechanical") {
+                  return (
+                    <ProjectCard
+                      key={node.fields.slug}
+                      node={node}
+                      postClass={`post`}
+                    />
+                  )
+                }
+              })}
+            </div>
           </div>
         </div>
       </article>
