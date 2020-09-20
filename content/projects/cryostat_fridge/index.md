@@ -4,7 +4,7 @@ date: "2017-05-01"
 category: "project_post"
 tags: "mechanical"
 thumbnail: ./Model_Picture_1.jpg
-description: Designed complex automatic home watering system that can be controlled remotely through a website.
+description: Designed and modeled parts to build a dilution fridge for use in advanced particle physics and quantum mechanics research.
 ---
 
 ### Description

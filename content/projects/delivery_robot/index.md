@@ -4,7 +4,7 @@ date: "2017-05-01"
 category: "project_post"
 tags: "mechanical"
 thumbnail: ./Line_Following_Robot_Diagram.png
-description: Designed complex automatic home watering system that can be controlled remotely through a website.
+description: Built robot that can automatically deliver payloads by following lines and communicating with a remote database of orders.
 ---
 
 ### Description
@@ -20,7 +20,8 @@ description: Designed complex automatic home watering system that can be control
 - SolidWorks CAD Software
 - 3D Printing
 - Arduino microcontroller
-- C++ programming
+- C programming
+- SQL & PHP
 - Circuitry design and wiring
 - Laser Cutter
 - Pololu Wixel 2.4 GHz radio board

@@ -1,5 +1,5 @@
 ---
-title: Intelligent Automatic Watering System
+title: Semi-Quadcopter
 date: "2017-05-01"
 category: "project_post"
 tags: "mechanical"
@@ -9,34 +9,33 @@ description: Designed complex automatic home watering system that can be control
 
 ### Description
 
-- Designed complex automatic home watering system that can be controlled remotely through a website
+- Built and wired self-balancing semi-quadcopter with 2 degrees of freedom
 
-- Identified and interviewed potential users of system in order to meet their needs
+- Coded Parallax Propeller microcontroller control algorithm in C to stabilize roll and pitch, using inertial measurement unit (IMU) and ultrasonic sensor
 
-- Created multiple water distribution systems to appeal to wider range of users and increase versatility of system
+- Researched and implemented PID control/tuning, I2C communication, and Kalman filter
 
-- Waterproofed and rigorously tested all aspects of system to ensure functionality and usability of final product
+- Link to testing video: <a href='https://youtu.be/gu-WoXYLHz4'>https://youtu.be/gu-WoXYLHz4</a>
 
 ### Technologies
 
+- SolidWorks CAD Software
+- 3D Printing
 - Arduino microcontroller
-- Sensors (flow rate, moisture)
-- Water distribution systems (solenoid valve, hoses, pipes, sprinklers)
-- 3D printing and SolidWorks CAD modeling
-- JavaScript
-- HTML
-- CSS
-- SQL Database
+- C++ programming
+- Circuitry design and wiring
+- Ultrasonic Sensor
+- Inertial Measurement Unit (IMU)
 
 <br />
 
 ### Example Images and Descriptions
 
 <div class="card bg-light my-5 p-2">
-  <img class="card-img-top border my-1" src="./Automatic_Watering_System_8.jpg" alt="watering_system">
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/gu-WoXYLHz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div class="card-body">
-    <h5 class="card-title">Our System</h5>
-    <p class="card-text">Describes the general use and purpose of our system.</p>
+    <h5 class="card-title">Testing Video</h5>
+    <p class="card-text">Finished semi-quadcopter being tested to ensure it maintains balance and stabilizes itself despite being hit or carrying weights on either motor.</p>
   </div>
 </div>
 
