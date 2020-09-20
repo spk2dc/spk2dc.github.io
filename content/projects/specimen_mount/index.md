@@ -1,105 +1,80 @@
 ---
-title: Intelligent Automatic Watering System
+title: Specimen Rotation Mount
 date: "2017-05-01"
 category: "project_post"
 tags: "mechanical"
-thumbnail: ./Automatic_Watering_System_11.jpg
-description: Designed complex automatic home watering system that can be controlled remotely through a website.
+thumbnail: ./IMG_20161104_125642236.jpg
+description:
+  Designed and 3D printed structure to hold cylindrical fatigue specimens of a nickel-based
+  super-alloy for surface pitting characterization research.
 ---
 
 ### Description
 
-- Designed complex automatic home watering system that can be controlled remotely through a website
+- Designed and 3D printed structure to hold cylindrical fatigue specimens of a nickel-based
+  super-alloy for surface pitting characterization research
 
-- Identified and interviewed potential users of system in order to meet their needs
+- Wired circuitry to control stepper motor with Arduino microcontroller
 
-- Created multiple water distribution systems to appeal to wider range of users and increase versatility of system
+- Programmed Arduino in C to dynamically rotate motor based on user commands
 
-- Waterproofed and rigorously tested all aspects of system to ensure functionality and usability of final product
+- Two members on the team made a project post with more information here: <a href='https://pages.shanti.virginia.edu/TLP_TLC/2016/11/20/electromechanical-specimen-mount-for-surface-profilometry/' target='_blank'>https://pages.shanti.virginia.edu/TLP_TLC/2016/11/20/electromechanical-specimen-mount-for-surface-profilometry/</a>
+
+- Videos of functional device being tested available <a href='https://youtu.be/NrVocXyONww' target='_blank'>here</a> and for a better view of the display click <a href='https://youtu.be/3Q_7IMUDgDQ' target='_blank'>here</a>
 
 ### Technologies
 
+- SolidWorks CAD Software
+- 3D Printing
 - Arduino microcontroller
-- Sensors (flow rate, moisture)
-- Water distribution systems (solenoid valve, hoses, pipes, sprinklers)
-- 3D printing and SolidWorks CAD modeling
-- JavaScript
-- HTML
-- CSS
-- SQL Database
+- C++ programming
+- Circuitry design and wiring
 
 <br />
 
 ### Example Images and Descriptions
 
 <div class="card bg-light my-5 p-2">
-  <img class="card-img-top border my-1" src="./Automatic_Watering_System_8.jpg" alt="watering_system">
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/NrVocXyONww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div class="card-body">
-    <h5 class="card-title">Our System</h5>
-    <p class="card-text">Describes the general use and purpose of our system.</p>
+    <h5 class="card-title">Testing Video</h5>
   </div>
 </div>
 
 <div class="card bg-light my-5 p-2">
-  <img class="card-img-top border my-1" src="./Automatic_Watering_System_11.jpg" alt="watering_system">
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/3Q_7IMUDgDQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <div class="card-body">
-    <h5 class="card-title">System Overview</h5>
-    <p class="card-text">Lists all major components and functions of the final watering system.</p>
+    <h5 class="card-title">Testing Video - Display Close Up</h5>
   </div>
 </div>
 
 <div class="card bg-light my-5 p-2">
-  <img class="card-img-top border my-1" src="./Automatic_Watering_System_12.jpg" alt="watering_system">
+  <img class="card-img-top border my-1" src="./IMG_20161104_125642236.jpg" alt="watering_system">
   <div class="card-body">
-    <h5 class="card-title">Close Up of System Diagram</h5>
-    <p class="card-text">General layout of system indicating relationship between major components and how they work together</p>
+    <h5 class="card-title">Side View of Mount</h5>
+    <p class="card-text">Specimen is inserted into 3D printed claw pieces which are then placed in ball bearings that are press fitted into mounts. The mounts have metal rods in the base with nuts that allow the distance between the mounts to be adjusted. A servo is connected to one of the mounts to rotate the specimen.</p>
   </div>
 </div>
 
 <div class="card bg-light my-5 p-2">
-  <img class="card-img-top border my-1" src="./Automatic_Watering_System_1.jpg" alt="watering_system">
+  <img class="card-img-top border my-1" src="./IMG_20161104_125655527.jpg" alt="watering_system">
   <div class="card-body">
-    <h5 class="card-title">System Components</h5>
-    <p class="card-text">Waterproof box containing circuitry and micro-controller, hose splitter with solenoids that control water, moisture sensor for feedback</p>
+    <h5 class="card-title">Circuitry and Microcontroller</h5>
+    <p class="card-text">Potentiometer controls brightness of the display to ensure it is visible. Green and red buttons control rotation of the specimen mount. A button press rotates the specimen a set number of degrees in one direction (buttons rotate same amount in opposite directions). Arduino can be connected to computer to change the number of degrees the buttons rotate the specimen, or to modify other parameters.</p>
   </div>
 </div>
 
 <div class="card bg-light my-5 p-2">
-  <img class="card-img-top border my-1" src="./Automatic_Watering_System_3.jpg" alt="watering_system">
+  <img class="card-img-top border my-1" src="./LeadPic.jpg" alt="watering_system">
   <div class="card-body">
-    <h5 class="card-title">Inside Waterproof Box</h5>
-    <p class="card-text">Close up of the circuitry and micro-controller in the black box</p>
+    <h5 class="card-title">Full System</h5>
+    <p class="card-text">Shows Arduino and circuitry in the foreground with the specimen mount in the background. Arduino is currently connected to a computer as the code is being uploaded.</p>
   </div>
 </div>
 
 <div class="card bg-light my-5 p-2">
-  <img class="card-img-top border my-1" src="./Automatic_Watering_System_6.jpg" alt="watering_system">
+  <img class="card-img-top border my-1" src="./base.jpg" alt="watering_system">
   <div class="card-body">
-    <h5 class="card-title">Watering Methods</h5>
-    <p class="card-text">These are the 3 watering distribution systems we marketed to users in order for our system to be adaptable, versatile, and appeal to the widest range of users possible.</p>
-  </div>
-</div>
-
-<div class="card bg-light my-5 p-2">
-  <img class="card-img-top border my-1" src="./Automatic_Watering_System_9.jpg" alt="watering_system">
-  <div class="card-body">
-    <h5 class="card-title">Core Functions</h5>
-    <p class="card-text">Provides a brief description of each function and indicates the primary component for that function.</p>
-  </div>
-</div>
-
-<div class="card bg-light my-5 p-2">
-  <img class="card-img-top border my-1" src="./Automatic_Watering_System_10.jpg" alt="watering_system">
-  <div class="card-body">
-    <h5 class="card-title">Physical to Functional Mapping</h5>
-    <p class="card-text">Demonstrates modularity of system and shows which function each component addresses.</p>
-  </div>
-</div>
-
-<div class="card bg-light my-5 p-2">
-  <img class="card-img-top border my-1" src="./Automatic_Watering_System_14.jpg" alt="watering_system">
-  <div class="card-body">
-    <h5 class="card-title">Solenoid Valve Testing</h5>
-    <p class="card-text">System is shown attached to a spigot on a building for testing the solenoid valve and control system.</p>
+    <h5 class="card-title">3D Printed Mount</h5>
   </div>
 </div>

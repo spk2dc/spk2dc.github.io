@@ -3,7 +3,7 @@ title: Semi-Quadcopter
 date: "2017-05-01"
 category: "project_post"
 tags: "mechanical"
-thumbnail: ./Automatic_Watering_System_11.jpg
+thumbnail: ./Quadcopter_Setup.jpg
 description: Built and wired self-balancing semi-quadcopter with 2 degrees of freedom.
 ---
 
