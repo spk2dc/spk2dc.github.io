@@ -12,6 +12,16 @@ const ProjectsPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 
+  function accordionClick(event) {
+    event.target.classList.toggle("accordion-active")
+    let panel = event.target.nextElementSibling
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + 15 + "px"
+    }
+  }
+
   return (
     <Layout title={siteTitle}>
       <SEO
@@ -24,17 +34,26 @@ const ProjectsPage = ({ data }, location) => {
           <h2 className="mb-5">PROJECTS</h2>
 
           <div className="post-feed">
-            {posts.map(({ node }) => {
-              if (node.frontmatter.tags === "software") {
-                return (
-                  <ProjectCard
-                    key={node.fields.slug}
-                    node={node}
-                    postClass={`post`}
-                  />
-                )
-              }
-            })}
+            <button
+              className="accordion text-center"
+              onClick={event => accordionClick(event)}
+            >
+              Software Engineering
+            </button>
+
+            <div className="accordion-panel">
+              {posts.map(({ node }) => {
+                if (node.frontmatter.tags === "software") {
+                  return (
+                    <ProjectCard
+                      key={node.fields.slug}
+                      node={node}
+                      postClass={`post`}
+                    />
+                  )
+                }
+              })}
+            </div>
           </div>
         </div>
       </article>
