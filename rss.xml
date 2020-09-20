@@ -1,37 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://spk2dc.github.io/portfolio</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 20 Sep 2020 06:45:04 GMT</lastBuildDate><item><title><![CDATA[Spotify Track Filter]]></title><description><![CDATA[Technologies HTML website CSS styling and animations jQuery and vanilla JavaScript AJAX requests to pull external data from Spotify API…]]></description><link>https://spk2dc.github.io/portfolio/spotify_filter/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/spotify_filter/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery]]></description><link>https://spk2dc.github.io/portfolio</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 20 Sep 2020 06:51:55 GMT</lastBuildDate><item><title><![CDATA[Battleship]]></title><description><![CDATA[Technologies MERN stack (Mongo, Express, React, Node) HTML CSS Bootstrap JavaScript Features Event listeners and handlers Document Object…]]></description><link>https://spk2dc.github.io/portfolio/battleship/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/battleship/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;HTML website&lt;/li&gt;
-&lt;li&gt;CSS styling and animations&lt;/li&gt;
-&lt;li&gt;jQuery and vanilla JavaScript&lt;/li&gt;
-&lt;li&gt;AJAX requests to pull external data from Spotify API&lt;/li&gt;
-&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
-&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;li&gt;MERN stack (Mongo, Express, React, Node)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;Bootstrap&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Features&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Spotify API Integration&lt;/li&gt;
 &lt;li&gt;Event listeners and handlers&lt;/li&gt;
-&lt;li&gt;jQuery &amp;#x26; Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
 &lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
+&lt;li&gt;User information storage and password encryption - using Bcrypt&lt;/li&gt;
+&lt;li&gt;User sign up and log in functionality&lt;/li&gt;
+&lt;li&gt;Full CRUD functionality&lt;/li&gt;
+&lt;li&gt;RESTful API&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br /&gt;
 &lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
 &lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e957c/SpotifyFilter_5.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e957c/Battleship1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB5UlEQVQoz22Sy5LTMBBF/RvDAIlfkvyKZUt2HMf2hLwzkOELYE2xABYzUPDzl5acpFiwONWyr/rW7badu0OE5Os7NL8/ong5Qb4cLernI/wfA6JfW2R/jhb+vIb7rYP3vb8x/bLA208a0881vH0OhwUMsS/gvprAv59avAvBvYtBL3F82OG02qNOS/h3E7DXPuGNvKHzxBDA93w47dDh/HRGqRUKVUJXGrqu7LNhJnNk+YzIIAtJmrZcdVWpsYcIRAgnkzOsVivUdY1KV6iqisSxXjGaQUqJPM//i9G8kBLmpcR2s0HbtlgsFpamaWxtF+O7drm0VcoCZVGiKAqLUspSljSZ0qMhi7g1WFLTMAzo+x4dcT0bjNZ1nb1nDExqUxljNzjnmHhTOHGaYLfZYkMpTaOFmrsL/cXcYKaYzxtibg2FEDeiKMLUd+GILMb6sEU/UDKTZNmNpu14rrSGzCUKGlfRaKZyShSGIQQXFpMuEhdDVzKIB4moTBFnyY1kliJKY7sXgxt4tpoV8VhY2BV6J5IIE2tIF80OQh7SZ6d6wecBUvpVHp8+YL3f4HR+j93pAJ6I8Q6ZjIz3WUw79GmHPgtsXBvf7INWINIInIjzBKqhkasSaq5R1MrqRhNXTM8/I/8FflBbcOqPUWcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACEklEQVQoz02S6W7TQBSFZ/EyXhM7SZ2k2UocVJbQgmh/UIoIqdpSQeEfD4DE+7/B4dxxQI10NOOJ73fPuWNl4wSBy+DyCmFawsQZTJLDpAWCvISrhnC1aIC4GsAUPS9b1jDlAGE9RjlfQ5dDJOMVlA5jmMghr0ewhOkoheaqeJbx7PTsLdavtmhfv8Fme4ZkMIJKc+hcwBV0UUMRrPIaQT2BUspAoCqIvEyUdS5dDiuFJYsqQqQh3ZqsgKI03XfqE1bB9EbepWpmCxiCJLqTKDEdhiksgTpKoBndECoSV4rj0AKkJLrya4WobuiwgXp5/g4FZxMlGWL5k1F16OjWdU4lPpspl1KZj+uhaQf2QDYSp1ai2zCEjeiQLkfjKeG0bQJ0s/3nlK7Z0EM8rDiADw08uKToeLpYIe/10ect/vr9B9f339jAwZWcTRATnHiXliDvUCRwAsSZldhPoVHMiMYgLQo8356jpsuYBRFfCrnKJxUkRfdJcW9ZGBaMxwsxBARsLFC5ID9T/hAwttIa1XCIkA0ix5lp64FVM/EjUIoy/BJkvuLWcs8L9PNNDnNmrRofz9G+2Ho1xwtM5iuv2fIZtcbsZINle4rpgs+rDabLFtNVi4bPR/MTHHEd83zEvUhdfPyC91c7XFCX3F9e7/Hh8y32X3/g5uEnPt084Gp3h93dd549Yn//6Fc5+1/zRH8B6JAI00gcnt4AAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
       &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/51a8e/SpotifyFilter_5.webp 340w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/713b7/SpotifyFilter_5.webp 680w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/54376/SpotifyFilter_5.webp 1360w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e0aab/SpotifyFilter_5.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/ad208/SpotifyFilter_5.png 340w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/a5a26/SpotifyFilter_5.png 680w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/60356/SpotifyFilter_5.png 1360w,
-/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e957c/SpotifyFilter_5.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/60356/SpotifyFilter_5.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+        &lt;source srcset=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/51a8e/Battleship1.webp 340w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/713b7/Battleship1.webp 680w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/54376/Battleship1.webp 1360w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e0aab/Battleship1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/ad208/Battleship1.png 340w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/a5a26/Battleship1.png 680w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/60356/Battleship1.png 1360w,
+/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e957c/Battleship1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/60356/Battleship1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
   &lt;/span&gt;
@@ -45,20 +47,20 @@
 &lt;/div&gt;
 &lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e957c/SpotifyFilter_4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/e957c/Battleship3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB8UlEQVQoz5WQy27TQBiF+xjcktgeey62YztxHV/HTkqoKgUQVVWlElIvtIWyqMSGSLAA3oAFq2541cPM1EgVSEUsPh3L0vl8/G9Z+xPExx2SswXGJx3isznGivC0hTiXaD6+Qv5hBbnZx/b1HlbfjnH98wve3XzC1c1nvP2xwfvvGxx9vcRoN8QWGTmgIxfeQCcBHRB4D214DyyEQ46nsw7zaY2lSpkUSEWMNqvRpCVkURu6WiJPMxDbUULmgvtCwcEFh7dMEBxW8A8K2C8niNYS2ZtnyE6WSI5a2C8mIKsJnFUCe0LhOA5s4sB1XVDl2CJUCTk3UEoxPqggr54jWFeITueoLvbgHc4wO99F+noBus4hLiT4pQRtInDKzBDd9zi9I2S3L7Iqx07ZYUx9yKxCmzcIXYGuaMAsz0CL0MAiH0x1GWMQXMAi9t/CfFGjbVtzhlo2kF0LPwj6VAK1hnUx6DwGS3zVY/cIGUW506AsChB1k0YLWwnf99E0DYQQahED7SIDi/8lVAtnXYlFNzeSulJrpVomfJO6pMusHpv76YXsPiFVX4+rFGmZmftMi21M1bOIA5Nc30xTR7eYhX/c0PGIEZov6d8JlNjvs4f9zvAO/Xvd0V3tsBwlfGwNMCAjDJwe8p/0vSGx8Gj4BL8AKktYuwKF+AcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACJ0lEQVQoz02SW29SQRSF58yc+w3OAXqAcqtQ4w2DxtZowUihtjZaffNB30x8MEbfTHxpiH98ufZATUlWZs8c5ttr79nKBBHcMEGYFvDiHDpIoKMUJsmoHHnVwfjRY4wfTlFrd6HTGnRWg8lL6LwBr2wj74/h5E1E7RGU4wXQfoi0bMEQ5vgxnIBiEuUGmJ+ucb25xubvBov1GZR8S3NKwAWcrIQiWKUl3LIDpZSGQJXrW2k/sS5NlFngk+cv8Pn7b3z58QczxorJt8Ab1QkroGst61JVvQE0QVJ6KKWIAy+GCdOt0yBENP+JcP4LTkzXcQYnEeW2dMVYnPplRYcV1IPZU2RFA36UIJCP4sAL6S7c9pNgZQz3VCRA7tljh6uALZDli1MjpRvPg/HpkC5bbHpW0LZ2se3tjdMUWpwJxMKyHXiXwIJzio67gxHSWh31soFPX79hcfGOCUKEed320PGiXU95UR5KRJAtmc6MlH0b6rNHjtaIswx3pzOUdBnwgs8/eVxlpFw+kB0pxjJOXsby+CCaAJeJBSoPZHvKH1yWrRwHRbMJjwn8MOLeWGDBOZQWKEVpToL0V9wa346Q4mPa0mXlXdXe72Nyf2pV7Q/Q6Y+sesM71Bi9g0MMJ/fQHXA/OkR3OEF3NEHF/V7/AHtc2zxvMRapo/kpnp0scUQdMz5erPDy9Rus3n7A+vIjXq0vcbI8x/L8Pc+usLq4squc/b9zS/8AF+AQAN+5QYAAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
       &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/51a8e/SpotifyFilter_4.webp 340w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/713b7/SpotifyFilter_4.webp 680w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/54376/SpotifyFilter_4.webp 1360w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e0aab/SpotifyFilter_4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/ad208/SpotifyFilter_4.png 340w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/a5a26/SpotifyFilter_4.png 680w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/60356/SpotifyFilter_4.png 1360w,
-/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e957c/SpotifyFilter_4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/60356/SpotifyFilter_4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+        &lt;source srcset=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/51a8e/Battleship3.webp 340w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/713b7/Battleship3.webp 680w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/54376/Battleship3.webp 1360w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/e0aab/Battleship3.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/ad208/Battleship3.png 340w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/a5a26/Battleship3.png 680w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/60356/Battleship3.png 1360w,
+/portfolio/static/58479fb740c4f15c5335edfebfb05787/e957c/Battleship3.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/60356/Battleship3.png&quot; alt=&quot;trip_statistics&quot; title&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
   &lt;/span&gt;
@@ -66,26 +68,25 @@
   &lt;/a&gt;
     
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Search Results&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Users can search from anywhere on the page from the navigation bar and see the search results here.&lt;/p&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Sign Up Page&lt;/h5&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e957c/SpotifyFilter_1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/e957c/Battleship4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACfElEQVQoz22Sy27TQBSG+xagpm0utmfGjp3ETpukadq4kIbQQBsnXCouBSEVSqVCWVVCILFgwXWBkHgHdqxYsQC2CPEUSCAe4uPYZQESi19n5PH5Zv5/zlQhCalud6ldXyW41qV6Pc5qKr3dpnNng9buaeKDhMbeAPtKC0dkX25la2urQTGJsJN5iv0KU1a+hMrbOHMlnNkjqTkLO1fAni7Su7HB8NFVeg+26E7WcI4Vsn/MnI3JO0cqKLySpjCbF6CWDc9FGU1Yj4jm6+Qti/n2MnHcpTHoEG4s8eLtGy7t7RBGdbonVikHZbRr0J7JqiuMgl0UoLJxjcG2bcJaFU82czOzDM4knJuMaS00qVdCfn3/wfOXr1lcWmY8OU+lEqCUwkiv1loYArT+ALVslH2fd+8/8OXrN548ecr6YMBoNKLf79NsNvn58wePn71isd1hMh4TBEHW9w+wJMCSAFO7btnl2u277B8+5MKly/ROrdHrr9FZWcavBnz6/JGDw/tEjQbrZ9bxKz5KK7T0ZhJn6eWmitpClcWyq8jlpzmeO8bMTE4O8IjqdYJqhTAMZR1JfiG1Wk1AGkc5OGWp3l8SxpTlSIbaYESe8TBxiBkuUB0t0d+bcGp3Qm834eTOJmf3t+jdGuENG+hBhK6XMUpnvalSp1mGaQ6p0pD9c21W742JbpzEbC/RvDmgtLXAws4atSsxxYvzuLtdzO0VVCfAOKnl/wHlg2MUrU6bXjvGt126zQ5xSzK0XOLFFUxRZTOnWpLfoo+ueBns6FEMRbv07w1LjsXwwiZJkuBoh82R2Nw4KzPny0MMZRKOZk+th6ihWK5JRAL7+5V/A1Ccbj8gvAatAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACGUlEQVQoz1WS6W7bMBCEeUgUJUuyTVtHVNtxHDtHDyAtkP5JWsBJgDhGGhRFgT5Agb7/G0yHlAO0PwakluK3s7sUOkkR2QFsPkaclVDJACrNobIcUTGEdTXsxKvifgpdjqAY16WDKieIXYtyfgpZTpG2SwgZJ1DGIncVNGHSZJBJBkHpQYHV5TssV2tszi8xP7uAJkwwLvMhwWPIwkEQLHKHyB1BCKHgoSIyQcoMgkttcwhLsEkx2v2A2//sv1MmDcDyoBFhY6hhFVyKZraAIsiXbn0pdCbjLAC9U8l2JKvzIJkVB/FsUIbSvVvv1LiGDhuIt1efUIwnMMyc+EOWL2NLt7bvJ4FCRRA6Du4EYYI97qFFD2T53qn2pes4hjZ0SJdV2xE+DYC+t69OWaaHvIoue/AhQQCXFB13iyXy4QgjN8Gv33/wZffMBBaW0xRRQnDa9zT1PR30Cn0sg7MwpH+hJuElqZDlBc4+XME1HRJeMPwp5uqfVJQW/ZPi3k8+LlgeB6IIiJjYQ/2AQk+llIhZslQKrqphEgtjUx7oABw3R30PBaX4Enx/vVttwtMSHGYo3a+8K9y0xuJ0g2PK79s3C3TzJWbHK+oUsxOerS/QLfi93KA7XqNbrtHwu56foObaMl5x7yWapkHTtqjqGjX1/uM1bu+ecL97wcP+O74+7HGzfcT28Rvun15C3K8+dn2zxefbu//0FytcB3stNirvAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
       &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/51a8e/SpotifyFilter_1.webp 340w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/713b7/SpotifyFilter_1.webp 680w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/54376/SpotifyFilter_1.webp 1360w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e0aab/SpotifyFilter_1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/ad208/SpotifyFilter_1.png 340w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/a5a26/SpotifyFilter_1.png 680w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/60356/SpotifyFilter_1.png 1360w,
-/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e957c/SpotifyFilter_1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/60356/SpotifyFilter_1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+        &lt;source srcset=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/51a8e/Battleship4.webp 340w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/713b7/Battleship4.webp 680w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/54376/Battleship4.webp 1360w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/e0aab/Battleship4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/ad208/Battleship4.png 340w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/a5a26/Battleship4.png 680w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/60356/Battleship4.png 1360w,
+/portfolio/static/54f414600317709e7ab43ad08b5bd099/e957c/Battleship4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/60356/Battleship4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
   &lt;/span&gt;
@@ -93,26 +94,26 @@
   &lt;/a&gt;
     
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Filter Settings&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Displayed search results can be filtered using any number of options and values desired. Each parameter can be hovered over to display an explanation of its meaning and a graph of the standard distribution of values.&lt;/p&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Home Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Default home page after login where user can start a new game&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/e957c/SpotifyFilter_2.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e957c/Battleship5.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB80lEQVQoz42SW0/bQBCF80dISOzd2V1fcyEXcrMhSSsISihWgRYFCVAIQan4/y+n40sAVa3Uh6OZ9Xq+8cxx6XBZR3A3Rn0Vw1+NEP4Yw1x20bo7weTtCqPtBeLdEoPNOaLdAtHrAnTVhr1oQtx2YF+3UVs0snN15qNkVWqQFRuizPGgBmsSoH5/kjVprWeItgs0n6YYvMwx3SWcT2B+DqBue5B1A1UWUFUJXSNUDioMJBvK6EyCJDrfI5y9JThi4PHDFPH6HG7SQcQxSLrQ31pwnodwN0Oovg8iAmkFzfWHdpWBkoFKQZGCUBLtcRdRPIIXOBiO+hhFA/ihx5Eh/MzxDUwUZFKhyYEsrRhopUBhQ1MK5AtFMA0PJnRhu9y1zjlL+ppzF9LjKTxu3HQgWcRnVdS+A6tkQToEYXLZnEuGOa6bjWGMyeXkcoqzSGvcj7pUlhIo1XjkdAfp16VRSAm/EWK+vcbXlwTxI7v8dIH5rxvMni/x5TXB7GGZ7VwWU+0lNX3eIeVR8kWg0d2esctTeOsYweYU5n4Ih2WvupA3HShd1NBHTE19B1IBJAZq38H4eAhPGAyaPRy5DcgyT8K/l0pj4Wy+d/WHKX8Dspudfi/bmR8GXFwAjMrfCcz/AfeXit0jk8P3jbJ3itUQu/4v4G/iHlmG4TSTkAAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACtElEQVQozz2Sa28aRxRAF7O7wLIsYDCPYCyCMS8nKbZjRzYNGPPexXVTVVWrRk7IwyS1jUlU9Qf0H7YGXLVV+lNOL0TKh6vdmTtz7rkzo6heA9XrxwhG0AwLdRFmEN0KoQVCRDeyBLM5UtsPiKYzaKEIejiKN5JADa7hja1j3sugeC2q3QGKS9Vxe3wCXEX1GFiy2AiG8YcjWGtxwrE4o8oBZ+WvCMQThO+lsBJJVlNpArEkihnCZUVRND+HzR6K4nKzgK7oXvzZQ/TNBqHtDvHdAUahiWerRethk72Hbdy5BoFym7UdB1/hBE+xg//+npiuLg0fPz1BSW9u4dY8aD6TbGPIRvuaXG9M6fQjuf6YbP8DZsUhWT+X/wmZzhWlbyRnS87+KPA+mhVGMUI8abRRcqUyprSoGyal1ks2O5fku79Qsq8pOxICTu7alNtDCs4N99vvKA+k4OB6CY7vdFEDlrRssF9roKyoqhhqaHJ+j+wReXvCVkeAzpiiQIuDxSaHghTL2wJsvRPYzeecFItVOqz4/ShunYO6tLyeyWJaQcLRGN23v/Pg2W8Uepdsn06WliUBJgRY7ryi6EzE8L1Y38j8mPLZr0tDt2kuzKh35VI0sXO5XOheH5XBe9lwSU5aXhgU+lfS5oRExabYGsrZXrNxMhLwmLwUzTsfxLArT8xaGh73+nLLiiIwL6ruYfP4nHjtgmTtDanjt6QbF6RbV1ilFpmnz0nUR0SOhqw3RpK/INW8khfRxOUzFiCqJy2UR7v7HFTrPD6qsd/8jr32DxzaP1P/dkj97CXV0xccdb+nNpC5Z6/5Wsa1syEHvZ9k7Y/s1h12nlTJbVc4f32B8vc//zKdzpjN5sxu/2R6+wfz2S1/zWfLuJP/u8V3OZ5+idn089rZ9Jb5fC5xx6dP//E/5BV6ohWbMrMAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
       &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/51a8e/SpotifyFilter_2.webp 340w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/713b7/SpotifyFilter_2.webp 680w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/54376/SpotifyFilter_2.webp 1360w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/e0aab/SpotifyFilter_2.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/ad208/SpotifyFilter_2.png 340w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/a5a26/SpotifyFilter_2.png 680w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/60356/SpotifyFilter_2.png 1360w,
-/portfolio/static/be8fd441711de555e81a366828e9a39b/e957c/SpotifyFilter_2.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/60356/SpotifyFilter_2.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+        &lt;source srcset=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/51a8e/Battleship5.webp 340w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/713b7/Battleship5.webp 680w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/54376/Battleship5.webp 1360w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e0aab/Battleship5.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/ad208/Battleship5.png 340w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/a5a26/Battleship5.png 680w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/60356/Battleship5.png 1360w,
+/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e957c/Battleship5.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/60356/Battleship5.png&quot; alt=&quot;trip_statistics&quot; title&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
   &lt;/span&gt;
@@ -120,26 +121,25 @@
   &lt;/a&gt;
     
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Filter Results&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;The filtered results are displayed below the filter settings once the run filters button is clicked&lt;/p&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;New Game Page&lt;/h5&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e957c/SpotifyFilter_3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e957c/Battleship7.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABjklEQVQoz5WSTU/bQBCG+SEtjp31fsbrGJzFcUI+3NgIDqVSJVRSKnrhRiv1XlEOSPzsl9kFcahiCQ6v3p2dnUejmd0bfCmQXy1RXK9hfyxgrxZwNx2+Pt6g/bdF8/ci6OzhGpu7b+jut2jvLsG/T8Euj8AuHJLzA7DzQ8Sdxd4wSsAjhnTf+xDpB3IhMP/zGTNSfttiTHK/T1HeniD/RfHPNWTMIfdTyEEazioRiD5GBBQMUiuSDBKSfGzgVjVMkcEdTzGZUydGIB3J4KxQEIak5KsUMQYsJiAnIEEEdRWcCyhrcLxcIDMjTA5LGG3CvfRvvGfPMB+Ll1olCTjsA+YjHNVVuLN5Dq31az5ArH4fUFLBYr1Cbi2KooAx5j/g7g6jZNAPbNpPmNUzVFX1JqDPDVPWP8PpvIZW+m1A6ecrwZXom6HBpHJ05ijLElmWgTEWvpPP9wJlD1DTUsblAXjKUdc1mqaBcw6WZuoLdy3F18Ys6e8wG1tw6nBNy9lsNui6Dm3bhrmKvm+TxHgC+ipSgV4dPTUAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACv0lEQVQozy2S208bRxTGx2uvr+u18X0xJMikXExx8GV9t9d3GzB3FIUEMJA6KYrSKFKiSjRqpT61L31qpTRS/9ZfxtCHT2fOzDnffOebEYrTjU11oXp04uYJwfIVkcoV4cosXhCu3RDMbGNUX5CwpsTqN0Rq10Sq14RqUyJPh/iNBYTqp3/4DKGobhxuL4FoAqN4wlz5mmhVkklEZVOk9sP/hGcsdH4kKslClQlG8xVx6xZ9zcIRCCEcPnoHpwghFGwOFzOlsfwhenFCqHxJqPSA2QWBjSFG5Qyj9RrdfElcqpy3XhGuT9FWGjj0IMKlU+4MELHkIopdRZUqI7kjvIUJWuEczbyU8ULmVwS+HxEtnaEVr/Dmz+Wll/fwlW7wSUJXQBL65tiqNhHprSzaXER6qOFdruNa28G5MkSVcK1t41of40mV8a52cM7O5J5dnjnXRjg39nA/zmLz+aVCP9lqQ44uiezfDdAyh/g293EsW3hkob51gnN1iD3Vwp89wZs5wpZq4t7YJVp5gTO9g225iZaTD1l8jkjkeVqqIuKPl1FWD0ntfyQ1/iTNvsYnR06O3iNW9hGPOkS6b3HnLhBLXZT1Y6K9dyjpY8STAa78BUHppTAqkrCMcHql3PUDgu036NJsd+YANXeGpzTBvnmMfX0Xe+7lPRQ5ri1zipI7R5nF9K5cy33pq0hZD4Q2pwf97R/EP/9L4MNfOMavCf/8N9FfvuCf/k5gckfs81fCd19w7N3if/cnxm//ockede8Nsbt/mP/1K2J4yUY2J195fpFHrTFPRqfM1wYk8k2SjW2WOvskK32SpS6pwTGL7T0Ms82iNWapd0SiNiSWrbPQGN3XBtIFGp0+wqy2KBSrFMwHmKU6pszb8k/1+ttYrR7VmkWr3Zf5Dp3ukKbVfagtN+57zWKNzS2T6e1PfAOZh1lqObo5zQAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
       &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/51a8e/SpotifyFilter_3.webp 340w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/713b7/SpotifyFilter_3.webp 680w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/54376/SpotifyFilter_3.webp 1360w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e0aab/SpotifyFilter_3.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/ad208/SpotifyFilter_3.png 340w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/a5a26/SpotifyFilter_3.png 680w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/60356/SpotifyFilter_3.png 1360w,
-/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e957c/SpotifyFilter_3.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/60356/SpotifyFilter_3.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+        &lt;source srcset=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/51a8e/Battleship7.webp 340w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/713b7/Battleship7.webp 680w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/54376/Battleship7.webp 1360w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e0aab/Battleship7.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/ad208/Battleship7.png 340w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/a5a26/Battleship7.png 680w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/60356/Battleship7.png 1360w,
+/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e957c/Battleship7.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/60356/Battleship7.png&quot; alt=&quot;trip_statistics&quot; title&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
   &lt;/span&gt;
@@ -147,8 +147,35 @@
   &lt;/a&gt;
     
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Audio Analysis&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Each song from either the search results or filtered results can be clicked to display an audio analysis of its values at the bottom of the page.&lt;/p&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Ship Placement&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Ships are displayed at the bottom of the new game page for a user to place them on their board and start playing the game&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/e957c/Battleship9.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACmklEQVQozyWTa1faWBSGA4YAuUASyYVw0XY5rVp0RghUIZWooLC0qx3XdKZWO+KFaftlvs7Pf2aHfnjXzllnn+e8706i5LUSuUIJtWyR08pSTUpVm2LFpiw1aG+w8WqbXzp71FptTD8QhVTCBjnLQVuvY0abKMUKw/NLlHwGK+lUaoFAapQdaag15EALK2yje02WuzHzrQ6qF+E0X1BtbmLWNyj7bVQ3JF/1UDSTo7MZiqLkUVSNzKm1c4F+cIM7uKOePFDp3WB0b2nuz6n3/qDcvcHufyFIFpi9v9DjO4ytEaqkyRzGx6cofqNNXi1QKBmE/Wvco0c58Ig3yvSAlyyp7M3wj24Ix/9gv/2b9eEDwTvZP/5GZfsYTUajGA6DdIKy+9sBpu1S1E2C+PdVcyTNfgYbLuTgErtzQSRAP3mSC+9pnCzlsgXu6FmA71AtE6WgMxifZWk11goahWKZ1uEncfQscX8CfQH6AnQ6MxrDL9TFYZhdJvvR+Ikw/Y71OmHNNFDWisTJGCVqy4ArVVzP5+jzf/jjHziDr7gSze7fURksqL65IHj7WUDPuIf3K9WG9zji0Ho1Ys3QBahxmMoMNa1ILpdHN022p4/UZHaBxPEziUNvJDHFYXN0S+v0O+sCa6RLmukzwfgbzs4xhSyyANPZHCWXy1HIYqsqtYOPGPE9Vv8rRu92Va3DJ4ztKevxnxj9BaWDW8q9bP8OffCInr1lw8g+F5LJFMULIl683mVrp0OwN8Hef4+7f4nX/YAv8nrXtLrnRN3L1bPX/UhN5OxfYf/6gfBNQrT5kpLrc3X9CaU/OiEepsRS+6OU/nDMQOrZxRXT+XvSyYzk5JwT+Qsmsj6bXZFO56u+n0oZJKfs9YYsf/zL/8mYR5qX6ijDAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/51a8e/Battleship9.webp 340w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/713b7/Battleship9.webp 680w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/54376/Battleship9.webp 1360w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/e0aab/Battleship9.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/ad208/Battleship9.png 340w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/a5a26/Battleship9.png 680w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/60356/Battleship9.png 1360w,
+/portfolio/static/15eccce12ab22c191e02112edbf8076d/e957c/Battleship9.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/60356/Battleship9.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Game Play&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Locations are marked as hit (H) or miss (M) when a user clicks or the computer attacks back. User&amp;apos;s ships are indicated on their board by their first 2 letters&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Run Analyzer]]></title><description><![CDATA[Technologies HTML website CSS styling and animations Node.js Express.js, Express-Sessions EJS (Embedded JavaScript Templates), EJS Partials…]]></description><link>https://spk2dc.github.io/portfolio/run_analyzer/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/run_analyzer/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
@@ -362,185 +389,6 @@
   &lt;div class=&quot;card-body&quot;&gt;
     &lt;h5 class=&quot;card-title&quot;&gt;Custom Note Displayed&lt;/h5&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Battleship]]></title><description><![CDATA[Technologies MERN stack (Mongo, Express, React, Node) HTML CSS Bootstrap JavaScript Features Event listeners and handlers Document Object…]]></description><link>https://spk2dc.github.io/portfolio/battleship/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/battleship/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;MERN stack (Mongo, Express, React, Node)&lt;/li&gt;
-&lt;li&gt;HTML&lt;/li&gt;
-&lt;li&gt;CSS&lt;/li&gt;
-&lt;li&gt;Bootstrap&lt;/li&gt;
-&lt;li&gt;JavaScript&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Features&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Event listeners and handlers&lt;/li&gt;
-&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
-&lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
-&lt;li&gt;User information storage and password encryption - using Bcrypt&lt;/li&gt;
-&lt;li&gt;User sign up and log in functionality&lt;/li&gt;
-&lt;li&gt;Full CRUD functionality&lt;/li&gt;
-&lt;li&gt;RESTful API&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br /&gt;
-&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e957c/Battleship1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACEklEQVQoz02S6W7TQBSFZ/EyXhM7SZ2k2UocVJbQgmh/UIoIqdpSQeEfD4DE+7/B4dxxQI10NOOJ73fPuWNl4wSBy+DyCmFawsQZTJLDpAWCvISrhnC1aIC4GsAUPS9b1jDlAGE9RjlfQ5dDJOMVlA5jmMghr0ewhOkoheaqeJbx7PTsLdavtmhfv8Fme4ZkMIJKc+hcwBV0UUMRrPIaQT2BUspAoCqIvEyUdS5dDiuFJYsqQqQh3ZqsgKI03XfqE1bB9EbepWpmCxiCJLqTKDEdhiksgTpKoBndECoSV4rj0AKkJLrya4WobuiwgXp5/g4FZxMlGWL5k1F16OjWdU4lPpspl1KZj+uhaQf2QDYSp1ai2zCEjeiQLkfjKeG0bQJ0s/3nlK7Z0EM8rDiADw08uKToeLpYIe/10ect/vr9B9f339jAwZWcTRATnHiXliDvUCRwAsSZldhPoVHMiMYgLQo8356jpsuYBRFfCrnKJxUkRfdJcW9ZGBaMxwsxBARsLFC5ID9T/hAwttIa1XCIkA0ix5lp64FVM/EjUIoy/BJkvuLWcs8L9PNNDnNmrRofz9G+2Ho1xwtM5iuv2fIZtcbsZINle4rpgs+rDabLFtNVi4bPR/MTHHEd83zEvUhdfPyC91c7XFCX3F9e7/Hh8y32X3/g5uEnPt084Gp3h93dd549Yn//6Fc5+1/zRH8B6JAI00gcnt4AAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/51a8e/Battleship1.webp 340w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/713b7/Battleship1.webp 680w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/54376/Battleship1.webp 1360w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e0aab/Battleship1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/ad208/Battleship1.png 340w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/a5a26/Battleship1.png 680w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/60356/Battleship1.png 1360w,
-/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/e957c/Battleship1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/cbc2152c6bba2d8425e6cd1486e1dbe6/60356/Battleship1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Landing Page&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Displays the instructions for how to use the site&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/e957c/Battleship3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACJ0lEQVQoz02SW29SQRSF58yc+w3OAXqAcqtQ4w2DxtZowUihtjZaffNB30x8MEbfTHxpiH98ufZATUlWZs8c5ttr79nKBBHcMEGYFvDiHDpIoKMUJsmoHHnVwfjRY4wfTlFrd6HTGnRWg8lL6LwBr2wj74/h5E1E7RGU4wXQfoi0bMEQ5vgxnIBiEuUGmJ+ucb25xubvBov1GZR8S3NKwAWcrIQiWKUl3LIDpZSGQJXrW2k/sS5NlFngk+cv8Pn7b3z58QczxorJt8Ab1QkroGst61JVvQE0QVJ6KKWIAy+GCdOt0yBENP+JcP4LTkzXcQYnEeW2dMVYnPplRYcV1IPZU2RFA36UIJCP4sAL6S7c9pNgZQz3VCRA7tljh6uALZDli1MjpRvPg/HpkC5bbHpW0LZ2se3tjdMUWpwJxMKyHXiXwIJzio67gxHSWh31soFPX79hcfGOCUKEed320PGiXU95UR5KRJAtmc6MlH0b6rNHjtaIswx3pzOUdBnwgs8/eVxlpFw+kB0pxjJOXsby+CCaAJeJBSoPZHvKH1yWrRwHRbMJjwn8MOLeWGDBOZQWKEVpToL0V9wa346Q4mPa0mXlXdXe72Nyf2pV7Q/Q6Y+sesM71Bi9g0MMJ/fQHXA/OkR3OEF3NEHF/V7/AHtc2zxvMRapo/kpnp0scUQdMz5erPDy9Rus3n7A+vIjXq0vcbI8x/L8Pc+usLq4squc/b9zS/8AF+AQAN+5QYAAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/51a8e/Battleship3.webp 340w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/713b7/Battleship3.webp 680w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/54376/Battleship3.webp 1360w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/e0aab/Battleship3.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/ad208/Battleship3.png 340w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/a5a26/Battleship3.png 680w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/60356/Battleship3.png 1360w,
-/portfolio/static/58479fb740c4f15c5335edfebfb05787/e957c/Battleship3.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/58479fb740c4f15c5335edfebfb05787/60356/Battleship3.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Sign Up Page&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/e957c/Battleship4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACGUlEQVQoz1WS6W7bMBCEeUgUJUuyTVtHVNtxHDtHDyAtkP5JWsBJgDhGGhRFgT5Agb7/G0yHlAO0PwakluK3s7sUOkkR2QFsPkaclVDJACrNobIcUTGEdTXsxKvifgpdjqAY16WDKieIXYtyfgpZTpG2SwgZJ1DGIncVNGHSZJBJBkHpQYHV5TssV2tszi8xP7uAJkwwLvMhwWPIwkEQLHKHyB1BCKHgoSIyQcoMgkttcwhLsEkx2v2A2//sv1MmDcDyoBFhY6hhFVyKZraAIsiXbn0pdCbjLAC9U8l2JKvzIJkVB/FsUIbSvVvv1LiGDhuIt1efUIwnMMyc+EOWL2NLt7bvJ4FCRRA6Du4EYYI97qFFD2T53qn2pes4hjZ0SJdV2xE+DYC+t69OWaaHvIoue/AhQQCXFB13iyXy4QgjN8Gv33/wZffMBBaW0xRRQnDa9zT1PR30Cn0sg7MwpH+hJuElqZDlBc4+XME1HRJeMPwp5uqfVJQW/ZPi3k8+LlgeB6IIiJjYQ/2AQk+llIhZslQKrqphEgtjUx7oABw3R30PBaX4Enx/vVttwtMSHGYo3a+8K9y0xuJ0g2PK79s3C3TzJWbHK+oUsxOerS/QLfi93KA7XqNbrtHwu56foObaMl5x7yWapkHTtqjqGjX1/uM1bu+ecL97wcP+O74+7HGzfcT28Rvun15C3K8+dn2zxefbu//0FytcB3stNirvAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/51a8e/Battleship4.webp 340w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/713b7/Battleship4.webp 680w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/54376/Battleship4.webp 1360w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/e0aab/Battleship4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/ad208/Battleship4.png 340w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/a5a26/Battleship4.png 680w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/60356/Battleship4.png 1360w,
-/portfolio/static/54f414600317709e7ab43ad08b5bd099/e957c/Battleship4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/54f414600317709e7ab43ad08b5bd099/60356/Battleship4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Home Page&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Default home page after login where user can start a new game&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e957c/Battleship5.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACtElEQVQozz2Sa28aRxRAF7O7wLIsYDCPYCyCMS8nKbZjRzYNGPPexXVTVVWrRk7IwyS1jUlU9Qf0H7YGXLVV+lNOL0TKh6vdmTtz7rkzo6heA9XrxwhG0AwLdRFmEN0KoQVCRDeyBLM5UtsPiKYzaKEIejiKN5JADa7hja1j3sugeC2q3QGKS9Vxe3wCXEX1GFiy2AiG8YcjWGtxwrE4o8oBZ+WvCMQThO+lsBJJVlNpArEkihnCZUVRND+HzR6K4nKzgK7oXvzZQ/TNBqHtDvHdAUahiWerRethk72Hbdy5BoFym7UdB1/hBE+xg//+npiuLg0fPz1BSW9u4dY8aD6TbGPIRvuaXG9M6fQjuf6YbP8DZsUhWT+X/wmZzhWlbyRnS87+KPA+mhVGMUI8abRRcqUyprSoGyal1ks2O5fku79Qsq8pOxICTu7alNtDCs4N99vvKA+k4OB6CY7vdFEDlrRssF9roKyoqhhqaHJ+j+wReXvCVkeAzpiiQIuDxSaHghTL2wJsvRPYzeecFItVOqz4/ShunYO6tLyeyWJaQcLRGN23v/Pg2W8Uepdsn06WliUBJgRY7ryi6EzE8L1Y38j8mPLZr0tDt2kuzKh35VI0sXO5XOheH5XBe9lwSU5aXhgU+lfS5oRExabYGsrZXrNxMhLwmLwUzTsfxLArT8xaGh73+nLLiiIwL6ruYfP4nHjtgmTtDanjt6QbF6RbV1ilFpmnz0nUR0SOhqw3RpK/INW8khfRxOUzFiCqJy2UR7v7HFTrPD6qsd/8jr32DxzaP1P/dkj97CXV0xccdb+nNpC5Z6/5Wsa1syEHvZ9k7Y/s1h12nlTJbVc4f32B8vc//zKdzpjN5sxu/2R6+wfz2S1/zWfLuJP/u8V3OZ5+idn089rZ9Jb5fC5xx6dP//E/5BV6ohWbMrMAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/51a8e/Battleship5.webp 340w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/713b7/Battleship5.webp 680w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/54376/Battleship5.webp 1360w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e0aab/Battleship5.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/ad208/Battleship5.png 340w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/a5a26/Battleship5.png 680w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/60356/Battleship5.png 1360w,
-/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/e957c/Battleship5.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/28f7be3488e4b77d073a58e69f3953c7/60356/Battleship5.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;New Game Page&lt;/h5&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e957c/Battleship7.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACv0lEQVQozy2S208bRxTGx2uvr+u18X0xJMikXExx8GV9t9d3GzB3FIUEMJA6KYrSKFKiSjRqpT61L31qpTRS/9ZfxtCHT2fOzDnffOebEYrTjU11oXp04uYJwfIVkcoV4cosXhCu3RDMbGNUX5CwpsTqN0Rq10Sq14RqUyJPh/iNBYTqp3/4DKGobhxuL4FoAqN4wlz5mmhVkklEZVOk9sP/hGcsdH4kKslClQlG8xVx6xZ9zcIRCCEcPnoHpwghFGwOFzOlsfwhenFCqHxJqPSA2QWBjSFG5Qyj9RrdfElcqpy3XhGuT9FWGjj0IMKlU+4MELHkIopdRZUqI7kjvIUJWuEczbyU8ULmVwS+HxEtnaEVr/Dmz+Wll/fwlW7wSUJXQBL65tiqNhHprSzaXER6qOFdruNa28G5MkSVcK1t41of40mV8a52cM7O5J5dnjnXRjg39nA/zmLz+aVCP9lqQ44uiezfDdAyh/g293EsW3hkob51gnN1iD3Vwp89wZs5wpZq4t7YJVp5gTO9g225iZaTD1l8jkjkeVqqIuKPl1FWD0ntfyQ1/iTNvsYnR06O3iNW9hGPOkS6b3HnLhBLXZT1Y6K9dyjpY8STAa78BUHppTAqkrCMcHql3PUDgu036NJsd+YANXeGpzTBvnmMfX0Xe+7lPRQ5ri1zipI7R5nF9K5cy33pq0hZD4Q2pwf97R/EP/9L4MNfOMavCf/8N9FfvuCf/k5gckfs81fCd19w7N3if/cnxm//ockede8Nsbt/mP/1K2J4yUY2J195fpFHrTFPRqfM1wYk8k2SjW2WOvskK32SpS6pwTGL7T0Ms82iNWapd0SiNiSWrbPQGN3XBtIFGp0+wqy2KBSrFMwHmKU6pszb8k/1+ttYrR7VmkWr3Zf5Dp3ukKbVfagtN+57zWKNzS2T6e1PfAOZh1lqObo5zQAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/51a8e/Battleship7.webp 340w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/713b7/Battleship7.webp 680w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/54376/Battleship7.webp 1360w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e0aab/Battleship7.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/ad208/Battleship7.png 340w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/a5a26/Battleship7.png 680w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/60356/Battleship7.png 1360w,
-/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/e957c/Battleship7.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/6d5142dbeba53a698cb22c55f96c7f87/60356/Battleship7.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Ship Placement&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Ships are displayed at the bottom of the new game page for a user to place them on their board and start playing the game&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/e957c/Battleship9.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACmklEQVQozyWTa1faWBSGA4YAuUASyYVw0XY5rVp0RghUIZWooLC0qx3XdKZWO+KFaftlvs7Pf2aHfnjXzllnn+e8706i5LUSuUIJtWyR08pSTUpVm2LFpiw1aG+w8WqbXzp71FptTD8QhVTCBjnLQVuvY0abKMUKw/NLlHwGK+lUaoFAapQdaag15EALK2yje02WuzHzrQ6qF+E0X1BtbmLWNyj7bVQ3JF/1UDSTo7MZiqLkUVSNzKm1c4F+cIM7uKOePFDp3WB0b2nuz6n3/qDcvcHufyFIFpi9v9DjO4ytEaqkyRzGx6cofqNNXi1QKBmE/Wvco0c58Ig3yvSAlyyp7M3wj24Ix/9gv/2b9eEDwTvZP/5GZfsYTUajGA6DdIKy+9sBpu1S1E2C+PdVcyTNfgYbLuTgErtzQSRAP3mSC+9pnCzlsgXu6FmA71AtE6WgMxifZWk11goahWKZ1uEncfQscX8CfQH6AnQ6MxrDL9TFYZhdJvvR+Ikw/Y71OmHNNFDWisTJGCVqy4ArVVzP5+jzf/jjHziDr7gSze7fURksqL65IHj7WUDPuIf3K9WG9zji0Ho1Ys3QBahxmMoMNa1ILpdHN022p4/UZHaBxPEziUNvJDHFYXN0S+v0O+sCa6RLmukzwfgbzs4xhSyyANPZHCWXy1HIYqsqtYOPGPE9Vv8rRu92Va3DJ4ztKevxnxj9BaWDW8q9bP8OffCInr1lw8g+F5LJFMULIl683mVrp0OwN8Hef4+7f4nX/YAv8nrXtLrnRN3L1bPX/UhN5OxfYf/6gfBNQrT5kpLrc3X9CaU/OiEepsRS+6OU/nDMQOrZxRXT+XvSyYzk5JwT+Qsmsj6bXZFO56u+n0oZJKfs9YYsf/zL/8mYR5qX6ijDAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/51a8e/Battleship9.webp 340w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/713b7/Battleship9.webp 680w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/54376/Battleship9.webp 1360w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/e0aab/Battleship9.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/ad208/Battleship9.png 340w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/a5a26/Battleship9.png 680w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/60356/Battleship9.png 1360w,
-/portfolio/static/15eccce12ab22c191e02112edbf8076d/e957c/Battleship9.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/15eccce12ab22c191e02112edbf8076d/60356/Battleship9.png&quot; alt=&quot;trip_statistics&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Game Play&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Locations are marked as hit (H) or miss (M) when a user clicks or the computer attacks back. User&amp;apos;s ships are indicated on their board by their first 2 letters&lt;/p&gt;
-  &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Trip Statistics]]></title><description><![CDATA[Technologies React Frontend Python Flask (backend micro web framework) SQLite3 / PostgreSQL Databases Node JavaScript HTML CSS Bootstrap…]]></description><link>https://spk2dc.github.io/portfolio/trip_statistics/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/trip_statistics/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;React Frontend&lt;/li&gt;
@@ -723,6 +571,158 @@
   &lt;div class=&quot;card-body&quot;&gt;
     &lt;h5 class=&quot;card-title&quot;&gt;Trip Display Page - Map&lt;/h5&gt;
     &lt;p class=&quot;card-text&quot;&gt;Displays details on one selected trip. Interactive heatmap containing all places with markers and labels showing more information&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Spotify Track Filter]]></title><description><![CDATA[Technologies HTML website CSS styling and animations jQuery and vanilla JavaScript AJAX requests to pull external data from Spotify API…]]></description><link>https://spk2dc.github.io/portfolio/spotify_filter/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/spotify_filter/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML website&lt;/li&gt;
+&lt;li&gt;CSS styling and animations&lt;/li&gt;
+&lt;li&gt;jQuery and vanilla JavaScript&lt;/li&gt;
+&lt;li&gt;AJAX requests to pull external data from Spotify API&lt;/li&gt;
+&lt;li&gt;Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spotify API Integration&lt;/li&gt;
+&lt;li&gt;Event listeners and handlers&lt;/li&gt;
+&lt;li&gt;jQuery &amp;#x26; Document Object Model (DOM) manipulation&lt;/li&gt;
+&lt;li&gt;Asynchronous JavaScript with async and await&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e957c/SpotifyFilter_5.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB5UlEQVQoz22Sy5LTMBBF/RvDAIlfkvyKZUt2HMf2hLwzkOELYE2xABYzUPDzl5acpFiwONWyr/rW7badu0OE5Os7NL8/ong5Qb4cLernI/wfA6JfW2R/jhb+vIb7rYP3vb8x/bLA208a0881vH0OhwUMsS/gvprAv59avAvBvYtBL3F82OG02qNOS/h3E7DXPuGNvKHzxBDA93w47dDh/HRGqRUKVUJXGrqu7LNhJnNk+YzIIAtJmrZcdVWpsYcIRAgnkzOsVivUdY1KV6iqisSxXjGaQUqJPM//i9G8kBLmpcR2s0HbtlgsFpamaWxtF+O7drm0VcoCZVGiKAqLUspSljSZ0qMhi7g1WFLTMAzo+x4dcT0bjNZ1nb1nDExqUxljNzjnmHhTOHGaYLfZYkMpTaOFmrsL/cXcYKaYzxtibg2FEDeiKMLUd+GILMb6sEU/UDKTZNmNpu14rrSGzCUKGlfRaKZyShSGIQQXFpMuEhdDVzKIB4moTBFnyY1kliJKY7sXgxt4tpoV8VhY2BV6J5IIE2tIF80OQh7SZ6d6wecBUvpVHp8+YL3f4HR+j93pAJ6I8Q6ZjIz3WUw79GmHPgtsXBvf7INWINIInIjzBKqhkasSaq5R1MrqRhNXTM8/I/8FflBbcOqPUWcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/51a8e/SpotifyFilter_5.webp 340w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/713b7/SpotifyFilter_5.webp 680w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/54376/SpotifyFilter_5.webp 1360w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e0aab/SpotifyFilter_5.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/ad208/SpotifyFilter_5.png 340w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/a5a26/SpotifyFilter_5.png 680w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/60356/SpotifyFilter_5.png 1360w,
+/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/e957c/SpotifyFilter_5.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/b1b8a41b399a7b9de35a184f98c71b16/60356/SpotifyFilter_5.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Landing Page&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displays the instructions for how to use the site&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e957c/SpotifyFilter_4.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB8UlEQVQoz5WQy27TQBiF+xjcktgeey62YztxHV/HTkqoKgUQVVWlElIvtIWyqMSGSLAA3oAFq2541cPM1EgVSEUsPh3L0vl8/G9Z+xPExx2SswXGJx3isznGivC0hTiXaD6+Qv5hBbnZx/b1HlbfjnH98wve3XzC1c1nvP2xwfvvGxx9vcRoN8QWGTmgIxfeQCcBHRB4D214DyyEQ46nsw7zaY2lSpkUSEWMNqvRpCVkURu6WiJPMxDbUULmgvtCwcEFh7dMEBxW8A8K2C8niNYS2ZtnyE6WSI5a2C8mIKsJnFUCe0LhOA5s4sB1XVDl2CJUCTk3UEoxPqggr54jWFeITueoLvbgHc4wO99F+noBus4hLiT4pQRtInDKzBDd9zi9I2S3L7Iqx07ZYUx9yKxCmzcIXYGuaMAsz0CL0MAiH0x1GWMQXMAi9t/CfFGjbVtzhlo2kF0LPwj6VAK1hnUx6DwGS3zVY/cIGUW506AsChB1k0YLWwnf99E0DYQQahED7SIDi/8lVAtnXYlFNzeSulJrpVomfJO6pMusHpv76YXsPiFVX4+rFGmZmftMi21M1bOIA5Nc30xTR7eYhX/c0PGIEZov6d8JlNjvs4f9zvAO/Xvd0V3tsBwlfGwNMCAjDJwe8p/0vSGx8Gj4BL8AKktYuwKF+AcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/51a8e/SpotifyFilter_4.webp 340w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/713b7/SpotifyFilter_4.webp 680w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/54376/SpotifyFilter_4.webp 1360w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e0aab/SpotifyFilter_4.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/ad208/SpotifyFilter_4.png 340w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/a5a26/SpotifyFilter_4.png 680w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/60356/SpotifyFilter_4.png 1360w,
+/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/e957c/SpotifyFilter_4.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/c225bbb48867fd2d0d455dc574b7fcec/60356/SpotifyFilter_4.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Search Results&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Users can search from anywhere on the page from the navigation bar and see the search results here.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e957c/SpotifyFilter_1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACfElEQVQoz22Sy27TQBSG+xagpm0utmfGjp3ETpukadq4kIbQQBsnXCouBSEVSqVCWVVCILFgwXWBkHgHdqxYsQC2CPEUSCAe4uPYZQESi19n5PH5Zv5/zlQhCalud6ldXyW41qV6Pc5qKr3dpnNng9buaeKDhMbeAPtKC0dkX25la2urQTGJsJN5iv0KU1a+hMrbOHMlnNkjqTkLO1fAni7Su7HB8NFVeg+26E7WcI4Vsn/MnI3JO0cqKLySpjCbF6CWDc9FGU1Yj4jm6+Qti/n2MnHcpTHoEG4s8eLtGy7t7RBGdbonVikHZbRr0J7JqiuMgl0UoLJxjcG2bcJaFU82czOzDM4knJuMaS00qVdCfn3/wfOXr1lcWmY8OU+lEqCUwkiv1loYArT+ALVslH2fd+8/8OXrN548ecr6YMBoNKLf79NsNvn58wePn71isd1hMh4TBEHW9w+wJMCSAFO7btnl2u277B8+5MKly/ROrdHrr9FZWcavBnz6/JGDw/tEjQbrZ9bxKz5KK7T0ZhJn6eWmitpClcWyq8jlpzmeO8bMTE4O8IjqdYJqhTAMZR1JfiG1Wk1AGkc5OGWp3l8SxpTlSIbaYESe8TBxiBkuUB0t0d+bcGp3Qm834eTOJmf3t+jdGuENG+hBhK6XMUpnvalSp1mGaQ6p0pD9c21W742JbpzEbC/RvDmgtLXAws4atSsxxYvzuLtdzO0VVCfAOKnl/wHlg2MUrU6bXjvGt126zQ5xSzK0XOLFFUxRZTOnWpLfoo+ueBns6FEMRbv07w1LjsXwwiZJkuBoh82R2Nw4KzPny0MMZRKOZk+th6ihWK5JRAL7+5V/A1Ccbj8gvAatAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/51a8e/SpotifyFilter_1.webp 340w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/713b7/SpotifyFilter_1.webp 680w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/54376/SpotifyFilter_1.webp 1360w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e0aab/SpotifyFilter_1.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/ad208/SpotifyFilter_1.png 340w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/a5a26/SpotifyFilter_1.png 680w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/60356/SpotifyFilter_1.png 1360w,
+/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/e957c/SpotifyFilter_1.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/5e92c76bb2b0f699af8c367e72b6c770/60356/SpotifyFilter_1.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Filter Settings&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Displayed search results can be filtered using any number of options and values desired. Each parameter can be hovered over to display an explanation of its meaning and a graph of the standard distribution of values.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/e957c/SpotifyFilter_2.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB80lEQVQoz42SW0/bQBCF80dISOzd2V1fcyEXcrMhSSsISihWgRYFCVAIQan4/y+n40sAVa3Uh6OZ9Xq+8cxx6XBZR3A3Rn0Vw1+NEP4Yw1x20bo7weTtCqPtBeLdEoPNOaLdAtHrAnTVhr1oQtx2YF+3UVs0snN15qNkVWqQFRuizPGgBmsSoH5/kjVprWeItgs0n6YYvMwx3SWcT2B+DqBue5B1A1UWUFUJXSNUDioMJBvK6EyCJDrfI5y9JThi4PHDFPH6HG7SQcQxSLrQ31pwnodwN0Oovg8iAmkFzfWHdpWBkoFKQZGCUBLtcRdRPIIXOBiO+hhFA/ihx5Eh/MzxDUwUZFKhyYEsrRhopUBhQ1MK5AtFMA0PJnRhu9y1zjlL+ppzF9LjKTxu3HQgWcRnVdS+A6tkQToEYXLZnEuGOa6bjWGMyeXkcoqzSGvcj7pUlhIo1XjkdAfp16VRSAm/EWK+vcbXlwTxI7v8dIH5rxvMni/x5TXB7GGZ7VwWU+0lNX3eIeVR8kWg0d2esctTeOsYweYU5n4Ih2WvupA3HShd1NBHTE19B1IBJAZq38H4eAhPGAyaPRy5DcgyT8K/l0pj4Wy+d/WHKX8Dspudfi/bmR8GXFwAjMrfCcz/AfeXit0jk8P3jbJ3itUQu/4v4G/iHlmG4TSTkAAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/51a8e/SpotifyFilter_2.webp 340w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/713b7/SpotifyFilter_2.webp 680w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/54376/SpotifyFilter_2.webp 1360w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/e0aab/SpotifyFilter_2.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/ad208/SpotifyFilter_2.png 340w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/a5a26/SpotifyFilter_2.png 680w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/60356/SpotifyFilter_2.png 1360w,
+/portfolio/static/be8fd441711de555e81a366828e9a39b/e957c/SpotifyFilter_2.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/be8fd441711de555e81a366828e9a39b/60356/SpotifyFilter_2.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Filter Results&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;The filtered results are displayed below the filter settings once the run filters button is clicked&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e957c/SpotifyFilter_3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABjklEQVQoz5WSTU/bQBCG+SEtjp31fsbrGJzFcUI+3NgIDqVSJVRSKnrhRiv1XlEOSPzsl9kFcahiCQ6v3p2dnUejmd0bfCmQXy1RXK9hfyxgrxZwNx2+Pt6g/bdF8/ci6OzhGpu7b+jut2jvLsG/T8Euj8AuHJLzA7DzQ8Sdxd4wSsAjhnTf+xDpB3IhMP/zGTNSfttiTHK/T1HeniD/RfHPNWTMIfdTyEEazioRiD5GBBQMUiuSDBKSfGzgVjVMkcEdTzGZUydGIB3J4KxQEIak5KsUMQYsJiAnIEEEdRWcCyhrcLxcIDMjTA5LGG3CvfRvvGfPMB+Ll1olCTjsA+YjHNVVuLN5Dq31az5ArH4fUFLBYr1Cbi2KooAx5j/g7g6jZNAPbNpPmNUzVFX1JqDPDVPWP8PpvIZW+m1A6ecrwZXom6HBpHJ05ijLElmWgTEWvpPP9wJlD1DTUsblAXjKUdc1mqaBcw6WZuoLdy3F18Ys6e8wG1tw6nBNy9lsNui6Dm3bhrmKvm+TxHgC+ipSgV4dPTUAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/51a8e/SpotifyFilter_3.webp 340w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/713b7/SpotifyFilter_3.webp 680w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/54376/SpotifyFilter_3.webp 1360w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e0aab/SpotifyFilter_3.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/ad208/SpotifyFilter_3.png 340w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/a5a26/SpotifyFilter_3.png 680w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/60356/SpotifyFilter_3.png 1360w,
+/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/e957c/SpotifyFilter_3.png 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/8230d92fea2baf660b68fe0e4c58f71c/60356/SpotifyFilter_3.png&quot; alt=&quot;trip_statistics&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Audio Analysis&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Each song from either the search results or filtered results can be clicked to display an audio analysis of its values at the bottom of the page.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc Denis I used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://spk2dc.github.io/portfolio/darkness/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
@@ -1929,269 +1929,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Intelligent Automatic Watering System]]></title><description><![CDATA[Description Designed complex automatic home watering system that can be controlled remotely through a website Identified and interviewed…]]></description><link>https://spk2dc.github.io/portfolio/watering_system/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/watering_system/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Designed complex automatic home watering system that can be controlled remotely through a website&lt;/li&gt;
-&lt;li&gt;Identified and interviewed potential users of system in order to meet their needs&lt;/li&gt;
-&lt;li&gt;Created multiple water distribution systems to appeal to wider range of users and increase versatility of system&lt;/li&gt;
-&lt;li&gt;Waterproofed and rigorously tested all aspects of system to ensure functionality and usability of final product&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Technologies&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Arduino microcontroller&lt;/li&gt;
-&lt;li&gt;Sensors (flow rate, moisture)&lt;/li&gt;
-&lt;li&gt;Water distribution systems (solenoid valve, hoses, pipes, sprinklers)&lt;/li&gt;
-&lt;li&gt;3D printing and SolidWorks CAD modeling&lt;/li&gt;
-&lt;li&gt;JavaScript&lt;/li&gt;
-&lt;li&gt;HTML&lt;/li&gt;
-&lt;li&gt;CSS&lt;/li&gt;
-&lt;li&gt;SQL Database&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br /&gt;
-&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/1ca3f/Automatic_Watering_System_8.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHvQBog3//EABcQAQADAAAAAAAAAAAAAAAAAAEAESD/2gAIAQEAAQUCgtY//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8Bqv/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAABESAh/9oACAEBAAY/AjVFf//EABoQAAMAAwEAAAAAAAAAAAAAAAABERAxQVH/2gAIAQEAAT8haOgPLROou8Vn/9oADAMBAAIAAwAAABBYD//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EIQ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFBYaGx/9oACAEBAAE/EABdfF8yr7mx9JsQVa5dirz1KsH1P//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/51a8e/Automatic_Watering_System_8.webp 340w,
-/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/713b7/Automatic_Watering_System_8.webp 680w,
-/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/54376/Automatic_Watering_System_8.webp 1360w,
-/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/e0aab/Automatic_Watering_System_8.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/2e524/Automatic_Watering_System_8.jpg 340w,
-/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/d330d/Automatic_Watering_System_8.jpg 680w,
-/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/6c26c/Automatic_Watering_System_8.jpg 1360w,
-/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/1ca3f/Automatic_Watering_System_8.jpg 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/6c26c/Automatic_Watering_System_8.jpg&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Our System&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Describes the general use and purpose of our system.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/1ca3f/Automatic_Watering_System_11.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHvQ0LQb//EABgQAAIDAAAAAAAAAAAAAAAAAAARARAS/9oACAEBAAEFAiNK2f/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAEAAwAAAAAAAAAAAAAAAAARACAh/9oACAEBAAY/Apo1/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERIRAxcfD/2gAIAQEAAT8hfrH0eDxNEkj/2gAMAwEAAgADAAAAEEsP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QhD//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgIDAAAAAAAAAAAAAAABABExYSFBof/aAAgBAQABPxAUKWvRaCISzmT2oXXOYK28y5wdam3yf//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/51a8e/Automatic_Watering_System_11.webp 340w,
-/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/713b7/Automatic_Watering_System_11.webp 680w,
-/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/54376/Automatic_Watering_System_11.webp 1360w,
-/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/e0aab/Automatic_Watering_System_11.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/2e524/Automatic_Watering_System_11.jpg 340w,
-/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/d330d/Automatic_Watering_System_11.jpg 680w,
-/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/6c26c/Automatic_Watering_System_11.jpg 1360w,
-/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/1ca3f/Automatic_Watering_System_11.jpg 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/6c26c/Automatic_Watering_System_11.jpg&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;System Overview&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Lists all major components and functions of the final watering system.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/07d76/Automatic_Watering_System_12.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1223px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75.88235294117648%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHoJaElkf/EABkQAAIDAQAAAAAAAAAAAAAAAAECABASIf/aAAgBAQABBQKPohA4Xt//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAABEQACIGH/2gAIAQEABj8Ciqn2I2Bx/8QAGxABAQADAAMAAAAAAAAAAAAAAQARIUExUYH/2gAIAQEAAT8htyhdHizZR0IUvqRzq+X/2gAMAwEAAgADAAAAEBP/AP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EFf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxBH/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIUEx/9oACAEBAAE/EIErSlCDuHZaFlCSyu777GdotQVuThTTXYD0T//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/51a8e/Automatic_Watering_System_12.webp 340w,
-/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/713b7/Automatic_Watering_System_12.webp 680w,
-/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/c021c/Automatic_Watering_System_12.webp 1223w&quot; sizes=&quot;(max-width: 1223px) 100vw, 1223px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/2e524/Automatic_Watering_System_12.jpg 340w,
-/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/d330d/Automatic_Watering_System_12.jpg 680w,
-/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/07d76/Automatic_Watering_System_12.jpg 1223w&quot; sizes=&quot;(max-width: 1223px) 100vw, 1223px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/07d76/Automatic_Watering_System_12.jpg&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Close Up of System Diagram&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;General layout of system indicating relationship between major components and how they work together&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/1acfdd27718401c63c58ca620f679915/490e5/Automatic_Watering_System_1.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABrF04YmUj/8QAGhAAAwADAQAAAAAAAAAAAAAAAQIDABESIf/aAAgBAQABBQJKanJgjNb0HFc64Of/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAADAAMAAAAAAAAAAAAAAAAAAREQIUH/2gAIAQEABj8CZeZihuH/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMXGB/9oACAEBAAE/IYRTO6O6rwXtaIisDdRHDo+H/9oADAMBAAIAAwAAABB0/wD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxBX/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxB5CH//xAAbEAEBAQEBAAMAAAAAAAAAAAABESEAMVGRof/aAAgBAQABPxCIUPKtzfvhgrYKp5Zevrrzm3jHb8dFWrlfeQgaaS/vf//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/1acfdd27718401c63c58ca620f679915/51a8e/Automatic_Watering_System_1.webp 340w,
-/portfolio/static/1acfdd27718401c63c58ca620f679915/713b7/Automatic_Watering_System_1.webp 680w,
-/portfolio/static/1acfdd27718401c63c58ca620f679915/54376/Automatic_Watering_System_1.webp 1360w,
-/portfolio/static/1acfdd27718401c63c58ca620f679915/134ac/Automatic_Watering_System_1.webp 1600w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/1acfdd27718401c63c58ca620f679915/2e524/Automatic_Watering_System_1.jpg 340w,
-/portfolio/static/1acfdd27718401c63c58ca620f679915/d330d/Automatic_Watering_System_1.jpg 680w,
-/portfolio/static/1acfdd27718401c63c58ca620f679915/6c26c/Automatic_Watering_System_1.jpg 1360w,
-/portfolio/static/1acfdd27718401c63c58ca620f679915/490e5/Automatic_Watering_System_1.jpg 1600w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/1acfdd27718401c63c58ca620f679915/6c26c/Automatic_Watering_System_1.jpg&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;System Components&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Waterproof box containing circuitry and micro-controller, hose splitter with solenoids that control water, moisture sensor for feedback&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/2a363724455db79ff78ce78d15716eb8/040c5/Automatic_Watering_System_3.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1200px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.23529411764707%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAMBAgUE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAecz7peaqSFoKNh//8QAGhABAQADAQEAAAAAAAAAAAAAAQIDERIQIP/aAAgBAQABBQILt4s8x1q3Kd1Y2Ons+f/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABwQAAIABwAAAAAAAAAAAAAAAAABEBEgITFBYf/aAAgBAQAGPwK0jUcMb7X/AP/EABsQAQADAAMBAAAAAAAAAAAAAAEAESEgMWFB/9oACAEBAAE/IamVXhLVVvPkD2bR5EhqTshbMcQgYp0Uxda4f//aAAwDAQACAAMAAAAQ0Dnw/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxDEDF//xAAXEQADAQAAAAAAAAAAAAAAAAABESBB/9oACAECAQE/EC8j/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBUXGBkf/aAAgBAQABPxB4+BsOI5Bt+TzUtMhYwsmdHcuLxAqnv3LnClVWIpzVixodRdcwFggqh0XGZxl+wyT/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/2a363724455db79ff78ce78d15716eb8/51a8e/Automatic_Watering_System_3.webp 340w,
-/portfolio/static/2a363724455db79ff78ce78d15716eb8/713b7/Automatic_Watering_System_3.webp 680w,
-/portfolio/static/2a363724455db79ff78ce78d15716eb8/1e0b8/Automatic_Watering_System_3.webp 1200w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/2a363724455db79ff78ce78d15716eb8/2e524/Automatic_Watering_System_3.jpg 340w,
-/portfolio/static/2a363724455db79ff78ce78d15716eb8/d330d/Automatic_Watering_System_3.jpg 680w,
-/portfolio/static/2a363724455db79ff78ce78d15716eb8/040c5/Automatic_Watering_System_3.jpg 1200w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/2a363724455db79ff78ce78d15716eb8/040c5/Automatic_Watering_System_3.jpg&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Inside Waterproof Box&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Close up of the circuitry and micro-controller in the black box&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/1ca3f/Automatic_Watering_System_6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB3VEkmKQf/8QAGhAAAQUBAAAAAAAAAAAAAAAAAQADEBESMv/aAAgBAQABBQJXJ5ZGR//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAEBAQEAAAAAAAAAAAAAAAABACBR/9oACAEBAAY/AsJIdv/EABoQAAIDAQEAAAAAAAAAAAAAAAABESExQXH/2gAIAQEAAT8h7o4LXsUL0ks1jQimI//aAAwDAQACAAMAAAAQO8//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCEP//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBYdNv/xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhMUFRYXGR0f/aAAgBAQABPxBsIrN8ypRV0i15+xLdhzipb11N+ECclQJcprXYn//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/51a8e/Automatic_Watering_System_6.webp 340w,
-/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/713b7/Automatic_Watering_System_6.webp 680w,
-/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/54376/Automatic_Watering_System_6.webp 1360w,
-/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/e0aab/Automatic_Watering_System_6.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/2e524/Automatic_Watering_System_6.jpg 340w,
-/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/d330d/Automatic_Watering_System_6.jpg 680w,
-/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/6c26c/Automatic_Watering_System_6.jpg 1360w,
-/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/1ca3f/Automatic_Watering_System_6.jpg 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/6c26c/Automatic_Watering_System_6.jpg&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Watering Methods&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;These are the 3 watering distribution systems we marketed to users in order for our system to be adaptable, versatile, and appeal to the widest range of users possible.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/1ca3f/Automatic_Watering_System_9.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7iCaKD//xAAWEAEBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQEAAQUCXFf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGq/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFxABAQEBAAAAAAAAAAAAAAAAAREAEP/aAAgBAQABPyFY8jTXlb//2gAMAwEAAgADAAAAEPAP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QhD//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAADAAIDAAAAAAAAAAAAAAAAAREhoTFRYf/aAAgBAQABPxBrY9lJZjY6jU8K7KyHD0f/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/51a8e/Automatic_Watering_System_9.webp 340w,
-/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/713b7/Automatic_Watering_System_9.webp 680w,
-/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/54376/Automatic_Watering_System_9.webp 1360w,
-/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/e0aab/Automatic_Watering_System_9.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/2e524/Automatic_Watering_System_9.jpg 340w,
-/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/d330d/Automatic_Watering_System_9.jpg 680w,
-/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/6c26c/Automatic_Watering_System_9.jpg 1360w,
-/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/1ca3f/Automatic_Watering_System_9.jpg 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/6c26c/Automatic_Watering_System_9.jpg&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Core Functions&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Provides a brief description of each function and indicates the primary component for that function.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/1ca3f/Automatic_Watering_System_10.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHup1LQP//EABYQAQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAQABBQJMV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAYEAEBAQEBAAAAAAAAAAAAAAAAAREhgf/aAAgBAQABPyGdeka2tP/aAAwDAQACAAMAAAAQYA//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCEP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB8QAAIBAwUBAAAAAAAAAAAAAAABETFhoSFBUXGRsf/aAAgBAQABPxBNczXZkOfQkKJb7Eyp8L2C5g//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/51a8e/Automatic_Watering_System_10.webp 340w,
-/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/713b7/Automatic_Watering_System_10.webp 680w,
-/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/54376/Automatic_Watering_System_10.webp 1360w,
-/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/e0aab/Automatic_Watering_System_10.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/2e524/Automatic_Watering_System_10.jpg 340w,
-/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/d330d/Automatic_Watering_System_10.jpg 680w,
-/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/6c26c/Automatic_Watering_System_10.jpg 1360w,
-/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/1ca3f/Automatic_Watering_System_10.jpg 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/6c26c/Automatic_Watering_System_10.jpg&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Physical to Functional Mapping&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Demonstrates modularity of system and shows which function each component addresses.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/05366/Automatic_Watering_System_14.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHkOzdKh50V/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECAxEhI//aAAgBAQABBQJCdRGjGkiL55s//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BJ//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwG1r//EABsQAAIBBQAAAAAAAAAAAAAAAAAhAQIQETFB/9oACAEBAAY/AiFbOx9HSz//xAAcEAACAwADAQAAAAAAAAAAAAABEQAhMRBBYVH/2gAIAQEAAT8hRh55HFS6+cCzimAwq6bvDCxr8T//2gAMAwEAAgADAAAAEHQf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QE//EABURAQEAAAAAAAAAAAAAAAAAABBR/9oACAECAQE/EJD/xAAcEAEAAgIDAQAAAAAAAAAAAAABACERQVFhgbH/2gAIAQEAAT8QCu2vaVCDJV4O3hsmCCJfeIs8YF5euoNUJkBnw1A4WzJPk//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/51a8e/Automatic_Watering_System_14.webp 340w,
-/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/713b7/Automatic_Watering_System_14.webp 680w,
-/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/54376/Automatic_Watering_System_14.webp 1360w,
-/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/0be89/Automatic_Watering_System_14.webp 2040w,
-/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/71194/Automatic_Watering_System_14.webp 2720w,
-/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/c5747/Automatic_Watering_System_14.webp 3264w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/2e524/Automatic_Watering_System_14.jpg 340w,
-/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/d330d/Automatic_Watering_System_14.jpg 680w,
-/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/6c26c/Automatic_Watering_System_14.jpg 1360w,
-/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/afd2d/Automatic_Watering_System_14.jpg 2040w,
-/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/f4749/Automatic_Watering_System_14.jpg 2720w,
-/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/05366/Automatic_Watering_System_14.jpg 3264w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/6c26c/Automatic_Watering_System_14.jpg&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Solenoid Valve Testing&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;System is shown attached to a spigot on a building for testing the solenoid valve and control system.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Cryostat Fridge]]></title><description><![CDATA[Description Measured complicated parts and modeled them using SolidWorks for use in research and experiments Iterated and optimized designs…]]></description><link>https://spk2dc.github.io/portfolio/cryostat_fridge/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/cryostat_fridge/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Cryostat Fridge]]></title><description><![CDATA[Description Measured complicated parts and modeled them using SolidWorks for use in research and experiments Iterated and optimized designs…]]></description><link>https://spk2dc.github.io/portfolio/cryostat_fridge/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/cryostat_fridge/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Measured complicated parts and modeled them using SolidWorks for use in research and experiments&lt;/li&gt;
 &lt;li&gt;Iterated and optimized designs in large assemblies, and collaborated with machinists to produce final product&lt;/li&gt;
@@ -2616,6 +2354,123 @@
     &lt;h5 class=&quot;card-title&quot;&gt;Delivery Robot&lt;/h5&gt;
     &lt;!-- picture from TLP blog, source: https://pages.shanti.virginia.edu/TLP_TLC/2016/12/07/autonomous-robot/ --&gt;
   &lt;/div&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Semi-Quadcopter]]></title><description><![CDATA[Description Built and wired self-balancing semi-quadcopter with 2 degrees of freedom Coded Parallax Propeller microcontroller control…]]></description><link>https://spk2dc.github.io/portfolio/semi_quadcopter/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/semi_quadcopter/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Built and wired self-balancing semi-quadcopter with 2 degrees of freedom&lt;/li&gt;
+&lt;li&gt;Coded Parallax Propeller microcontroller control algorithm in C to stabilize roll and pitch, using inertial measurement unit (IMU) and ultrasonic sensor&lt;/li&gt;
+&lt;li&gt;Researched and implemented PID control/tuning, I2C communication, and Kalman filter&lt;/li&gt;
+&lt;li&gt;Link to testing video: &lt;a href=&apos;https://youtu.be/gu-WoXYLHz4&apos;&gt;https://youtu.be/gu-WoXYLHz4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SolidWorks CAD Software&lt;/li&gt;
+&lt;li&gt;3D Printing&lt;/li&gt;
+&lt;li&gt;Arduino microcontroller&lt;/li&gt;
+&lt;li&gt;C++ programming&lt;/li&gt;
+&lt;li&gt;Circuitry design and wiring&lt;/li&gt;
+&lt;li&gt;Ultrasonic Sensor&lt;/li&gt;
+&lt;li&gt;Inertial Measurement Unit (IMU)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  &lt;iframe class=&quot;card-img-top border my-1&quot; width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/gu-WoXYLHz4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Testing Video&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Finished semi-quadcopter being tested to ensure it maintains balance and stabilizes itself despite being hit or carrying weights on either motor.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/64ca0/Quadcopter_Setup.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAS0xgqj/xAAbEAADAAIDAAAAAAAAAAAAAAABAgMAERITIf/aAAgBAQABBQKdXw81k+mKqClNk9fn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHxAAAQMDBQAAAAAAAAAAAAAAAQARIQIQEjFBUYGh/9oACAEBAAY/ApyPacmqedk7m2sIR6v/xAAcEAEAAwACAwAAAAAAAAAAAAABABExIUFRYXH/2gAIAQEAAT8hWcbceMd5wQVsv2GUPcsseEs0HN7T/9oADAMBAAIAAwAAABAsP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/ECf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEBAAMAAgMAAAAAAAAAAAABEQAhMUFRYZGx/9oACAEBAAE/EGoEmCj67jTY1o1e6/NZU+Q6B585XOjovcIq4ijyzKVGtCK9zP/Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/51a8e/Quadcopter_Setup.webp 340w,
+/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/713b7/Quadcopter_Setup.webp 680w,
+/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/54376/Quadcopter_Setup.webp 1360w,
+/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/0be89/Quadcopter_Setup.webp 2040w,
+/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/71194/Quadcopter_Setup.webp 2720w,
+/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/20207/Quadcopter_Setup.webp 4160w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/2e524/Quadcopter_Setup.jpg 340w,
+/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/d330d/Quadcopter_Setup.jpg 680w,
+/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/6c26c/Quadcopter_Setup.jpg 1360w,
+/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/afd2d/Quadcopter_Setup.jpg 2040w,
+/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/f4749/Quadcopter_Setup.jpg 2720w,
+/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/64ca0/Quadcopter_Setup.jpg 4160w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/6c26c/Quadcopter_Setup.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Experiment Setup&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/42e86/Quadcopter_Functional_Diagram.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.23529411764707%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB3XeJiIq7rDBFY4f/xAAdEAACAQQDAAAAAAAAAAAAAAABAgMAEhMhEBEy/9oACAEBAAEFAsW7NGMUhuFTk5AyoB0akUl5+B5//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/ASP/xAAZEAADAQEBAAAAAAAAAAAAAAAAAREQMSH/2gAIAQEABj8CO5c8bI3DtG9R/8QAHBAAAgIDAQEAAAAAAAAAAAAAAAERITFBUWGh/9oACAEBAAE/IdE2SpOOFEh3HglUglwcrQZFInjFsnJhO6NnyH//2gAMAwEAAgADAAAAEEfNfv/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABcRAQADAAAAAAAAAAAAAAAAAAEAEFH/2gAIAQIBAT8QgNv/xAAeEAEAAwADAAMBAAAAAAAAAAABABEhMUFRYXGBsf/aAAgBAQABPxBrQTlQfyVduvxcB6U1Y1Yvw4gHPfcGMkKtUIjZl/Ut955BmMp6P5CLQaF1tUwzE2jvyn//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/51a8e/Quadcopter_Functional_Diagram.webp 340w,
+/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/713b7/Quadcopter_Functional_Diagram.webp 680w,
+/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/54376/Quadcopter_Functional_Diagram.webp 1360w,
+/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/0be89/Quadcopter_Functional_Diagram.webp 2040w,
+/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/71194/Quadcopter_Functional_Diagram.webp 2720w,
+/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/7d364/Quadcopter_Functional_Diagram.webp 3120w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/2e524/Quadcopter_Functional_Diagram.jpg 340w,
+/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/d330d/Quadcopter_Functional_Diagram.jpg 680w,
+/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/6c26c/Quadcopter_Functional_Diagram.jpg 1360w,
+/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/afd2d/Quadcopter_Functional_Diagram.jpg 2040w,
+/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/f4749/Quadcopter_Functional_Diagram.jpg 2720w,
+/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/42e86/Quadcopter_Functional_Diagram.jpg 3120w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/6c26c/Quadcopter_Functional_Diagram.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Functional Diagram&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Diagram representing major components and systems in the semi-quadcopter and showing how they all interact&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/42e86/Quadcopter_Circuit.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.23529411764707%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEAMQAAAByrD9SXnRgktqg3ZCYuf/xAAdEAACAgIDAQAAAAAAAAAAAAACAwABEiEEESAz/9oACAEBAAEFAlgTbwPDKcPRM+fdRRkFteV+B3P/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BdP/EABYRAAMAAAAAAAAAAAAAAAAAAAAQEv/aAAgBAgEBPwFyf//EAB4QAAEEAQUAAAAAAAAAAAAAAAEAAhExEhAgISJh/9oACAEBAAY/AjjayAED3QmE6G2FS4XV+3//xAAcEAEAAwACAwAAAAAAAAAAAAABABEhMUEQYZH/2gAIAQEAAT8hIhfKBrsjGRs7FR0yhe4MQBLnsfZa3V85BtN5KPNsALZ//9oADAMBAAIAAwAAABC4NfH/xAAXEQEBAQEAAAAAAAAAAAAAAAABACER/9oACAEDAQE/EAyy7JL/xAAYEQEAAwEAAAAAAAAAAAAAAAABABARIf/aAAgBAgEBPxBe2JNn/8QAHhABAQEBAAICAwAAAAAAAAAAAREAITFBUWFxkcH/2gAIAQEAAT8QKqBZZ7zSgK/AN2OH8ZiS7BipTWJQoQ5Hv3vaqvl5/m5cUdBoOmJaiQH6yPxhedyDRblY1s+N/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/51a8e/Quadcopter_Circuit.webp 340w,
+/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/713b7/Quadcopter_Circuit.webp 680w,
+/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/54376/Quadcopter_Circuit.webp 1360w,
+/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/0be89/Quadcopter_Circuit.webp 2040w,
+/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/71194/Quadcopter_Circuit.webp 2720w,
+/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/7d364/Quadcopter_Circuit.webp 3120w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/2e524/Quadcopter_Circuit.jpg 340w,
+/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/d330d/Quadcopter_Circuit.jpg 680w,
+/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/6c26c/Quadcopter_Circuit.jpg 1360w,
+/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/afd2d/Quadcopter_Circuit.jpg 2040w,
+/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/f4749/Quadcopter_Circuit.jpg 2720w,
+/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/42e86/Quadcopter_Circuit.jpg 3120w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/6c26c/Quadcopter_Circuit.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Circuitry&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Complete circuit for controlling the semi-quadcopter&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Specimen Rotation Mount]]></title><description><![CDATA[Description Designed and 3D printed structure to hold cylindrical fatigue specimens of a nickel-based
 super-alloy for surface pitting…]]></description><link>https://spk2dc.github.io/portfolio/specimen_mount/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/specimen_mount/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
 &lt;ul&gt;
@@ -2764,52 +2619,42 @@ super-alloy for surface pitting characterization research&lt;/li&gt;
   &lt;div class=&quot;card-body&quot;&gt;
     &lt;h5 class=&quot;card-title&quot;&gt;3D Printed Mount&lt;/h5&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Semi-Quadcopter]]></title><description><![CDATA[Description Built and wired self-balancing semi-quadcopter with 2 degrees of freedom Coded Parallax Propeller microcontroller control…]]></description><link>https://spk2dc.github.io/portfolio/semi_quadcopter/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/semi_quadcopter/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Intelligent Automatic Watering System]]></title><description><![CDATA[Description Designed complex automatic home watering system that can be controlled remotely through a website Identified and interviewed…]]></description><link>https://spk2dc.github.io/portfolio/watering_system/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/watering_system/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Built and wired self-balancing semi-quadcopter with 2 degrees of freedom&lt;/li&gt;
-&lt;li&gt;Coded Parallax Propeller microcontroller control algorithm in C to stabilize roll and pitch, using inertial measurement unit (IMU) and ultrasonic sensor&lt;/li&gt;
-&lt;li&gt;Researched and implemented PID control/tuning, I2C communication, and Kalman filter&lt;/li&gt;
-&lt;li&gt;Link to testing video: &lt;a href=&apos;https://youtu.be/gu-WoXYLHz4&apos;&gt;https://youtu.be/gu-WoXYLHz4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Designed complex automatic home watering system that can be controlled remotely through a website&lt;/li&gt;
+&lt;li&gt;Identified and interviewed potential users of system in order to meet their needs&lt;/li&gt;
+&lt;li&gt;Created multiple water distribution systems to appeal to wider range of users and increase versatility of system&lt;/li&gt;
+&lt;li&gt;Waterproofed and rigorously tested all aspects of system to ensure functionality and usability of final product&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;SolidWorks CAD Software&lt;/li&gt;
-&lt;li&gt;3D Printing&lt;/li&gt;
 &lt;li&gt;Arduino microcontroller&lt;/li&gt;
-&lt;li&gt;C++ programming&lt;/li&gt;
-&lt;li&gt;Circuitry design and wiring&lt;/li&gt;
-&lt;li&gt;Ultrasonic Sensor&lt;/li&gt;
-&lt;li&gt;Inertial Measurement Unit (IMU)&lt;/li&gt;
+&lt;li&gt;Sensors (flow rate, moisture)&lt;/li&gt;
+&lt;li&gt;Water distribution systems (solenoid valve, hoses, pipes, sprinklers)&lt;/li&gt;
+&lt;li&gt;3D printing and SolidWorks CAD modeling&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;SQL Database&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br /&gt;
 &lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
 &lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  &lt;iframe class=&quot;card-img-top border my-1&quot; width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/gu-WoXYLHz4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Testing Video&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Finished semi-quadcopter being tested to ensure it maintains balance and stabilizes itself despite being hit or carrying weights on either motor.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/64ca0/Quadcopter_Setup.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/1ca3f/Automatic_Watering_System_8.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAS0xgqj/xAAbEAADAAIDAAAAAAAAAAAAAAABAgMAERITIf/aAAgBAQABBQKdXw81k+mKqClNk9fn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHxAAAQMDBQAAAAAAAAAAAAAAAQARIQIQEjFBUYGh/9oACAEBAAY/ApyPacmqedk7m2sIR6v/xAAcEAEAAwACAwAAAAAAAAAAAAABABExIUFRYXH/2gAIAQEAAT8hWcbceMd5wQVsv2GUPcsseEs0HN7T/9oADAMBAAIAAwAAABAsP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/ECf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEBAAMAAgMAAAAAAAAAAAABEQAhMUFRYZGx/9oACAEBAAE/EGoEmCj67jTY1o1e6/NZU+Q6B585XOjovcIq4ijyzKVGtCK9zP/Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHvQBog3//EABcQAQADAAAAAAAAAAAAAAAAAAEAESD/2gAIAQEAAQUCgtY//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8Bqv/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAABESAh/9oACAEBAAY/AjVFf//EABoQAAMAAwEAAAAAAAAAAAAAAAABERAxQVH/2gAIAQEAAT8haOgPLROou8Vn/9oADAMBAAIAAwAAABBYD//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EIQ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFBYaGx/9oACAEBAAE/EABdfF8yr7mx9JsQVa5dirz1KsH1P//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
       &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/51a8e/Quadcopter_Setup.webp 340w,
-/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/713b7/Quadcopter_Setup.webp 680w,
-/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/54376/Quadcopter_Setup.webp 1360w,
-/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/0be89/Quadcopter_Setup.webp 2040w,
-/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/71194/Quadcopter_Setup.webp 2720w,
-/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/20207/Quadcopter_Setup.webp 4160w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/2e524/Quadcopter_Setup.jpg 340w,
-/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/d330d/Quadcopter_Setup.jpg 680w,
-/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/6c26c/Quadcopter_Setup.jpg 1360w,
-/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/afd2d/Quadcopter_Setup.jpg 2040w,
-/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/f4749/Quadcopter_Setup.jpg 2720w,
-/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/64ca0/Quadcopter_Setup.jpg 4160w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/1b30b0dec1d57d9e6567dfa861014440/6c26c/Quadcopter_Setup.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+        &lt;source srcset=&quot;/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/51a8e/Automatic_Watering_System_8.webp 340w,
+/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/713b7/Automatic_Watering_System_8.webp 680w,
+/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/54376/Automatic_Watering_System_8.webp 1360w,
+/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/e0aab/Automatic_Watering_System_8.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/2e524/Automatic_Watering_System_8.jpg 340w,
+/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/d330d/Automatic_Watering_System_8.jpg 680w,
+/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/6c26c/Automatic_Watering_System_8.jpg 1360w,
+/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/1ca3f/Automatic_Watering_System_8.jpg 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/f6a8b2f75ec86341c415b23e23aa8dc0/6c26c/Automatic_Watering_System_8.jpg&quot; alt=&quot;watering_system&quot; title&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
   &lt;/span&gt;
@@ -2817,29 +2662,26 @@ super-alloy for surface pitting characterization research&lt;/li&gt;
   &lt;/a&gt;
     
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Experiment Setup&lt;/h5&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Our System&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Describes the general use and purpose of our system.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/42e86/Quadcopter_Functional_Diagram.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/1ca3f/Automatic_Watering_System_11.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.23529411764707%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB3XeJiIq7rDBFY4f/xAAdEAACAQQDAAAAAAAAAAAAAAABAgMAEhMhEBEy/9oACAEBAAEFAsW7NGMUhuFTk5AyoB0akUl5+B5//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/ASP/xAAZEAADAQEBAAAAAAAAAAAAAAAAAREQMSH/2gAIAQEABj8CO5c8bI3DtG9R/8QAHBAAAgIDAQEAAAAAAAAAAAAAAAERITFBUWGh/9oACAEBAAE/IdE2SpOOFEh3HglUglwcrQZFInjFsnJhO6NnyH//2gAMAwEAAgADAAAAEEfNfv/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABcRAQADAAAAAAAAAAAAAAAAAAEAEFH/2gAIAQIBAT8QgNv/xAAeEAEAAwADAAMBAAAAAAAAAAABABEhMUFRYXGBsf/aAAgBAQABPxBrQTlQfyVduvxcB6U1Y1Yvw4gHPfcGMkKtUIjZl/Ut955BmMp6P5CLQaF1tUwzE2jvyn//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHvQ0LQb//EABgQAAIDAAAAAAAAAAAAAAAAAAARARAS/9oACAEBAAEFAiNK2f/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAEAAwAAAAAAAAAAAAAAAAARACAh/9oACAEBAAY/Apo1/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERIRAxcfD/2gAIAQEAAT8hfrH0eDxNEkj/2gAMAwEAAgADAAAAEEsP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QhD//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgIDAAAAAAAAAAAAAAABABExYSFBof/aAAgBAQABPxAUKWvRaCISzmT2oXXOYK28y5wdam3yf//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
       &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/51a8e/Quadcopter_Functional_Diagram.webp 340w,
-/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/713b7/Quadcopter_Functional_Diagram.webp 680w,
-/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/54376/Quadcopter_Functional_Diagram.webp 1360w,
-/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/0be89/Quadcopter_Functional_Diagram.webp 2040w,
-/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/71194/Quadcopter_Functional_Diagram.webp 2720w,
-/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/7d364/Quadcopter_Functional_Diagram.webp 3120w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/2e524/Quadcopter_Functional_Diagram.jpg 340w,
-/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/d330d/Quadcopter_Functional_Diagram.jpg 680w,
-/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/6c26c/Quadcopter_Functional_Diagram.jpg 1360w,
-/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/afd2d/Quadcopter_Functional_Diagram.jpg 2040w,
-/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/f4749/Quadcopter_Functional_Diagram.jpg 2720w,
-/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/42e86/Quadcopter_Functional_Diagram.jpg 3120w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/e27e3afc75d1dfe8416f5cd2fc29aa46/6c26c/Quadcopter_Functional_Diagram.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+        &lt;source srcset=&quot;/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/51a8e/Automatic_Watering_System_11.webp 340w,
+/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/713b7/Automatic_Watering_System_11.webp 680w,
+/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/54376/Automatic_Watering_System_11.webp 1360w,
+/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/e0aab/Automatic_Watering_System_11.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/2e524/Automatic_Watering_System_11.jpg 340w,
+/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/d330d/Automatic_Watering_System_11.jpg 680w,
+/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/6c26c/Automatic_Watering_System_11.jpg 1360w,
+/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/1ca3f/Automatic_Watering_System_11.jpg 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/80708020eb80c5e359acd74fc0d3f48a/6c26c/Automatic_Watering_System_11.jpg&quot; alt=&quot;watering_system&quot; title&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
   &lt;/span&gt;
@@ -2847,30 +2689,24 @@ super-alloy for surface pitting characterization research&lt;/li&gt;
   &lt;/a&gt;
     
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Functional Diagram&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Diagram representing major components and systems in the semi-quadcopter and showing how they all interact&lt;/p&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;System Overview&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Lists all major components and functions of the final watering system.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/42e86/Quadcopter_Circuit.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/07d76/Automatic_Watering_System_12.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.23529411764707%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECAwQFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEAMQAAAByrD9SXnRgktqg3ZCYuf/xAAdEAACAgIDAQAAAAAAAAAAAAACAwABEiEEESAz/9oACAEBAAEFAlgTbwPDKcPRM+fdRRkFteV+B3P/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BdP/EABYRAAMAAAAAAAAAAAAAAAAAAAAQEv/aAAgBAgEBPwFyf//EAB4QAAEEAQUAAAAAAAAAAAAAAAEAAhExEhAgISJh/9oACAEBAAY/AjjayAED3QmE6G2FS4XV+3//xAAcEAEAAwACAwAAAAAAAAAAAAABABEhMUEQYZH/2gAIAQEAAT8hIhfKBrsjGRs7FR0yhe4MQBLnsfZa3V85BtN5KPNsALZ//9oADAMBAAIAAwAAABC4NfH/xAAXEQEBAQEAAAAAAAAAAAAAAAABACER/9oACAEDAQE/EAyy7JL/xAAYEQEAAwEAAAAAAAAAAAAAAAABABARIf/aAAgBAgEBPxBe2JNn/8QAHhABAQEBAAICAwAAAAAAAAAAAREAITFBUWFxkcH/2gAIAQEAAT8QKqBZZ7zSgK/AN2OH8ZiS7BipTWJQoQ5Hv3vaqvl5/m5cUdBoOmJaiQH6yPxhedyDRblY1s+N/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1223px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75.88235294117648%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHoJaElkf/EABkQAAIDAQAAAAAAAAAAAAAAAAECABASIf/aAAgBAQABBQKPohA4Xt//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAABEQACIGH/2gAIAQEABj8Ciqn2I2Bx/8QAGxABAQADAAMAAAAAAAAAAAAAAQARIUExUYH/2gAIAQEAAT8htyhdHizZR0IUvqRzq+X/2gAMAwEAAgADAAAAEBP/AP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EFf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxBH/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIUEx/9oACAEBAAE/EIErSlCDuHZaFlCSyu777GdotQVuThTTXYD0T//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
       &lt;picture&gt;
-        &lt;source srcset=&quot;/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/51a8e/Quadcopter_Circuit.webp 340w,
-/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/713b7/Quadcopter_Circuit.webp 680w,
-/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/54376/Quadcopter_Circuit.webp 1360w,
-/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/0be89/Quadcopter_Circuit.webp 2040w,
-/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/71194/Quadcopter_Circuit.webp 2720w,
-/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/7d364/Quadcopter_Circuit.webp 3120w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/2e524/Quadcopter_Circuit.jpg 340w,
-/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/d330d/Quadcopter_Circuit.jpg 680w,
-/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/6c26c/Quadcopter_Circuit.jpg 1360w,
-/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/afd2d/Quadcopter_Circuit.jpg 2040w,
-/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/f4749/Quadcopter_Circuit.jpg 2720w,
-/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/42e86/Quadcopter_Circuit.jpg 3120w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/39b770e58bd8070721ad7e8862e22ad9/6c26c/Quadcopter_Circuit.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+        &lt;source srcset=&quot;/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/51a8e/Automatic_Watering_System_12.webp 340w,
+/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/713b7/Automatic_Watering_System_12.webp 680w,
+/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/c021c/Automatic_Watering_System_12.webp 1223w&quot; sizes=&quot;(max-width: 1223px) 100vw, 1223px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/2e524/Automatic_Watering_System_12.jpg 340w,
+/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/d330d/Automatic_Watering_System_12.jpg 680w,
+/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/07d76/Automatic_Watering_System_12.jpg 1223w&quot; sizes=&quot;(max-width: 1223px) 100vw, 1223px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/65c48e6b93ab1df8fff14bc993ddfd83/07d76/Automatic_Watering_System_12.jpg&quot; alt=&quot;watering_system&quot; title&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
   &lt;/span&gt;
@@ -2878,8 +2714,172 @@ super-alloy for surface pitting characterization research&lt;/li&gt;
   &lt;/a&gt;
     
   &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Circuitry&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Complete circuit for controlling the semi-quadcopter&lt;/p&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Close Up of System Diagram&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;General layout of system indicating relationship between major components and how they work together&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/1acfdd27718401c63c58ca620f679915/490e5/Automatic_Watering_System_1.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABrF04YmUj/8QAGhAAAwADAQAAAAAAAAAAAAAAAQIDABESIf/aAAgBAQABBQJKanJgjNb0HFc64Of/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAADAAMAAAAAAAAAAAAAAAAAAREQIUH/2gAIAQEABj8CZeZihuH/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMXGB/9oACAEBAAE/IYRTO6O6rwXtaIisDdRHDo+H/9oADAMBAAIAAwAAABB0/wD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxBX/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxB5CH//xAAbEAEBAQEBAAMAAAAAAAAAAAABESEAMVGRof/aAAgBAQABPxCIUPKtzfvhgrYKp5Zevrrzm3jHb8dFWrlfeQgaaS/vf//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/1acfdd27718401c63c58ca620f679915/51a8e/Automatic_Watering_System_1.webp 340w,
+/portfolio/static/1acfdd27718401c63c58ca620f679915/713b7/Automatic_Watering_System_1.webp 680w,
+/portfolio/static/1acfdd27718401c63c58ca620f679915/54376/Automatic_Watering_System_1.webp 1360w,
+/portfolio/static/1acfdd27718401c63c58ca620f679915/134ac/Automatic_Watering_System_1.webp 1600w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/1acfdd27718401c63c58ca620f679915/2e524/Automatic_Watering_System_1.jpg 340w,
+/portfolio/static/1acfdd27718401c63c58ca620f679915/d330d/Automatic_Watering_System_1.jpg 680w,
+/portfolio/static/1acfdd27718401c63c58ca620f679915/6c26c/Automatic_Watering_System_1.jpg 1360w,
+/portfolio/static/1acfdd27718401c63c58ca620f679915/490e5/Automatic_Watering_System_1.jpg 1600w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/1acfdd27718401c63c58ca620f679915/6c26c/Automatic_Watering_System_1.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;System Components&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Waterproof box containing circuitry and micro-controller, hose splitter with solenoids that control water, moisture sensor for feedback&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/2a363724455db79ff78ce78d15716eb8/040c5/Automatic_Watering_System_3.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1200px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.23529411764707%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAMBAgUE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAecz7peaqSFoKNh//8QAGhABAQADAQEAAAAAAAAAAAAAAQIDERIQIP/aAAgBAQABBQILt4s8x1q3Kd1Y2Ons+f/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABwQAAIABwAAAAAAAAAAAAAAAAABEBEgITFBYf/aAAgBAQAGPwK0jUcMb7X/AP/EABsQAQADAAMBAAAAAAAAAAAAAAEAESEgMWFB/9oACAEBAAE/IamVXhLVVvPkD2bR5EhqTshbMcQgYp0Uxda4f//aAAwDAQACAAMAAAAQ0Dnw/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxDEDF//xAAXEQADAQAAAAAAAAAAAAAAAAABESBB/9oACAECAQE/EC8j/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBUXGBkf/aAAgBAQABPxB4+BsOI5Bt+TzUtMhYwsmdHcuLxAqnv3LnClVWIpzVixodRdcwFggqh0XGZxl+wyT/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/2a363724455db79ff78ce78d15716eb8/51a8e/Automatic_Watering_System_3.webp 340w,
+/portfolio/static/2a363724455db79ff78ce78d15716eb8/713b7/Automatic_Watering_System_3.webp 680w,
+/portfolio/static/2a363724455db79ff78ce78d15716eb8/1e0b8/Automatic_Watering_System_3.webp 1200w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/2a363724455db79ff78ce78d15716eb8/2e524/Automatic_Watering_System_3.jpg 340w,
+/portfolio/static/2a363724455db79ff78ce78d15716eb8/d330d/Automatic_Watering_System_3.jpg 680w,
+/portfolio/static/2a363724455db79ff78ce78d15716eb8/040c5/Automatic_Watering_System_3.jpg 1200w&quot; sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/2a363724455db79ff78ce78d15716eb8/040c5/Automatic_Watering_System_3.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Inside Waterproof Box&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Close up of the circuitry and micro-controller in the black box&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/1ca3f/Automatic_Watering_System_6.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB3VEkmKQf/8QAGhAAAQUBAAAAAAAAAAAAAAAAAQADEBESMv/aAAgBAQABBQJXJ5ZGR//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAEBAQEAAAAAAAAAAAAAAAABACBR/9oACAEBAAY/AsJIdv/EABoQAAIDAQEAAAAAAAAAAAAAAAABESExQXH/2gAIAQEAAT8h7o4LXsUL0ks1jQimI//aAAwDAQACAAMAAAAQO8//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCEP//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBYdNv/xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhMUFRYXGR0f/aAAgBAQABPxBsIrN8ypRV0i15+xLdhzipb11N+ECclQJcprXYn//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/51a8e/Automatic_Watering_System_6.webp 340w,
+/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/713b7/Automatic_Watering_System_6.webp 680w,
+/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/54376/Automatic_Watering_System_6.webp 1360w,
+/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/e0aab/Automatic_Watering_System_6.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/2e524/Automatic_Watering_System_6.jpg 340w,
+/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/d330d/Automatic_Watering_System_6.jpg 680w,
+/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/6c26c/Automatic_Watering_System_6.jpg 1360w,
+/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/1ca3f/Automatic_Watering_System_6.jpg 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/48fdcc1f1e52b61914e517c2e81c687a/6c26c/Automatic_Watering_System_6.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Watering Methods&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;These are the 3 watering distribution systems we marketed to users in order for our system to be adaptable, versatile, and appeal to the widest range of users possible.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/1ca3f/Automatic_Watering_System_9.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7iCaKD//xAAWEAEBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQEAAQUCXFf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGq/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFxABAQEBAAAAAAAAAAAAAAAAAREAEP/aAAgBAQABPyFY8jTXlb//2gAMAwEAAgADAAAAEPAP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QhD//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAADAAIDAAAAAAAAAAAAAAAAAREhoTFRYf/aAAgBAQABPxBrY9lJZjY6jU8K7KyHD0f/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/51a8e/Automatic_Watering_System_9.webp 340w,
+/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/713b7/Automatic_Watering_System_9.webp 680w,
+/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/54376/Automatic_Watering_System_9.webp 1360w,
+/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/e0aab/Automatic_Watering_System_9.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/2e524/Automatic_Watering_System_9.jpg 340w,
+/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/d330d/Automatic_Watering_System_9.jpg 680w,
+/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/6c26c/Automatic_Watering_System_9.jpg 1360w,
+/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/1ca3f/Automatic_Watering_System_9.jpg 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/df6dfaa9d60ef006cd9155d5bb4aaa69/6c26c/Automatic_Watering_System_9.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Core Functions&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Provides a brief description of each function and indicates the primary component for that function.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/1ca3f/Automatic_Watering_System_10.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.1764705882353%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHup1LQP//EABYQAQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAQABBQJMV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAYEAEBAQEBAAAAAAAAAAAAAAAAAREhgf/aAAgBAQABPyGdeka2tP/aAAwDAQACAAMAAAAQYA//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxCEP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB8QAAIBAwUBAAAAAAAAAAAAAAABETFhoSFBUXGRsf/aAAgBAQABPxBNczXZkOfQkKJb7Eyp8L2C5g//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/51a8e/Automatic_Watering_System_10.webp 340w,
+/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/713b7/Automatic_Watering_System_10.webp 680w,
+/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/54376/Automatic_Watering_System_10.webp 1360w,
+/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/e0aab/Automatic_Watering_System_10.webp 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/2e524/Automatic_Watering_System_10.jpg 340w,
+/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/d330d/Automatic_Watering_System_10.jpg 680w,
+/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/6c26c/Automatic_Watering_System_10.jpg 1360w,
+/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/1ca3f/Automatic_Watering_System_10.jpg 1920w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/5f0250709895e3ecba72d7498ca00bb3/6c26c/Automatic_Watering_System_10.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Physical to Functional Mapping&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Demonstrates modularity of system and shows which function each component addresses.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/05366/Automatic_Watering_System_14.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHkOzdKh50V/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECAxEhI//aAAgBAQABBQJCdRGjGkiL55s//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BJ//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwG1r//EABsQAAIBBQAAAAAAAAAAAAAAAAAhAQIQETFB/9oACAEBAAY/AiFbOx9HSz//xAAcEAACAwADAQAAAAAAAAAAAAABEQAhMRBBYVH/2gAIAQEAAT8hRh55HFS6+cCzimAwq6bvDCxr8T//2gAMAwEAAgADAAAAEHQf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QE//EABURAQEAAAAAAAAAAAAAAAAAABBR/9oACAECAQE/EJD/xAAcEAEAAgIDAQAAAAAAAAAAAAABACERQVFhgbH/2gAIAQEAAT8QCu2vaVCDJV4O3hsmCCJfeIs8YF5euoNUJkBnw1A4WzJPk//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/51a8e/Automatic_Watering_System_14.webp 340w,
+/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/713b7/Automatic_Watering_System_14.webp 680w,
+/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/54376/Automatic_Watering_System_14.webp 1360w,
+/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/0be89/Automatic_Watering_System_14.webp 2040w,
+/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/71194/Automatic_Watering_System_14.webp 2720w,
+/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/c5747/Automatic_Watering_System_14.webp 3264w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/2e524/Automatic_Watering_System_14.jpg 340w,
+/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/d330d/Automatic_Watering_System_14.jpg 680w,
+/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/6c26c/Automatic_Watering_System_14.jpg 1360w,
+/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/afd2d/Automatic_Watering_System_14.jpg 2040w,
+/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/f4749/Automatic_Watering_System_14.jpg 2720w,
+/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/05366/Automatic_Watering_System_14.jpg 3264w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/portfolio/static/732bb0a7686859f4f694d5e13e38cd20/6c26c/Automatic_Watering_System_14.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Solenoid Valve Testing&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;System is shown attached to a spigot on a building for testing the solenoid valve and control system.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://spk2dc.github.io/portfolio/hi-folks/</link><guid isPermaLink="false">https://spk2dc.github.io/portfolio/hi-folks/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
