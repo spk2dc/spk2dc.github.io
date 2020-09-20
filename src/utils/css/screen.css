@@ -402,6 +402,10 @@ body {
   counter-increment: posts;
 }
 
+.project-article {
+  height: 25vw;
+}
+
 @media (max-width: 700px) {
   .post-card {
     flex: 1 1 100%;
