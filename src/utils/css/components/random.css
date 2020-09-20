@@ -48,6 +48,11 @@
   flex: 1 1 100%;
   border: 1px #000000 solid;
   margin-bottom: 10px;
+  position: relative;
+}
+
+.project-card .post-card-content {
+  opacity: 0;
 }
 
 .project-card-textpanel {
@@ -59,6 +64,19 @@
 
 .project-card-text {
   margin: auto;
+}
+
+.project-card-title {
+  margin: 0;
+  display: inline-block;
+  font-size: 3.4rem;
+  max-width: 70%;
+  text-align: center;
+  transition: all 0.3s cubic-bezier(0.33, 0, 0.2, 1);
+  background-color: #79aeff;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px #000b96 solid;
 }
 
 .accordion {

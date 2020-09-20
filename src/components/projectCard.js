@@ -12,26 +12,24 @@ export default props => (
           backgroundImage: `url(${props.node.frontmatter.thumbnail.childImageSharp.fluid.src})`,
         }
       }
-    >
-      <Link to={props.node.fields.slug} className="post-card-link">
-        <div
-          className="post-card-content"
-          style={{ backgroundColor: `#79aeffc7` }}
-        >
-          <h2 className="post-card-title">
-            {props.node.frontmatter.title || props.node.fields.slug}
-          </h2>
-        </div>
-      </Link>
-    </article>
+    ></article>
 
     <div className="project-card-textpanel">
       <div className="project-card-text">
-        <Link to={props.node.fields.slug} className="post-card-link">
-          <h4 className="text-center">{props.node.frontmatter.title}</h4>
-        </Link>
+        <h4 className="text-center">{props.node.frontmatter.title}</h4>
         <p>{props.node.frontmatter.description}</p>
       </div>
     </div>
+
+    <Link to={props.node.fields.slug} className="post-card-link">
+      <div
+        className="post-card-content"
+        style={{ backgroundColor: `#79aeffc7` }}
+      >
+        <h2 className="project-card-title">
+          {props.node.frontmatter.title || props.node.fields.slug}
+        </h2>
+      </div>
+    </Link>
   </div>
 )
