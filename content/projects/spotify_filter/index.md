@@ -2,6 +2,7 @@
 title: Spotify Track Filter
 date: "2020-08-26"
 category: "project_post"
+tags: "software"
 thumbnail: ./SpotifyFilter_1.png
 link_live: https://spk2dc.github.io/SpotifyTrackFilter/
 link_git: https://github.com/spk2dc/SpotifyTrackFilter/#spotify-track-filter-read-me

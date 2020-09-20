@@ -24,31 +24,39 @@ class ProjectPostTemplate extends React.Component {
           </header>
 
           {post.frontmatter.description && (
-            <p class="post-content-excerpt">{post.frontmatter.description}</p>
+            <p className="post-content-excerpt">
+              {post.frontmatter.description}
+            </p>
           )}
 
           {/* Button for live site */}
-          <div class="m-2 text-center">
-            <a
-              class="button primary large mx-5"
-              href={post.frontmatter.link_live}
-              target="_blank"
-            >
-              <i class="fas fa-external-link-alt" aria-hidden="true">
-                <b> Live Site</b>
-              </i>
-            </a>
+          <div className="m-2 text-center">
+            {post.frontmatter.link_live && (
+              <a
+                className="button primary large mx-5"
+                href={post.frontmatter.link_live}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fas fa-external-link-alt" aria-hidden="true">
+                  <b> Live Site</b>
+                </i>
+              </a>
+            )}
 
             {/* Button for github */}
-            <a
-              class="button primary large mx-5"
-              href={post.frontmatter.link_git}
-              target="_blank"
-            >
-              <i class="fab fa-github" aria-hidden="true">
-                <b> GitHub</b>
-              </i>
-            </a>
+            {post.frontmatter.link_git && (
+              <a
+                className="button primary large mx-5"
+                href={post.frontmatter.link_git}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fab fa-github" aria-hidden="true">
+                  <b> GitHub</b>
+                </i>
+              </a>
+            )}
           </div>
 
           {post.frontmatter.thumbnail && (

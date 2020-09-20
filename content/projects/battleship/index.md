@@ -2,6 +2,7 @@
 title: Battleship
 date: "2020-08-26"
 category: "project_post"
+tags: "software"
 thumbnail: ./Battleship9.png
 link_live: https://playbattleship.herokuapp.com/
 link_git: https://github.com/caldric/battleship-client#battleship

@@ -1,18 +1,27 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import PostCard from "../components/postCard"
+import ProjectCard from "../components/projectCard"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
 const ProjectsPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
-  let postCounter = 0
+  const softwareProjects = data.software.edges
+  const mechanicalProjects = data.mechanical.edges
+
+  function accordionClick(event) {
+    event.target.classList.toggle("accordion-active")
+    let panel = event.target.nextElementSibling
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + 15 + "px"
+    }
+  }
 
   return (
     <Layout title={siteTitle}>
@@ -21,22 +30,48 @@ const ProjectsPage = ({ data }, location) => {
         keywords={[`projects`, `gatsby`, `javascript`, `react`]}
       />
 
-      <article className="post-content page-template no-image">
+      <article className="project-content page-template no-image">
         <div className="post-content-body">
           <h2 className="mb-5">PROJECTS</h2>
 
           <div className="post-feed">
-            {posts.map(({ node }) => {
-              postCounter++
-              return (
-                <PostCard
-                  key={node.fields.slug}
-                  count={postCounter}
-                  node={node}
-                  postClass={`post`}
-                />
-              )
-            })}
+            <button
+              className="accordion text-center"
+              onClick={event => accordionClick(event)}
+            >
+              Software Engineering
+            </button>
+
+            <div className="accordion-panel">
+              {softwareProjects.map(({ node }) => {
+                return (
+                  <ProjectCard
+                    key={node.fields.slug}
+                    node={node}
+                    postClass={`post`}
+                  />
+                )
+              })}
+            </div>
+
+            <button
+              className="accordion text-center"
+              onClick={event => accordionClick(event)}
+            >
+              Mechanical Engineering
+            </button>
+
+            <div className="accordion-panel">
+              {mechanicalProjects.map(({ node }) => {
+                return (
+                  <ProjectCard
+                    key={node.fields.slug}
+                    node={node}
+                    postClass={`post`}
+                  />
+                )
+              })}
+            </div>
           </div>
         </div>
       </article>
@@ -52,8 +87,14 @@ const projectsQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(
-      filter: { frontmatter: { category: { eq: "project_post" } } }
+
+    software: allMarkdownRemark(
+      filter: {
+        frontmatter: {
+          category: { eq: "project_post" }
+          tags: { eq: "software" }
+        }
+      }
       sort: { fields: [frontmatter___date], order: DESC }
       limit: 1000
     ) {
@@ -67,6 +108,42 @@ const projectsQuery = graphql`
             title
             date(formatString: "MMMM DD, YYYY")
             category
+            tags
+            description
+            thumbnail {
+              childImageSharp {
+                fluid(maxWidth: 1360) {
+                  ...GatsbyImageSharpFluid
+                  src
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+
+    mechanical: allMarkdownRemark(
+      filter: {
+        frontmatter: {
+          category: { eq: "project_post" }
+          tags: { eq: "mechanical" }
+        }
+      }
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 1000
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+            category
+            tags
             description
             thumbnail {
               childImageSharp {
