@@ -11,7 +11,6 @@ import "../utils/css/screen.css"
 const ProjectsPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
-  let postCounter = 0
 
   return (
     <Layout title={siteTitle}>
@@ -26,12 +25,10 @@ const ProjectsPage = ({ data }, location) => {
 
           <div className="post-feed">
             {posts.map(({ node }) => {
-              postCounter++
               if (node.frontmatter.tags === "software") {
                 return (
                   <ProjectCard
                     key={node.fields.slug}
-                    count={postCounter}
                     node={node}
                     postClass={`post`}
                   />
