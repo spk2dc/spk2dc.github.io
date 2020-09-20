@@ -10,7 +10,8 @@ import "../utils/css/screen.css"
 
 const ProjectsPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
+  const softwareProjects = data.software.edges
+  const mechanicalProjects = data.mechanical.edges
 
   function accordionClick(event) {
     event.target.classList.toggle("accordion-active")
@@ -42,16 +43,14 @@ const ProjectsPage = ({ data }, location) => {
             </button>
 
             <div className="accordion-panel">
-              {posts.map(({ node }) => {
-                if (node.frontmatter.tags === "software") {
-                  return (
-                    <ProjectCard
-                      key={node.fields.slug}
-                      node={node}
-                      postClass={`post`}
-                    />
-                  )
-                }
+              {softwareProjects.map(({ node }) => {
+                return (
+                  <ProjectCard
+                    key={node.fields.slug}
+                    node={node}
+                    postClass={`post`}
+                  />
+                )
               })}
             </div>
 
@@ -63,16 +62,14 @@ const ProjectsPage = ({ data }, location) => {
             </button>
 
             <div className="accordion-panel">
-              {posts.map(({ node }) => {
-                if (node.frontmatter.tags === "mechanical") {
-                  return (
-                    <ProjectCard
-                      key={node.fields.slug}
-                      node={node}
-                      postClass={`post`}
-                    />
-                  )
-                }
+              {mechanicalProjects.map(({ node }) => {
+                return (
+                  <ProjectCard
+                    key={node.fields.slug}
+                    node={node}
+                    postClass={`post`}
+                  />
+                )
               })}
             </div>
           </div>
@@ -90,8 +87,49 @@ const projectsQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(
-      filter: { frontmatter: { category: { eq: "project_post" } } }
+
+    software: allMarkdownRemark(
+      filter: {
+        frontmatter: {
+          category: { eq: "project_post" }
+          tags: { eq: "software" }
+        }
+      }
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 1000
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+            category
+            tags
+            description
+            thumbnail {
+              childImageSharp {
+                fluid(maxWidth: 1360) {
+                  ...GatsbyImageSharpFluid
+                  src
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+
+    mechanical: allMarkdownRemark(
+      filter: {
+        frontmatter: {
+          category: { eq: "project_post" }
+          tags: { eq: "mechanical" }
+        }
+      }
       sort: { fields: [frontmatter___date], order: DESC }
       limit: 1000
     ) {
