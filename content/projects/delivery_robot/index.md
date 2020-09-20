@@ -1,5 +1,5 @@
 ---
-title: Intelligent Automatic Watering System
+title: Autonomous Line-Following Delivery Robot
 date: "2017-05-01"
 category: "project_post"
 tags: "mechanical"
