@@ -31,28 +31,32 @@ class ProjectPostTemplate extends React.Component {
 
           {/* Button for live site */}
           <div className="m-2 text-center">
-            <a
-              className="button primary large mx-5"
-              href={post.frontmatter.link_live}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="fas fa-external-link-alt" aria-hidden="true">
-                <b> Live Site</b>
-              </i>
-            </a>
+            {post.frontmatter.link_live && (
+              <a
+                className="button primary large mx-5"
+                href={post.frontmatter.link_live}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fas fa-external-link-alt" aria-hidden="true">
+                  <b> Live Site</b>
+                </i>
+              </a>
+            )}
 
             {/* Button for github */}
-            <a
-              className="button primary large mx-5"
-              href={post.frontmatter.link_git}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="fab fa-github" aria-hidden="true">
-                <b> GitHub</b>
-              </i>
-            </a>
+            {post.frontmatter.link_git && (
+              <a
+                className="button primary large mx-5"
+                href={post.frontmatter.link_git}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fab fa-github" aria-hidden="true">
+                  <b> GitHub</b>
+                </i>
+              </a>
+            )}
           </div>
 
           {post.frontmatter.thumbnail && (
