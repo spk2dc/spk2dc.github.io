@@ -24,30 +24,32 @@ class ProjectPostTemplate extends React.Component {
           </header>
 
           {post.frontmatter.description && (
-            <p class="post-content-excerpt">{post.frontmatter.description}</p>
+            <p className="post-content-excerpt">
+              {post.frontmatter.description}
+            </p>
           )}
 
           {/* Button for live site */}
-          <div class="m-2 text-center">
+          <div className="m-2 text-center">
             <a
-              class="button primary large mx-5"
+              className="button primary large mx-5"
               href={post.frontmatter.link_live}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i class="fas fa-external-link-alt" aria-hidden="true">
+              <i className="fas fa-external-link-alt" aria-hidden="true">
                 <b> Live Site</b>
               </i>
             </a>
 
             {/* Button for github */}
             <a
-              class="button primary large mx-5"
+              className="button primary large mx-5"
               href={post.frontmatter.link_git}
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i class="fab fa-github" aria-hidden="true">
+              <i className="fab fa-github" aria-hidden="true">
                 <b> GitHub</b>
               </i>
             </a>
