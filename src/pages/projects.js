@@ -27,14 +27,16 @@ const ProjectsPage = ({ data }, location) => {
           <div className="post-feed">
             {posts.map(({ node }) => {
               postCounter++
-              return (
-                <ProjectCard
-                  key={node.fields.slug}
-                  count={postCounter}
-                  node={node}
-                  postClass={`post`}
-                />
-              )
+              if (node.frontmatter.tags === "software") {
+                return (
+                  <ProjectCard
+                    key={node.fields.slug}
+                    count={postCounter}
+                    node={node}
+                    postClass={`post`}
+                  />
+                )
+              }
             })}
           </div>
         </div>
@@ -66,6 +68,7 @@ const projectsQuery = graphql`
             title
             date(formatString: "MMMM DD, YYYY")
             category
+            tags
             description
             thumbnail {
               childImageSharp {

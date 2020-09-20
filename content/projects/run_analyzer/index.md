@@ -2,6 +2,7 @@
 title: Run Analyzer
 date: "2020-08-26"
 category: "project_post"
+tags: "software"
 thumbnail: ./RunAnalyzer_4.png
 link_live: https://runanalyzer.herokuapp.com/
 link_git: https://github.com/spk2dc/RunAnalyzer#run-analyzer-read-me

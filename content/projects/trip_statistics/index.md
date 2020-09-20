@@ -2,6 +2,7 @@
 title: Trip Statistics
 date: "2020-08-26"
 category: "project_post"
+tags: "software"
 thumbnail: ./trip_statistics_14.png
 link_live: https://tripstatistics.herokuapp.com/
 link_git: https://github.com/spk2dc/TripStatistics#trip-statistics
