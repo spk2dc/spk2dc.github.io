@@ -12,7 +12,7 @@ module.exports = {
       twitter: siteConfig.twitter,
     },
   },
-  pathPrefix: "/portfolio",
+  pathPrefix: "/",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
