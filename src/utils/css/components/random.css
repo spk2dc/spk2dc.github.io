@@ -59,7 +59,8 @@
   flex: 1 1 50%;
   padding: 5px 10px;
   display: flex;
-  border-left: 1px #000000 solid;
+  border-left: 1px #c1c1c1 solid;
+  border-top: none;
 }
 
 .project-card-text {
@@ -77,6 +78,19 @@
   border-radius: 10px;
   padding: 10px;
   border: 1px #4651e4 solid;
+}
+
+/* on smaller screens less than 700px */
+@media (max-width: 700px) {
+  /* switch cards to vertical layout instead of   horizontal */
+  .project-card {
+    display: block;
+  }
+  /* switch border from left to top */
+  .project-card-textpanel {
+    border-left: none;
+    border-top: 1px #c1c1c1 solid;
+  }
 }
 
 .accordion {
