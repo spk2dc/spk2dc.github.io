@@ -1,7 +1,5 @@
 import Img from "gatsby-image"
-import { chunk, sum } from "lodash"
 import React from "react"
-// import { Box } from "rebass"
 
 const Gallery = ({ images, itemsPerRow }) => {
   function chunk(array, groupSize) {
@@ -14,7 +12,9 @@ const Gallery = ({ images, itemsPerRow }) => {
   }
 
   function sum(array) {
-    // array.reduce((accumulator, currentValue) => accumulator + currentValue)
+    return array.reduce(
+      (accumulator, currentValue) => accumulator + currentValue
+    )
   }
 
   // Split images into groups of the given size
@@ -26,17 +26,18 @@ const Gallery = ({ images, itemsPerRow }) => {
       {rows.map(row => {
         // Sum aspect ratios of images in the given row
         const rowAspectRatioSum = sum(row.map(image => image.aspectRatio))
+        console.log("rowAspectRatioSum: ", rowAspectRatioSum)
 
         return row.map(image => (
-          //   <div
-          //     key={image.src}
-          //     as={Img}
-          //     fluid={image}
-          //     title={image.caption}
-          //     width={`${(image.aspectRatio / rowAspectRatioSum) * 100}%`}
-          //     css={{ display: "inline-block" }}
-          //   ></div>
-          <Img fluid={image} className="kg-image" />
+          <Img
+            key={image.src}
+            fluid={image}
+            title={image.caption}
+            style={{
+              width: `${(image.aspectRatio / rowAspectRatioSum) * 100}%`,
+              display: "inline-block",
+            }}
+          />
         ))
       })}
     </div>

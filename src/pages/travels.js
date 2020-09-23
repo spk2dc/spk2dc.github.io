@@ -66,7 +66,7 @@ const TravelPage = ({ data }, location) => {
             images={data.allFile.edges.map(({ node }) => ({
               id: node.id,
               ...node.childImageSharp.fluid,
-              caption: `${node.name} – ${node.relativePath}`,
+              caption: `${node.name}`,
             }))}
             itemsPerRow={[2, 3]}
           />
@@ -103,14 +103,11 @@ const indexQuery = graphql`
         node {
           name
           id
-          relativeDirectory
           relativePath
           absolutePath
           childImageSharp {
             fluid {
-              src
-              originalImg
-              aspectRatio
+              ...GatsbyImageSharpFluid
             }
           }
         }
