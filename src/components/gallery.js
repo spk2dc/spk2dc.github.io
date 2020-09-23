@@ -22,7 +22,7 @@ const Gallery = ({ images, itemsPerRow }) => {
   // console.log("gallery rows: ", rows)
 
   return (
-    <div>
+    <div className="gallery-container">
       {rows.map(row => {
         // Sum aspect ratios of images in the given row
         const rowAspectRatioSum = sum(row.map(image => image.aspectRatio))

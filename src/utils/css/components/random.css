@@ -136,4 +136,5 @@ button.accordion-active + .accordion-panel {
 
 .gallery-image-container {
   display: inline-block;
+  border: 1px #ffffff solid;
 }

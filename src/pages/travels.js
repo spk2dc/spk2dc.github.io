@@ -55,12 +55,6 @@ const TravelPage = ({ data }, location) => {
 
             <p>Below are some of my favorite pictures from my travels.</p>
           </div>
-          <figure className="kg-card kg-image-card border border-dark">
-            <Img
-              fluid={data.resumePic.childImageSharp.fluid}
-              className="kg-image"
-            />
-          </figure>
 
           <Gallery
             images={data.allFile.edges.map(({ node }) => ({
@@ -95,13 +89,7 @@ const indexQuery = graphql`
       publicURL
     }
 
-    allFile(
-      filter: {
-        relativeDirectory: { eq: "travel-photos/Japan" }
-        ext: { eq: ".png" }
-      }
-      limit: 10
-    ) {
+    allFile(filter: { relativeDirectory: { eq: "travel-photos/Japan" } }) {
       edges {
         node {
           name
