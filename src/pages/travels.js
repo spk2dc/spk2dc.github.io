@@ -96,7 +96,10 @@ const indexQuery = graphql`
     }
 
     allFile(
-      filter: { relativeDirectory: { eq: "battleship" }, ext: { eq: ".png" } }
+      filter: {
+        relativeDirectory: { eq: "travel-photos/Japan" }
+        ext: { eq: ".png" }
+      }
       limit: 10
     ) {
       edges {
