@@ -78,7 +78,7 @@ const TravelPage = ({ data }, location) => {
           />
           <br />
 
-          <h4 className="text-center my-2">Taiwan</h4>
+          <h4 className="text-center my-2">TAIWAN</h4>
           <Gallery
             images={data.galleryTaiwan.edges.map(({ node }) => ({
               id: node.id,

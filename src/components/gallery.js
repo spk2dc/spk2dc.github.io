@@ -7,7 +7,6 @@ const Gallery = ({ images, itemsPerRow }) => {
     for (let i = 0; i < array.length; i += groupSize) {
       groups.push(array.slice(i, i + groupSize))
     }
-    // console.log("chunk: ", groupSize, array)
     return groups
   }
 
@@ -19,14 +18,12 @@ const Gallery = ({ images, itemsPerRow }) => {
 
   // Split images into groups of the given size
   const rows = chunk(images, itemsPerRow[0])
-  // console.log("gallery rows: ", rows)
 
   return (
     <div className="gallery-container">
       {rows.map(row => {
         // Sum aspect ratios of images in the given row
         const rowAspectRatioSum = sum(row.map(image => image.aspectRatio))
-        console.log("rowAspectRatioSum: ", rowAspectRatioSum)
 
         return row.map(image => (
           <Img
