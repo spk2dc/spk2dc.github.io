@@ -56,14 +56,38 @@ const TravelPage = ({ data }, location) => {
             <p>Below are some of my favorite pictures from my travels.</p>
           </div>
 
+          <h4 className="text-center my-2">JAPAN</h4>
           <Gallery
-            images={data.allFile.edges.map(({ node }) => ({
+            images={data.galleryJapan.edges.map(({ node }) => ({
               id: node.id,
               ...node.childImageSharp.fluid,
               caption: `${node.name}`,
             }))}
-            itemsPerRow={[2, 3]}
+            itemsPerRow={[4, 5]}
           />
+          <br />
+
+          <h4 className="text-center my-2">KOREA</h4>
+          <Gallery
+            images={data.galleryKorea.edges.map(({ node }) => ({
+              id: node.id,
+              ...node.childImageSharp.fluid,
+              caption: `${node.name}`,
+            }))}
+            itemsPerRow={[4, 5]}
+          />
+          <br />
+
+          <h4 className="text-center my-2">Taiwan</h4>
+          <Gallery
+            images={data.galleryTaiwan.edges.map(({ node }) => ({
+              id: node.id,
+              ...node.childImageSharp.fluid,
+              caption: `${node.name}`,
+            }))}
+            itemsPerRow={[4, 5]}
+          />
+          <br />
         </div>
       </article>
     </Layout>
@@ -89,7 +113,45 @@ const indexQuery = graphql`
       publicURL
     }
 
-    allFile(filter: { relativeDirectory: { eq: "travel-photos/Japan" } }) {
+    galleryJapan: allFile(
+      filter: { relativeDirectory: { eq: "travel-photos/Japan" } }
+    ) {
+      edges {
+        node {
+          name
+          id
+          relativePath
+          absolutePath
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+    }
+
+    galleryKorea: allFile(
+      filter: { relativeDirectory: { eq: "travel-photos/Korea" } }
+    ) {
+      edges {
+        node {
+          name
+          id
+          relativePath
+          absolutePath
+          childImageSharp {
+            fluid {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+    }
+
+    galleryTaiwan: allFile(
+      filter: { relativeDirectory: { eq: "travel-photos/Taiwan" } }
+    ) {
       edges {
         node {
           name
