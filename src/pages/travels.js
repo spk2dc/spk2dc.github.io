@@ -4,6 +4,7 @@ import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Gallery from "../components/gallery"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
@@ -21,7 +22,6 @@ const TravelPage = ({ data }, location) => {
       <article className="project-content page-template no-image">
         <div className="post-content-body">
           <h2 className="override-h2">TRAVELS</h2>
-
           <div className="container text-left div-travel-text">
             <p>
               One of my favorite ways to spend my time is traveling. I have
@@ -55,13 +55,21 @@ const TravelPage = ({ data }, location) => {
 
             <p>Below are some of my favorite pictures from my travels.</p>
           </div>
-
           <figure className="kg-card kg-image-card border border-dark">
             <Img
               fluid={data.resumePic.childImageSharp.fluid}
               className="kg-image"
             />
           </figure>
+
+          <Gallery
+            images={data.allFile.edges.map(({ node }) => ({
+              id: node.id,
+              ...node.childImageSharp.fluid,
+              caption: `${node.name} – ${node.relativePath}`,
+            }))}
+            itemsPerRow={[2, 3]}
+          />
         </div>
       </article>
     </Layout>
@@ -85,6 +93,26 @@ const indexQuery = graphql`
     resumeFile: file(relativePath: { eq: "resume/Resume 2020CS8.pdf" }) {
       name
       publicURL
+    }
+
+    allFile(
+      filter: { relativeDirectory: { eq: "battleship" }, ext: { eq: ".png" } }
+      limit: 10
+    ) {
+      edges {
+        node {
+          name
+          id
+          relativeDirectory
+          relativePath
+          absolutePath
+          childImageSharp {
+            fluid {
+              originalImg
+            }
+          }
+        }
+      }
     }
   }
 `
