@@ -133,3 +133,7 @@
 button.accordion-active + .accordion-panel {
   padding: 10px 18px;
 }
+
+.gallery-image-container {
+  display: inline-block;
+}

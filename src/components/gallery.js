@@ -31,11 +31,11 @@ const Gallery = ({ images, itemsPerRow }) => {
         return row.map(image => (
           <Img
             key={image.src}
+            className="gallery-image-container"
             fluid={image}
             title={image.caption}
             style={{
               width: `${(image.aspectRatio / rowAspectRatioSum) * 100}%`,
-              display: "inline-block",
             }}
           />
         ))
