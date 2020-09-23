@@ -108,7 +108,9 @@ const indexQuery = graphql`
           absolutePath
           childImageSharp {
             fluid {
+              src
               originalImg
+              aspectRatio
             }
           }
         }
