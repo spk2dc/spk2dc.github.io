@@ -1,5 +1,6 @@
 import Img from "gatsby-image"
 import React from "react"
+import Lightbox from "react-image-lightbox"
 
 const Gallery = ({ images, itemsPerRow }) => {
   function chunk(array, groupSize) {
