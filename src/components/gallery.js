@@ -3,9 +3,12 @@ import React, { useState } from "react"
 import Lightbox from "react-image-lightbox"
 
 const Gallery = ({ images, itemsPerRow }) => {
+  // state used to display or hide lightbox
   const [isOpen, setIsOpen] = useState(false)
+  // state used to display currently selected image from the array
   const [galleryIndex, setGalleryIndex] = useState(-1)
 
+  // split array of all images into groups of desired row size
   function chunk(array, groupSize) {
     const groups = []
     for (let i = 0; i < array.length; i += groupSize) {
@@ -14,12 +17,14 @@ const Gallery = ({ images, itemsPerRow }) => {
     return groups
   }
 
+  //sum the aspect ratios for a row to get entire row size
   function sum(array) {
     return array.reduce(
       (accumulator, currentValue) => accumulator + currentValue
     )
   }
 
+  // open lightbox and set index of image to be displayed when click event is triggered
   function imgClick(rowIndex, imageIndex) {
     setIsOpen(true)
     setGalleryIndex(rowIndex * rows[0].length + imageIndex)
@@ -29,12 +34,16 @@ const Gallery = ({ images, itemsPerRow }) => {
   const rows = chunk(images, itemsPerRow[0])
 
   return (
+    // entire gallery container with all images inside
     <div className="gallery-container">
-      {rows.map((row, rowIndex) => {
+      {// loop through each row and display each image
+      rows.map((row, rowIndex) => {
         // Sum aspect ratios of images in the given row
         const rowAspectRatioSum = sum(row.map(image => image.aspectRatio))
 
+        // return all images in current row
         return row.map((image, imageIndex) => (
+          // div wrapper around image used to set click listener and scale displayed size
           <div
             key={`clickable-${image.src}`}
             className="image-container-clickable"
@@ -65,7 +74,9 @@ const Gallery = ({ images, itemsPerRow }) => {
         ))
       })}
 
-      {isOpen && (
+      {// display lightbox if isOpen state is true
+      isOpen && (
+        // lightbox component displaying image with current index state based on image wrapper div that was clicked
         <Lightbox
           mainSrc={images[galleryIndex].src}
           onCloseRequest={() => setIsOpen(false)}
