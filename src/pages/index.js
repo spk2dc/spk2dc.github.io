@@ -10,28 +10,26 @@ import "../utils/normalize.css"
 import "../utils/css/screen.css"
 import "react-image-lightbox/style.css" //only needs to be imported once
 
-const BlogIndex = ({ data }, location) => {
+const IndexPage = ({ data }) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout title={siteTitle}>
       <SEO title="Home" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
-      {/* <Bio /> */}
-      {data.site.siteMetadata.description && (
-        <div
-          className="header-container jumbotron"
-          style={{
-            backgroundImage: `url(${data.landingPic.childImageSharp.fluid.src})`,
-          }}
-        >
-          <div className="container">
-            <div className="card header-text my-4">
-              <h1>Senthil Kannan</h1>
-              <h2>Software Developer. Jet Engineer. World Traveler.</h2>
-            </div>
+
+      <div
+        className="header-container jumbotron"
+        style={{
+          backgroundImage: `url(${data.landingPic.childImageSharp.fluid.src})`,
+        }}
+      >
+        <div className="container">
+          <div className="card header-text my-4">
+            <h1>Senthil Kannan</h1>
+            <h2>Software Developer. Jet Engineer. World Traveler.</h2>
           </div>
         </div>
-      )}
+      </div>
 
       <Author />
     </Layout>
@@ -82,10 +80,5 @@ const indexQuery = graphql`
 `
 
 export default props => (
-  <StaticQuery
-    query={indexQuery}
-    render={data => (
-      <BlogIndex location={props.location} props data={data} {...props} />
-    )}
-  />
+  <StaticQuery query={indexQuery} render={data => <IndexPage data={data} />} />
 )

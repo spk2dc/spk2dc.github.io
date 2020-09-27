@@ -7,381 +7,163 @@
 
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
+import SkillsIcon from "../components/skillsIcon"
 
-export default function Skills() {
+function Skills({ data }) {
+  let iconData = [
+    {
+      name: "Java",
+      href: "https://icons8.com/icon/13679/java",
+      src: "https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png",
+    },
+    {
+      name: "C/C++",
+      href: "https://icons8.com/icon/40669/c++",
+      src: "https://img.icons8.com/color/96/000000/c-plus-plus-logo.png",
+    },
+    {
+      name: "Python",
+      href: "https://icons8.com/icon/13441/python",
+      src: "https://img.icons8.com/color/96/000000/python.png",
+    },
+    {
+      name: "Excel VBA",
+      href: "https://icons8.com/icon/13654/microsoft-excel",
+      src: "https://img.icons8.com/color/96/000000/ms-excel.png",
+    },
+    {
+      name: "JavaScript",
+      href: "https://icons8.com/icon/108784/javascript",
+      src: "https://img.icons8.com/color/96/000000/javascript.png",
+    },
+    {
+      name: "HTML",
+      href: "https://icons8.com/icon/20909/html-5",
+      src: "https://img.icons8.com/color/96/000000/html-5.png",
+    },
+    {
+      name: "CSS",
+      href: "https://icons8.com/icon/21278/css3",
+      src: "https://img.icons8.com/color/96/000000/css3.png",
+    },
+    {
+      name: "Node.js",
+      href: "https://icons8.com/icon/54087/nodejs",
+      src: "https://img.icons8.com/color/96/000000/nodejs.png",
+    },
+    {
+      name: "Express.js",
+      href: "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg",
+      src: "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg",
+    },
+    {
+      name: "React",
+      href: "https://icons8.com/icon/t4YbEbA834uH/react-native",
+      src: "https://img.icons8.com/nolan/96/react-native.png",
+    },
+    {
+      name: "PostgreSQL",
+      href: "https://icons8.com/icon/38561/postgresql",
+      src: "https://img.icons8.com/color/96/000000/postgreesql.png",
+    },
+    {
+      name: "MongoDB",
+      href: "https://icons8.com/icon/74402/mongodb",
+      src: "https://img.icons8.com/color/96/000000/mongodb.png",
+    },
+    {
+      name: "jQuery",
+      href: "https://icons8.com/icon/40253/jquery",
+      src: "https://img.icons8.com/ios-filled/96/000000/jquery.png",
+    },
+    {
+      name: "Bootstrap",
+      href: "https://icons8.com/icon/84710/bootstrap",
+      src: "https://img.icons8.com/color/96/000000/bootstrap.png",
+    },
+    {
+      name: "GitHub",
+      href: "https://github.com/spk2dc",
+      src: "https://img.icons8.com/fluent/96/000000/github.png",
+    },
+    {
+      name: "Ruby",
+      href: "https://icons8.com/icon/22189/ruby-programming-language",
+      src:
+        "https://img.icons8.com/color/96/000000/ruby-programming-language.png",
+    },
+    {
+      name: "Jekyll",
+      href: "https://icons8.com/icon/vIdITG-Ob-NL/full-test-tube",
+      src: "https://img.icons8.com/windows/96/a81103/full-test-tube.png",
+    },
+    {
+      name: "Heroku",
+      href: "https://icons8.com/icon/31085/heroku",
+      src: "https://img.icons8.com/color/96/000000/heroku.png",
+    },
+    {
+      name: "Linux",
+      href: "https://icons8.com/icon/17842/linux",
+      src: "https://img.icons8.com/color/96/000000/linux.png",
+    },
+    {
+      name: "Android",
+      href: "https://icons8.com/icon/GgyRdUL5k1fr/android-os",
+      src: "https://img.icons8.com/plasticine/96/000000/android-os.png",
+    },
+    {
+      name: "Bash",
+      href: "https://icons8.com/icon/19292/console",
+      src: "https://img.icons8.com/color/96/000000/console.png",
+    },
+    {
+      name: "Python Flask",
+      href:
+        "https://www.cleanpng.com/png-flask-python-web-framework-representational-state-6384161/",
+      src: data.icon_flask.childImageSharp.fluid.src,
+      height: 96,
+      width: 96,
+    },
+    {
+      name: "EJS",
+      href: "https://icon-icons.com/icon/file-type-ejs/130626",
+      src: data.icon_ejs.childImageSharp.fluid.src,
+      height: 96,
+      width: 96,
+    },
+    {
+      name: "Gatsby",
+      href: "https://www.gatsbyjs.com/guidelines/logo",
+      src: data.icon_gatsby.publicURL,
+      height: 96,
+      width: 96,
+    },
+  ]
+
   return (
-    <StaticQuery
-      query={skillQuery}
-      render={data => {
-        return (
-          <div className="card my-4">
-            <h3 className="text-center my-2">SKILLS</h3>
-            <hr className="my-2" />
-            <div className="row skills-body">
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/13679/java"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"
-                    alt="skill-icon"
-                  />
-                  <p>Java</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/40669/c++"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"
-                    alt="skill-icon"
-                  />
-                  <p>C/C++</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/13441/python"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/python.png"
-                    alt="skill-icon"
-                  />
-                  <p>Python</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/13654/microsoft-excel"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/ms-excel.png"
-                    alt="skill-icon"
-                  />
-                  <p>Excel VBA</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/108784/javascript"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/javascript.png"
-                    alt="skill-icon"
-                  />
-                  <p>JavaScript</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/20909/html-5"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/html-5.png"
-                    alt="skill-icon"
-                  />
-                  <p>HTML</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/21278/css3"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/css3.png"
-                    alt="skill-icon"
-                  />
-                  <p>CSS</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/54087/nodejs"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/nodejs.png"
-                    alt="skill-icon"
-                  />
-                  <p>Node.js</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
-                    height="96px"
-                    width="96px"
-                    alt="skill-icon"
-                  />
-                  <p>Express.js</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/t4YbEbA834uH/react-native"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/nolan/96/react-native.png"
-                    alt="skill-icon"
-                  />
-                  <p>React</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/38561/postgresql"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/postgreesql.png"
-                    alt="skill-icon"
-                  />
-                  <p>PostgreSQL</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/74402/mongodb"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/mongodb.png"
-                    alt="skill-icon"
-                  />
-                  <p>MongoDB</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/40253/jquery"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/ios-filled/96/000000/jquery.png"
-                    alt="skill-icon"
-                  />
-                  <p>jQuery</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/84710/bootstrap"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/bootstrap.png"
-                    alt="skill-icon"
-                  />
-                  <p>Bootstrap</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://github.com/spk2dc"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/fluent/96/000000/github.png"
-                    alt="skill-icon"
-                  />
-                  <p>GitHub</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/22189/ruby-programming-language"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/ruby-programming-language.png"
-                    alt="skill-icon"
-                  />
-                  <p>Ruby</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/vIdITG-Ob-NL/full-test-tube"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/windows/96/a81103/full-test-tube.png"
-                    alt="skill-icon"
-                  />
-                  <p>Jekyll</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/31085/heroku"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/heroku.png"
-                    alt="skill-icon"
-                  />
-                  <p>Heroku</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/17842/linux"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/linux.png"
-                    alt="skill-icon"
-                  />
-                  <p>Linux</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/GgyRdUL5k1fr/android-os"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/plasticine/96/000000/android-os.png"
-                    alt="skill-icon"
-                  />
-                  <p>Android</p>
-                </a>
-              </div>
-
-              {/* <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/19978/slack"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src="https://img.icons8.com/color/96/000000/slack.png" />
-                  <p>Slack</p>
-                </a>
-              </div> */}
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icons8.com/icon/19292/console"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src="https://img.icons8.com/color/96/000000/console.png"
-                    alt="skill-icon"
-                  />
-                  <p>Bash</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://www.cleanpng.com/png-flask-python-web-framework-representational-state-6384161/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src={data.icon_flask.childImageSharp.fluid.src}
-                    height="96"
-                    width="96"
-                    alt="skill-icon"
-                  />
-                  <p>Python Flask</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://icon-icons.com/icon/file-type-ejs/130626"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src={data.icon_ejs.childImageSharp.fluid.src}
-                    height="96"
-                    width="96"
-                    alt="skill-icon"
-                  />
-                  <p>EJS</p>
-                </a>
-              </div>
-
-              <div className="col-lg-2 col-sm-4 text-center">
-                <a
-                  href="https://www.gatsbyjs.com/guidelines/logo"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    src={data.icon_gatsby.publicURL}
-                    height="96"
-                    width="96"
-                    alt="skill-icon"
-                  />
-                  <p>Gatsby</p>
-                </a>
-              </div>
-            </div>
-          </div>
-        )
-      }}
-    />
+    <div className="card my-4">
+      <h3 className="text-center my-2">SKILLS</h3>
+      <hr className="my-2" />
+      <div className="row skills-body">
+        {iconData.map(icon => {
+          return (
+            <SkillsIcon
+              name={icon.name}
+              href={icon.href}
+              src={icon.src}
+              height={icon.height || -1}
+              width={icon.width || -1}
+            />
+          )
+        })}
+      </div>
+    </div>
   )
 }
 
 const skillQuery = graphql`
-  query SkillQuery {
+  query {
     site {
       siteMetadata {
         author
@@ -412,3 +194,6 @@ const skillQuery = graphql`
     }
   }
 `
+export default props => (
+  <StaticQuery query={skillQuery} render={data => <Skills data={data} />} />
+)

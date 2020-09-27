@@ -58,7 +58,7 @@ function Author() {
               <h3 className="text-center my-2">CONTACT</h3>
               <hr className="my-2" />
               <div className="row">
-                <div className="col-lg-4 col-sm-4 text-center">
+                <div className="col-4 text-center">
                   <a
                     href="https://www.linkedin.com/in/spk2dc/"
                     target="_blank"
@@ -73,7 +73,7 @@ function Author() {
                   </a>
                 </div>
 
-                <div className="col-lg-4 col-sm-4 text-center">
+                <div className="col-4 text-center">
                   <a
                     href="mailto:spk2dc@virginia.edu"
                     target="_blank"
@@ -91,7 +91,7 @@ function Author() {
                   </a>
                 </div>
 
-                <div className="col-lg-4 col-sm-4 text-center">
+                <div className="col-4 text-center">
                   <a
                     href="https://github.com/spk2dc"
                     target="_blank"
