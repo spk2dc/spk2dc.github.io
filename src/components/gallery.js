@@ -38,6 +38,7 @@ const Gallery = ({ images, itemsPerRow }) => {
               setGalleryIndex(rowIndex * rows[0].length + imageIndex)
             }}
             role="button"
+            tabIndex={0}
             style={{
               width: `${(image.aspectRatio / rowAspectRatioSum) * 100}%`,
             }}
