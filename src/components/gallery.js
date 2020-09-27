@@ -59,6 +59,14 @@ const Gallery = ({ images, itemsPerRow }) => {
         <Lightbox
           mainSrc={images[galleryIndex].src}
           onCloseRequest={() => setIsOpen(false)}
+          nextSrc={images[(galleryIndex + 1) % images.length]}
+          prevSrc={images[(galleryIndex + images.length - 1) % images.length]}
+          onMovePrevRequest={() =>
+            setGalleryIndex((galleryIndex + images.length - 1) % images.length)
+          }
+          onMoveNextRequest={() =>
+            setGalleryIndex((galleryIndex + 1) % images.length)
+          }
         />
       )}
     </div>
