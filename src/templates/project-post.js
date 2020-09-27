@@ -33,7 +33,7 @@ class ProjectPostTemplate extends React.Component {
           <div className="m-2 text-center">
             {post.frontmatter.link_live && (
               <a
-                className="button primary large mx-5"
+                className="button primary large mx-5 my-2"
                 href={post.frontmatter.link_live}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -47,7 +47,7 @@ class ProjectPostTemplate extends React.Component {
             {/* Button for github */}
             {post.frontmatter.link_git && (
               <a
-                className="button primary large mx-5"
+                className="button primary large mx-5 my-2"
                 href={post.frontmatter.link_git}
                 target="_blank"
                 rel="noopener noreferrer"

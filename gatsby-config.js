@@ -12,7 +12,7 @@ module.exports = {
       twitter: siteConfig.twitter,
     },
   },
-  pathPrefix: "/portfolio",
+  pathPrefix: "/",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -83,6 +83,10 @@ module.exports = {
           path.join(
             process.cwd(),
             "node_modules/bootstrap/**/!(*.d).{ts,js,jsx,tsx}"
+          ),
+          path.join(
+            process.cwd(),
+            "node_modules/react-image-lightbox/**/!(*.d).{ts,js,jsx,tsx}"
           ),
         ],
         // develop: true, // Enable while using `gatsby develop`

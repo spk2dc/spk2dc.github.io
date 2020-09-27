@@ -3,17 +3,15 @@ import { graphql, StaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-// import PostCard from "../components/postCard"
 import Author from "../components/author"
 
 // import "../utils/global.scss"
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
-//TODO: switch to staticQuery, get rid of comments, remove unnecessary components, export as draft template
+import "react-image-lightbox/style.css" //only needs to be imported once
+
 const BlogIndex = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
-  // const posts = data.allMarkdownRemark.edges
-  // let postCounter = 0
 
   return (
     <Layout title={siteTitle}>
@@ -36,20 +34,6 @@ const BlogIndex = ({ data }, location) => {
       )}
 
       <Author />
-
-      {/* <div className="post-feed">
-        {posts.map(({ node }) => {
-          postCounter++
-          return (
-            <PostCard
-              key={node.fields.slug}
-              count={postCounter}
-              node={node}
-              postClass={`post`}
-            />
-          )
-        })}
-      </div> */}
     </Layout>
   )
 }

@@ -44,6 +44,11 @@ const Layout = props => {
                   Resume
                 </Link>
               </li>
+              <li className="nav-travels" role="menuitem">
+                <Link to={`/travels`} activeClassName="nav-link-current">
+                  Travels
+                </Link>
+              </li>
               {/* <li className="nav-elements" role="menuitem">
                 <Link to={`/elements`} activeClassName="nav-link-current">
                   Elements
