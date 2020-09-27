@@ -30,10 +30,13 @@ const Gallery = ({ images, itemsPerRow }) => {
 
         return row.map(image => (
           <div
-            className="clickTest"
+            className="image-container-clickable"
             onClick={e => {
               console.log("lightbox test", e.target)
               setIsOpen(true)
+            }}
+            style={{
+              width: `${(image.aspectRatio / rowAspectRatioSum) * 100}%`,
             }}
           >
             <Img
@@ -42,7 +45,7 @@ const Gallery = ({ images, itemsPerRow }) => {
               fluid={image}
               title={image.caption}
               style={{
-                width: `${(image.aspectRatio / rowAspectRatioSum) * 100}%`,
+                width: `100%`,
               }}
             />
 

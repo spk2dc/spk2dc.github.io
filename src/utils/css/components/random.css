@@ -142,3 +142,7 @@ button.accordion-active + .accordion-panel {
   display: inline-block;
   border: 1px #ffffff solid;
 }
+
+.image-container-clickable {
+  display: inline-block;
+}
