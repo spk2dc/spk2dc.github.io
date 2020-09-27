@@ -179,16 +179,6 @@
   Link: </component---src-templates-project-post-js-5ccac03bd5a2099b1085.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/run_analyzer/page-data.json>; rel=preload; as=fetch; crossorigin
-/trip_statistics/
-  Link: </webpack-runtime-b74bdda719be7cb188cb.js>; rel=preload; as=script
-  Link: </styles-2d82ac8e3afc0c213061.js>; rel=preload; as=script
-  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
-  Link: </app-347898cc5d62bd9de57a.js>; rel=preload; as=script
-  Link: </7fb33678ee08061e6368a33b5c832dad654f5d4f-14b8a7a3d3e0f21f4c71.js>; rel=preload; as=script
-  Link: </f2a3d921801cb8c098dd4b6db91a6768d89e47cc-3299b0e60bf3d0885339.js>; rel=preload; as=script
-  Link: </component---src-templates-project-post-js-5ccac03bd5a2099b1085.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/trip_statistics/page-data.json>; rel=preload; as=fetch; crossorigin
 /spotify_filter/
   Link: </webpack-runtime-b74bdda719be7cb188cb.js>; rel=preload; as=script
   Link: </styles-2d82ac8e3afc0c213061.js>; rel=preload; as=script
@@ -199,6 +189,16 @@
   Link: </component---src-templates-project-post-js-5ccac03bd5a2099b1085.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/spotify_filter/page-data.json>; rel=preload; as=fetch; crossorigin
+/trip_statistics/
+  Link: </webpack-runtime-b74bdda719be7cb188cb.js>; rel=preload; as=script
+  Link: </styles-2d82ac8e3afc0c213061.js>; rel=preload; as=script
+  Link: </framework-1a1efb3f5c798a012f4a.js>; rel=preload; as=script
+  Link: </app-347898cc5d62bd9de57a.js>; rel=preload; as=script
+  Link: </7fb33678ee08061e6368a33b5c832dad654f5d4f-14b8a7a3d3e0f21f4c71.js>; rel=preload; as=script
+  Link: </f2a3d921801cb8c098dd4b6db91a6768d89e47cc-3299b0e60bf3d0885339.js>; rel=preload; as=script
+  Link: </component---src-templates-project-post-js-5ccac03bd5a2099b1085.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/trip_statistics/page-data.json>; rel=preload; as=fetch; crossorigin
 /cryostat_fridge/
   Link: </webpack-runtime-b74bdda719be7cb188cb.js>; rel=preload; as=script
   Link: </styles-2d82ac8e3afc0c213061.js>; rel=preload; as=script
