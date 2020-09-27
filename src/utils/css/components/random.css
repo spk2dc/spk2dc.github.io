@@ -146,3 +146,10 @@ button.accordion-active + .accordion-panel {
 .image-container-clickable {
   display: inline-block;
 }
+
+/* override template's grid.css file values with bootstrap's values */
+.col-6 {
+  padding: unset;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
