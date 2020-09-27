@@ -9,7 +9,7 @@ import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import SkillsIcon from "../components/skillsIcon"
 
-export default function Skills() {
+function Skills({ data }) {
   let iconData = [
     {
       name: "Java",
@@ -121,48 +121,35 @@ export default function Skills() {
       name: "Python Flask",
       href:
         "https://www.cleanpng.com/png-flask-python-web-framework-representational-state-6384161/",
-      // src: {data.icon_flask.childImageSharp.fluid.src}
+      src: data.icon_flask.childImageSharp.fluid.src,
     },
     {
       name: "EJS",
       href: "https://icon-icons.com/icon/file-type-ejs/130626",
-      // src: {data.icon_ejs.childImageSharp.fluid.src}
+      src: data.icon_ejs.childImageSharp.fluid.src,
     },
     {
       name: "Gatsby",
       href: "https://www.gatsbyjs.com/guidelines/logo",
-      // src: {data.icon_gatsby.publicURL}
+      src: data.icon_gatsby.publicURL,
     },
   ]
 
   return (
-    <StaticQuery
-      query={skillQuery}
-      render={data => {
-        return (
-          <div className="card my-4">
-            <h3 className="text-center my-2">SKILLS</h3>
-            <hr className="my-2" />
-            <div className="row skills-body">
-              {iconData.map(icon => {
-                return (
-                  <SkillsIcon
-                    name={icon.name}
-                    href={icon.href}
-                    src={icon.src}
-                  />
-                )
-              })}
-            </div>
-          </div>
-        )
-      }}
-    />
+    <div className="card my-4">
+      <h3 className="text-center my-2">SKILLS</h3>
+      <hr className="my-2" />
+      <div className="row skills-body">
+        {iconData.map(icon => {
+          return <SkillsIcon name={icon.name} href={icon.href} src={icon.src} />
+        })}
+      </div>
+    </div>
   )
 }
 
 const skillQuery = graphql`
-  query SkillQuery {
+  query {
     site {
       siteMetadata {
         author
@@ -193,3 +180,6 @@ const skillQuery = graphql`
     }
   }
 `
+export default props => (
+  <StaticQuery query={skillQuery} render={data => <Skills data={data} />} />
+)
