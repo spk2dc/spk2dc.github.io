@@ -4,7 +4,7 @@ import Lightbox from "react-image-lightbox"
 
 const Gallery = ({ images, itemsPerRow }) => {
   const [isOpen, setIsOpen] = useState(false)
-  const [image, setImage] = useState("")
+  const [galleryIndex, setGalleryIndex] = useState(-1)
 
   function chunk(array, groupSize) {
     const groups = []
@@ -25,17 +25,17 @@ const Gallery = ({ images, itemsPerRow }) => {
 
   return (
     <div className="gallery-container">
-      {rows.map(row => {
+      {rows.map((row, rowIndex) => {
         // Sum aspect ratios of images in the given row
         const rowAspectRatioSum = sum(row.map(image => image.aspectRatio))
 
-        return row.map(image => (
+        return row.map((image, imageIndex) => (
           <div
             key={`clickable-${image.src}`}
             className="image-container-clickable"
             onClick={e => {
               setIsOpen(true)
-              setImage(image.src)
+              setGalleryIndex(rowIndex * rows[0].length + imageIndex)
             }}
             role="button"
             style={{
@@ -56,7 +56,10 @@ const Gallery = ({ images, itemsPerRow }) => {
       })}
 
       {isOpen && (
-        <Lightbox mainSrc={image} onCloseRequest={() => setIsOpen(false)} />
+        <Lightbox
+          mainSrc={images[galleryIndex].src}
+          onCloseRequest={() => setIsOpen(false)}
+        />
       )}
     </div>
   )
