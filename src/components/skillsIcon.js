@@ -2,7 +2,7 @@ import React from "react"
 
 export default function SkillsIcon({ name, href, src, height, width }) {
   return (
-    <div className="col-md-2 col-6 text-center">
+    <div className="col-md-2 col-4 text-center">
       <a href={href} target="_blank" rel="noreferrer">
         {// if height/width does not exist display image without it, otherwise use them
         height === -1 || width === -1 ? (

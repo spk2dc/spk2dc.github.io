@@ -13,7 +13,7 @@
 .col-1,
 .col-2,
 .col-3,
-.col-4,
+/* .col-4, */
 .col-5,
 /* .col-6, */
 .col-7,
@@ -47,8 +47,8 @@
 }
 
 .col-4 {
-  flex-basis: 33.3333333%;
-  max-width: 33.3333333%;
+  /* flex-basis: 33.3333333%;
+  max-width: 33.3333333%; */
 }
 
 .col-5 {
@@ -95,7 +95,7 @@
   .col-1,
     .col-2,
     .col-3,
-    .col-4,
+    /* .col-4, */
     .col-5,
     /* .col-6, */
     .col-7,
@@ -112,7 +112,7 @@
   .col-1,
     .col-2,
     .col-3,
-    .col-4,
+    /* .col-4, */
     .col-5,
     /* .col-6, */
     .col-7,
