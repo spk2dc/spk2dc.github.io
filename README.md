@@ -8,11 +8,11 @@ Hello and welcome to my portfolio built with Gatsby! Here you can explore my web
 
 ---
 
-I also have an old portfolio built with Jekyll that has some additional details on my mechanical engineering projects that can be seen on the site linked below.
+I also have an old portfolio built with Jekyll in a slightly different layout.
 
-[Old Portfolio](https://spk2dc.github.io/portfolio)
+[Old Portfolio](https://spk2dc.github.io/OLD_portfolio/)
 
-And I have a super old portfolio built with Wix from back in college that I keep around just for nostalgia.
+And I have a super old portfolio built with Wix from back in college that I keep around just for nostalgia. Also has some additional projects that I decided not to migrate to my newer portfolios.
 
 [Super Old College Portfolio](https://spk2dc.wixsite.com/portfolio)
 
