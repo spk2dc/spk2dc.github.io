@@ -20,6 +20,11 @@ const Gallery = ({ images, itemsPerRow }) => {
     )
   }
 
+  function imgClick(rowIndex, imageIndex) {
+    setIsOpen(true)
+    setGalleryIndex(rowIndex * rows[0].length + imageIndex)
+  }
+
   // Split images into groups of the given size
   const rows = chunk(images, itemsPerRow[0])
 
@@ -33,9 +38,13 @@ const Gallery = ({ images, itemsPerRow }) => {
           <div
             key={`clickable-${image.src}`}
             className="image-container-clickable"
-            onClick={e => {
-              setIsOpen(true)
-              setGalleryIndex(rowIndex * rows[0].length + imageIndex)
+            onClick={() => {
+              imgClick(rowIndex, imageIndex)
+            }}
+            onKeyPress={e => {
+              if (e.key === "Enter") {
+                imgClick(rowIndex, imageIndex)
+              }
             }}
             role="button"
             tabIndex={0}
