@@ -18,7 +18,7 @@ export default function Skills() {
             <h3 className="text-center my-2">SKILLS</h3>
             <hr className="my-2" />
             <div className="row skills-body">
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/13679/java"
                   target="_blank"
@@ -32,7 +32,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/40669/c++"
                   target="_blank"
@@ -46,7 +46,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/13441/python"
                   target="_blank"
@@ -60,7 +60,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/13654/microsoft-excel"
                   target="_blank"
@@ -74,7 +74,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/108784/javascript"
                   target="_blank"
@@ -88,7 +88,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/20909/html-5"
                   target="_blank"
@@ -102,7 +102,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/21278/css3"
                   target="_blank"
@@ -116,7 +116,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/54087/nodejs"
                   target="_blank"
@@ -130,7 +130,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
                   target="_blank"
@@ -146,7 +146,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/t4YbEbA834uH/react-native"
                   target="_blank"
@@ -160,7 +160,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/38561/postgresql"
                   target="_blank"
@@ -174,7 +174,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/74402/mongodb"
                   target="_blank"
@@ -188,7 +188,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/40253/jquery"
                   target="_blank"
@@ -202,7 +202,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/84710/bootstrap"
                   target="_blank"
@@ -216,7 +216,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://github.com/spk2dc"
                   target="_blank"
@@ -230,7 +230,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/22189/ruby-programming-language"
                   target="_blank"
@@ -244,7 +244,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/vIdITG-Ob-NL/full-test-tube"
                   target="_blank"
@@ -258,7 +258,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/31085/heroku"
                   target="_blank"
@@ -272,7 +272,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/17842/linux"
                   target="_blank"
@@ -286,7 +286,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/GgyRdUL5k1fr/android-os"
                   target="_blank"
@@ -300,7 +300,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              {/* <div className="col-lg-2 col-sm-4 text-center">
+              {/* <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/19978/slack"
                   target="_blank"
@@ -311,7 +311,7 @@ export default function Skills() {
                 </a>
               </div> */}
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icons8.com/icon/19292/console"
                   target="_blank"
@@ -325,7 +325,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://www.cleanpng.com/png-flask-python-web-framework-representational-state-6384161/"
                   target="_blank"
@@ -341,7 +341,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://icon-icons.com/icon/file-type-ejs/130626"
                   target="_blank"
@@ -357,7 +357,7 @@ export default function Skills() {
                 </a>
               </div>
 
-              <div className="col-lg-2 col-sm-4 text-center">
+              <div className="col-lg-2 col-6 text-center">
                 <a
                   href="https://www.gatsbyjs.com/guidelines/logo"
                   target="_blank"
