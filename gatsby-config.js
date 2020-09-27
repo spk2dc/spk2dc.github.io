@@ -84,6 +84,10 @@ module.exports = {
             process.cwd(),
             "node_modules/bootstrap/**/!(*.d).{ts,js,jsx,tsx}"
           ),
+          path.join(
+            process.cwd(),
+            "node_modules/react-image-lightbox/**/!(*.d).{ts,js,jsx,tsx}"
+          ),
         ],
         // develop: true, // Enable while using `gatsby develop`
         // tailwind: true, // Enable tailwindcss support
