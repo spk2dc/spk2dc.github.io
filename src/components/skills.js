@@ -122,16 +122,22 @@ function Skills({ data }) {
       href:
         "https://www.cleanpng.com/png-flask-python-web-framework-representational-state-6384161/",
       src: data.icon_flask.childImageSharp.fluid.src,
+      height: 96,
+      width: 96,
     },
     {
       name: "EJS",
       href: "https://icon-icons.com/icon/file-type-ejs/130626",
       src: data.icon_ejs.childImageSharp.fluid.src,
+      height: 96,
+      width: 96,
     },
     {
       name: "Gatsby",
       href: "https://www.gatsbyjs.com/guidelines/logo",
       src: data.icon_gatsby.publicURL,
+      height: 96,
+      width: 96,
     },
   ]
 
@@ -141,7 +147,15 @@ function Skills({ data }) {
       <hr className="my-2" />
       <div className="row skills-body">
         {iconData.map(icon => {
-          return <SkillsIcon name={icon.name} href={icon.href} src={icon.src} />
+          return (
+            <SkillsIcon
+              name={icon.name}
+              href={icon.href}
+              src={icon.src}
+              height={icon.height || -1}
+              width={icon.width || -1}
+            />
+          )
         })}
       </div>
     </div>
