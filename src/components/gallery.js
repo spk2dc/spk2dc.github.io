@@ -60,14 +60,17 @@ const Gallery = ({ images, itemsPerRow }) => {
           mainSrc={images[galleryIndex].src}
           onCloseRequest={() => setIsOpen(false)}
           imageTitle={images[galleryIndex].caption}
-          nextSrc={images[(galleryIndex + 1) % images.length]}
-          prevSrc={images[(galleryIndex + images.length - 1) % images.length]}
+          nextSrc={images[(galleryIndex + 1) % images.length].src}
+          prevSrc={
+            images[(galleryIndex + images.length - 1) % images.length].src
+          }
           onMovePrevRequest={() =>
             setGalleryIndex((galleryIndex + images.length - 1) % images.length)
           }
           onMoveNextRequest={() =>
             setGalleryIndex((galleryIndex + 1) % images.length)
           }
+          animationOnKeyInput={true}
         />
       )}
     </div>
