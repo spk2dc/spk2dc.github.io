@@ -1,16 +1,18 @@
-import React from "react"
+import React, { useState } from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Gallery from "../components/gallery"
+import Lightbox from "react-image-lightbox"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
 
 const TravelPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
+  const [isOpen, setIsOpen] = useState(false)
+  const [image, setImage] = useState("")
 
   return (
     <Layout title={siteTitle}>
@@ -64,6 +66,8 @@ const TravelPage = ({ data }, location) => {
               caption: `${node.name}`,
             }))}
             itemsPerRow={[4, 5]}
+            setIsOpen={setIsOpen}
+            setImage={setImage}
           />
           <br />
 
@@ -75,6 +79,8 @@ const TravelPage = ({ data }, location) => {
               caption: `${node.name}`,
             }))}
             itemsPerRow={[4, 5]}
+            setIsOpen={setIsOpen}
+            setImage={setImage}
           />
           <br />
 
@@ -86,8 +92,14 @@ const TravelPage = ({ data }, location) => {
               caption: `${node.name}`,
             }))}
             itemsPerRow={[4, 5]}
+            setIsOpen={setIsOpen}
+            setImage={setImage}
           />
           <br />
+
+          {isOpen && (
+            <Lightbox mainSrc={image} onCloseRequest={() => setIsOpen(false)} />
+          )}
         </div>
       </article>
     </Layout>

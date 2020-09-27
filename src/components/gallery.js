@@ -2,9 +2,7 @@ import Img from "gatsby-image"
 import React, { useState } from "react"
 import Lightbox from "react-image-lightbox"
 
-const Gallery = ({ images, itemsPerRow }) => {
-  const [isOpen, setIsOpen] = useState(false)
-
+const Gallery = ({ images, itemsPerRow, setIsOpen, setImage }) => {
   function chunk(array, groupSize) {
     const groups = []
     for (let i = 0; i < array.length; i += groupSize) {
@@ -34,6 +32,7 @@ const Gallery = ({ images, itemsPerRow }) => {
             onClick={e => {
               console.log("lightbox test", e.target)
               setIsOpen(true)
+              setImage(image.src)
             }}
             style={{
               width: `${(image.aspectRatio / rowAspectRatioSum) * 100}%`,
@@ -48,13 +47,6 @@ const Gallery = ({ images, itemsPerRow }) => {
                 width: `100%`,
               }}
             />
-
-            {isOpen && (
-              <Lightbox
-                mainSrc={image.src}
-                onCloseRequest={() => setIsOpen(false)}
-              />
-            )}
           </div>
         ))
       })}
