@@ -149,6 +149,7 @@ function Skills({ data }) {
         {iconData.map(icon => {
           return (
             <SkillsIcon
+              key={`skillsIcon_${icon.src}`}
               name={icon.name}
               href={icon.href}
               src={icon.src}
