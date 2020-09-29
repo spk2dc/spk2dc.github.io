@@ -55,6 +55,8 @@ function Skills({ data }) {
       name: "Express.js",
       href: "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg",
       src: "https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg",
+      height: 96,
+      width: 96,
     },
     {
       name: "React",
