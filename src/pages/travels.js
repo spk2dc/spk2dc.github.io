@@ -88,6 +88,20 @@ const TravelPage = ({ data }, location) => {
           />
           <br />
         </div>
+
+        <a
+          href="https://spk2dc.wixsite.com/senthilstravels"
+          target="_blank"
+          rel="noreferrer"
+          style={{
+            display: "block",
+            fontSize: "10px",
+            width: "fit-content",
+            margin: "auto",
+          }}
+        >
+          Link to blog
+        </a>
       </article>
     </Layout>
   )
