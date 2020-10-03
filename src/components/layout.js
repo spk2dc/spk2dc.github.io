@@ -80,7 +80,7 @@ const Layout = props => {
                 Email
               </a>
               <a
-                href="https://github.com/spk2dc"
+                href="https://github.com/spk2dc/spk2dc.github.io"
                 title="GitHub"
                 target="_blank"
                 rel="noopener noreferrer"
