@@ -31,16 +31,6 @@ const IndexPage = ({ data }) => {
         </div>
       </div>
 
-      {console.log(
-        "gatsby env variable: ",
-        process.env.GATSBY_GOOGLE_ANALYTICS_ID
-      )}
-      {console.log(
-        "react env variable: ",
-        process.env.REACT_APP_GOOGLE_ANALYTICS_ID
-      )}
-      {console.log("env variable: ", process.env.GOOGLE_ANALYTICS_ID)}
-
       <Author />
     </Layout>
   )
