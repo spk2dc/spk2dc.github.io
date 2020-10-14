@@ -37,7 +37,7 @@ const ResumePage = ({ data }, location) => {
             title="iframe resume"
             width="100%"
             height="800"
-            src={data.resumeFile.publicURL}
+            src={`https://docs.google.com/viewer?url=https://spk2dc.github.io/${data.resumeFile.publicURL}&embedded=true`}
           ></iframe>
 
           {/* <figure className="kg-card kg-image-card border border-dark">
