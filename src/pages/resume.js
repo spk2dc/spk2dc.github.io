@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
+// import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -22,7 +22,7 @@ const ResumePage = ({ data }, location) => {
         <div className="post-content-body">
           <h2 className="override-h2">RESUME</h2>
 
-          <div className="text-center mt-4">
+          <div className="text-center my-4">
             <a
               className="button primary mt-4"
               href={data.resumeFile.publicURL}
@@ -33,12 +33,19 @@ const ResumePage = ({ data }, location) => {
             </a>
           </div>
 
-          <figure className="kg-card kg-image-card border border-dark">
+          <iframe
+            title="iframe resume"
+            width="100%"
+            height="800"
+            src={data.resumeFile.publicURL}
+          ></iframe>
+
+          {/* <figure className="kg-card kg-image-card border border-dark">
             <Img
               fluid={data.resumePic.childImageSharp.fluid}
               className="kg-image"
             />
-          </figure>
+          </figure> */}
         </div>
       </article>
     </Layout>
