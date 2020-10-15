@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
-const core = require("@actions/core")
+import * as core from "@actions/core"
 
 const AboutPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
