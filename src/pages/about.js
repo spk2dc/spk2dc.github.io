@@ -7,6 +7,7 @@ import SEO from "../components/seo"
 
 import "../utils/normalize.css"
 import "../utils/css/screen.css"
+const core = require("@actions/core")
 
 const AboutPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
@@ -23,13 +24,23 @@ const AboutPage = ({ data }, location) => {
           </h2>
 
           <p>
-            GATSBY_GOOGLE_ANALYTICS_ID: {process.env.GATSBY_GOOGLE_ANALYTICS_ID}
+            GATSBY_GOOGLE_ANALYTICS_ID:{" "}
+            {core.getInput("GATSBY_GOOGLE_ANALYTICS_ID")
+            //process.env.GATSBY_GOOGLE_ANALYTICS_ID
+            }
           </p>
           <p>
             REACT_APP_GOOGLE_ANALYTICS_ID:&nbsp;
-            {process.env.REACT_APP_GOOGLE_ANALYTICS_ID}
+            {core.getInput("REACT_APP_GOOGLE_ANALYTICS_ID")
+            //process.env.REACT_APP_GOOGLE_ANALYTICS_ID
+            }
           </p>
-          <p>GOOGLE_ANALYTICS_ID: {process.env.GOOGLE_ANALYTICS_ID}</p>
+          <p>
+            GOOGLE_ANALYTICS_ID:{" "}
+            {core.getInput("GOOGLE_ANALYTICS_ID")
+            //process.env.GOOGLE_ANALYTICS_ID
+            }
+          </p>
 
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
