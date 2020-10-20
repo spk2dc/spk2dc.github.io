@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[Senthil Kannan's portfolio - built with Gatsby]]></description><link>https://spk2dc.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Oct 2020 22:46:33 GMT</lastBuildDate><item><title><![CDATA[Battleship]]></title><description><![CDATA[Technologies MERN stack (Mongo, Express, React, Node) HTML CSS Bootstrap JavaScript Features Event listeners and handlers Document Object…]]></description><link>https://spk2dc.github.io/battleship/</link><guid isPermaLink="false">https://spk2dc.github.io/battleship/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Senthil's Portfolio]]></title><description><![CDATA[Senthil Kannan's portfolio - built with Gatsby]]></description><link>https://spk2dc.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Oct 2020 04:51:54 GMT</lastBuildDate><item><title><![CDATA[Battleship]]></title><description><![CDATA[Technologies MERN stack (Mongo, Express, React, Node) HTML CSS Bootstrap JavaScript Features Event listeners and handlers Document Object…]]></description><link>https://spk2dc.github.io/battleship/</link><guid isPermaLink="false">https://spk2dc.github.io/battleship/</guid><pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Technologies&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;MERN stack (Mongo, Express, React, Node)&lt;/li&gt;
 &lt;li&gt;HTML&lt;/li&gt;
@@ -1929,100 +1929,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Autonomous Line-Following Delivery Robot]]></title><description><![CDATA[Description Coded Arduino program in C to automate line-following control algorithm Set up online order placement using integrated SQL…]]></description><link>https://spk2dc.github.io/delivery_robot/</link><guid isPermaLink="false">https://spk2dc.github.io/delivery_robot/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Coded Arduino program in C to automate line-following control algorithm&lt;/li&gt;
-&lt;li&gt;Set up online order placement using integrated SQL database and PHP scripts&lt;/li&gt;
-&lt;li&gt;Designed 3D printed delivery system to operate with a servo, laser cut chassis of robot, wired electronic circuitry, incorporated infrared sensors and encoders&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Technologies&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;SolidWorks CAD Software&lt;/li&gt;
-&lt;li&gt;3D Printing&lt;/li&gt;
-&lt;li&gt;Arduino microcontroller&lt;/li&gt;
-&lt;li&gt;C programming&lt;/li&gt;
-&lt;li&gt;SQL &amp;#x26; PHP&lt;/li&gt;
-&lt;li&gt;Circuitry design and wiring&lt;/li&gt;
-&lt;li&gt;Laser Cutter&lt;/li&gt;
-&lt;li&gt;Pololu Wixel 2.4 GHz radio board&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br /&gt;
-&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/7a64f886d429269c63d7b753d57adc0b/ebb21/Line_Following_Robot_Diagram.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 598px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 70.88235294117646%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACi0lEQVQoz2P4Tyz49///XzQhBgwlQEX/y68WmqzXcdhs6bDB0myP7o77u189+vfw04+3S7+c1T193ebG/9vYNP/9C9JcdWqKy6a0oJ2FgdsLPXanH31x+d/HL18+3Px+6NOtgltPqp78f4aq+R/QUiAAsr5+Slt2X7b5vF77ad3m4/Id146+/P//6oxv/Vy/n58FK/2Lzdn//n389e/JpdulKy/5r74Xs/JK1Lo7gQsvbNh2/enqiqc1DL8fHwep+v0H7DmwZjDj/+8/fxfuvZu/4GJe5Qb9xkNczSdFSjYKVe0Saj1hW396WnvDrV61m5dOgK3AsBno5GM3Xs/Yfb+jb2f3shuF084WTT2TO+VU+9RTnTNOdKy5vvbEk6dvv0E8iKL5LzCgQGL/fv//f/3ItWu3px66WXHgSs2hG3Wnr+VfuHToxatf8HABKka3+defP5tOPWhee6W8adfC/SYzDzBM2sI0fRfTygsM9cv7S2Zen7Tt6rXH79Bt/vPnz4ePH/79+bfvzOeO1c/Km7Z3zl5QOa2lZW5/9eSmpvkTCmftL595ddaW1w9f/vn969unz58Rmi9fuWygbTD14NTC07nZB4t2nrr2cOe53fPPedjkFCfP3DH31K4N12ac2pC0P77vfldWWXZ4aDjEpyDN586d4+XimbFxRvXamqzpWTv2H3x27qLnPb/Gk90+V6On3Ol6cvBa78rJqTNSF55bGBIdYmtji9B8/vx5Nna2K5evANnf33//+vHzzz/f9b7orvy7IuC7X+fv9v/f/398/+HHhx9ABSnJKRYWFgjNb968mTdv3rv3kMD4ByHf//vw7c/3j/8+ffv3HZISIIF8+PDhTZs2QdQAAIHaoORyOh4SAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/static/7a64f886d429269c63d7b753d57adc0b/51a8e/Line_Following_Robot_Diagram.webp 340w,
-/static/7a64f886d429269c63d7b753d57adc0b/83713/Line_Following_Robot_Diagram.webp 598w&quot; sizes=&quot;(max-width: 598px) 100vw, 598px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/7a64f886d429269c63d7b753d57adc0b/ad208/Line_Following_Robot_Diagram.png 340w,
-/static/7a64f886d429269c63d7b753d57adc0b/ebb21/Line_Following_Robot_Diagram.png 598w&quot; sizes=&quot;(max-width: 598px) 100vw, 598px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/7a64f886d429269c63d7b753d57adc0b/ebb21/Line_Following_Robot_Diagram.png&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;System Architecture&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;Basic layout diagram of main parts needed and their placement on the device&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2f51c4458af9b4cbf1d6b72532c12c1d/1856f/Line_Following_Robot_Layout.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 539px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 89.11764705882352%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC7UlEQVQ4y12S527jOBSF/ZYLbBwVFzhxiYsKJauwUxIlUdUlkz/zqEsnM7O7AS5IkOB378HhmZh+99+y/M7wuqkzGH5rh7UVKPtcPXvt1NU33bfHk2/kkzuaoHU4EV3AKkRLkjUJb8MjZfre8Pt/34P/w7r9kRFRw6ZBXQfzXEqZ51nZd2nboQQT+1AZ4DcP+smfmVOv8xgdhlBKLoSsFb7egO5yv/lVTURe5owyjOcHZYAH+Qu2vmZSoRpOecdzJfKaMNX1SVXRtoWYqiyXaVzCqPR2maX5YLC+YO2QHbYRBjB2SHzE0QmFx4yjsuKyZGXJtZayFpHLvW2GvQgRzwwHy/+Ep26/gVKUB4mWzXlZn1ddbH3c1k3HVEO/qtaisEARe79sh959SWrDHyYWaPXHuBm7q3nlvVbBtgy2ukVOkjRR/lsRAxk6MjxJrZwypY243cEeF4anYb99cgZHkBavxGFb+Lp24vASHRKMqjgoMJQolaGbU/KA7+/e7QbekPyc7OvJ44nBns1HNL/QxZUuu7NZpPum47VistLWZ5yJPNNH+vPn7uNjv8fs2R8fsN6OUZSdl5JBgWOBEpYkOKJNh5VCdU1ymVGcZUL7x/sB/RiWB4ifwVUb9oC3Z8Idm2exyHsmSp5Xybm8XoFqyP3u86zCsCBYB0AVklTpap3kBrhMdMq0+llUFucFOs7LelMrXsgahTAXSFZaKmw7GJwKRvn7x4mCUxq8zePWAuMD1oY/eaOfHC9oxoAN40Uu/VKmMK5wKmFSlyXKWFjlTkvWI1y4MNaaZ4H+58+gmWCYei1KZn24yJw18S0J/yLA8DevWTprxbQhL9LbDuFCiL0ZjHYw6PoD67gOhqdOp4WK/75Eq81rPF0TcwOfN3S9TsZoNdJZnJ7soLfB8A3+5INBm7dwI+DYO5Auzo1x7PX6FsA03m1iboCr/XvsN7jXWdeNzeD25F5sX82BMtxuBhobNFPvZj7I/hcZPuofjJwQ+WLrEWAAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/static/2f51c4458af9b4cbf1d6b72532c12c1d/51a8e/Line_Following_Robot_Layout.webp 340w,
-/static/2f51c4458af9b4cbf1d6b72532c12c1d/a0d57/Line_Following_Robot_Layout.webp 539w&quot; sizes=&quot;(max-width: 539px) 100vw, 539px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/2f51c4458af9b4cbf1d6b72532c12c1d/ad208/Line_Following_Robot_Layout.png 340w,
-/static/2f51c4458af9b4cbf1d6b72532c12c1d/1856f/Line_Following_Robot_Layout.png 539w&quot; sizes=&quot;(max-width: 539px) 100vw, 539px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/2f51c4458af9b4cbf1d6b72532c12c1d/1856f/Line_Following_Robot_Layout.png&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Platform Diagram&lt;/h5&gt;
-    &lt;p class=&quot;card-text&quot;&gt;CAD drawing of location of all cutouts on plastic chassis board. Drawing was exported and sent to laser cutter to create the platform for all the device&amp;apos;s components.&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
-  
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/233393c2b12596cfce1ea4d1553a35de/e21c6/IMG_5049-e1481161426959.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-  
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.23529411764707%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAARwjm6iAQlXm50iF/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECAxIh/9oACAEBAAEFApo7Re7R1CzWhwmaULyk/KEI/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQMBAT8BY//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAgEBPwEjf//EABwQAAEDBQAAAAAAAAAAAAAAAAEAECECEiAxUf/aAAgBAQAGPwJgOKaTctMQox//xAAbEAADAQEAAwAAAAAAAAAAAAAAARExIRBRgf/aAAgBAQABPyGhRDFLTiVFxOe1gu1JtHC2h11Ro7+F0r6b8MH/2gAMAwEAAgADAAAAEOwj8//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEBH/2gAIAQMBAT8QDdkz/8QAFxEAAwEAAAAAAAAAAAAAAAAAABAhEf/aAAgBAgEBPxCqYf8A/8QAHRABAAIDAQEBAQAAAAAAAAAAAQARITFBUXGh0f/aAAgBAQABPxBnS0BmbLHoeQusdirLa/JWoraMHOblGsmdDXm9bhAOqx9lmuWhQUiKtHL/AKjuZ6tcfICzWZzAVxP/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;picture&gt;
-        &lt;source srcset=&quot;/static/233393c2b12596cfce1ea4d1553a35de/51a8e/IMG_5049-e1481161426959.webp 340w,
-/static/233393c2b12596cfce1ea4d1553a35de/713b7/IMG_5049-e1481161426959.webp 680w,
-/static/233393c2b12596cfce1ea4d1553a35de/54376/IMG_5049-e1481161426959.webp 1360w,
-/static/233393c2b12596cfce1ea4d1553a35de/0be89/IMG_5049-e1481161426959.webp 2040w,
-/static/233393c2b12596cfce1ea4d1553a35de/7511e/IMG_5049-e1481161426959.webp 2448w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/233393c2b12596cfce1ea4d1553a35de/2e524/IMG_5049-e1481161426959.jpg 340w,
-/static/233393c2b12596cfce1ea4d1553a35de/d330d/IMG_5049-e1481161426959.jpg 680w,
-/static/233393c2b12596cfce1ea4d1553a35de/6c26c/IMG_5049-e1481161426959.jpg 1360w,
-/static/233393c2b12596cfce1ea4d1553a35de/afd2d/IMG_5049-e1481161426959.jpg 2040w,
-/static/233393c2b12596cfce1ea4d1553a35de/e21c6/IMG_5049-e1481161426959.jpg 2448w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/233393c2b12596cfce1ea4d1553a35de/6c26c/IMG_5049-e1481161426959.jpg&quot; alt=&quot;watering_system&quot; title&gt;
-      &lt;/picture&gt;
-      &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    
-  &lt;div class=&quot;card-body&quot;&gt;
-    &lt;h5 class=&quot;card-title&quot;&gt;Delivery Robot&lt;/h5&gt;
-    &lt;!-- picture from TLP blog, source: https://pages.shanti.virginia.edu/TLP_TLC/2016/12/07/autonomous-robot/ --&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Cryostat Fridge]]></title><description><![CDATA[Description Measured complicated parts and modeled them using SolidWorks for use in research and experiments Iterated and optimized designs…]]></description><link>https://spk2dc.github.io/cryostat_fridge/</link><guid isPermaLink="false">https://spk2dc.github.io/cryostat_fridge/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Cryostat Fridge]]></title><description><![CDATA[Description Measured complicated parts and modeled them using SolidWorks for use in research and experiments Iterated and optimized designs…]]></description><link>https://spk2dc.github.io/cryostat_fridge/</link><guid isPermaLink="false">https://spk2dc.github.io/cryostat_fridge/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Measured complicated parts and modeled them using SolidWorks for use in research and experiments&lt;/li&gt;
 &lt;li&gt;Iterated and optimized designs in large assemblies, and collaborated with machinists to produce final product&lt;/li&gt;
@@ -2353,6 +2260,99 @@
     
   &lt;div class=&quot;card-body&quot;&gt;
     &lt;h5 class=&quot;card-title&quot;&gt;3D Printed Specimen Radiation Container&lt;/h5&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Autonomous Line-Following Delivery Robot]]></title><description><![CDATA[Description Coded Arduino program in C to automate line-following control algorithm Set up online order placement using integrated SQL…]]></description><link>https://spk2dc.github.io/delivery_robot/</link><guid isPermaLink="false">https://spk2dc.github.io/delivery_robot/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Coded Arduino program in C to automate line-following control algorithm&lt;/li&gt;
+&lt;li&gt;Set up online order placement using integrated SQL database and PHP scripts&lt;/li&gt;
+&lt;li&gt;Designed 3D printed delivery system to operate with a servo, laser cut chassis of robot, wired electronic circuitry, incorporated infrared sensors and encoders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SolidWorks CAD Software&lt;/li&gt;
+&lt;li&gt;3D Printing&lt;/li&gt;
+&lt;li&gt;Arduino microcontroller&lt;/li&gt;
+&lt;li&gt;C programming&lt;/li&gt;
+&lt;li&gt;SQL &amp;#x26; PHP&lt;/li&gt;
+&lt;li&gt;Circuitry design and wiring&lt;/li&gt;
+&lt;li&gt;Laser Cutter&lt;/li&gt;
+&lt;li&gt;Pololu Wixel 2.4 GHz radio board&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;h3&gt;Example Images and Descriptions&lt;/h3&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/7a64f886d429269c63d7b753d57adc0b/ebb21/Line_Following_Robot_Diagram.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 598px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 70.88235294117646%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACi0lEQVQoz2P4Tyz49///XzQhBgwlQEX/y68WmqzXcdhs6bDB0myP7o77u189+vfw04+3S7+c1T193ebG/9vYNP/9C9JcdWqKy6a0oJ2FgdsLPXanH31x+d/HL18+3Px+6NOtgltPqp78f4aq+R/QUiAAsr5+Slt2X7b5vF77ad3m4/Id146+/P//6oxv/Vy/n58FK/2Lzdn//n389e/JpdulKy/5r74Xs/JK1Lo7gQsvbNh2/enqiqc1DL8fHwep+v0H7DmwZjDj/+8/fxfuvZu/4GJe5Qb9xkNczSdFSjYKVe0Saj1hW396WnvDrV61m5dOgK3AsBno5GM3Xs/Yfb+jb2f3shuF084WTT2TO+VU+9RTnTNOdKy5vvbEk6dvv0E8iKL5LzCgQGL/fv//f/3ItWu3px66WXHgSs2hG3Wnr+VfuHToxatf8HABKka3+defP5tOPWhee6W8adfC/SYzDzBM2sI0fRfTygsM9cv7S2Zen7Tt6rXH79Bt/vPnz4ePH/79+bfvzOeO1c/Km7Z3zl5QOa2lZW5/9eSmpvkTCmftL595ddaW1w9f/vn969unz58Rmi9fuWygbTD14NTC07nZB4t2nrr2cOe53fPPedjkFCfP3DH31K4N12ac2pC0P77vfldWWXZ4aDjEpyDN586d4+XimbFxRvXamqzpWTv2H3x27qLnPb/Gk90+V6On3Ol6cvBa78rJqTNSF55bGBIdYmtji9B8/vx5Nna2K5evANnf33//+vHzzz/f9b7orvy7IuC7X+fv9v/f/398/+HHhx9ABSnJKRYWFgjNb968mTdv3rv3kMD4ByHf//vw7c/3j/8+ffv3HZISIIF8+PDhTZs2QdQAAIHaoORyOh4SAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/static/7a64f886d429269c63d7b753d57adc0b/51a8e/Line_Following_Robot_Diagram.webp 340w,
+/static/7a64f886d429269c63d7b753d57adc0b/83713/Line_Following_Robot_Diagram.webp 598w&quot; sizes=&quot;(max-width: 598px) 100vw, 598px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/7a64f886d429269c63d7b753d57adc0b/ad208/Line_Following_Robot_Diagram.png 340w,
+/static/7a64f886d429269c63d7b753d57adc0b/ebb21/Line_Following_Robot_Diagram.png 598w&quot; sizes=&quot;(max-width: 598px) 100vw, 598px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/7a64f886d429269c63d7b753d57adc0b/ebb21/Line_Following_Robot_Diagram.png&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;System Architecture&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;Basic layout diagram of main parts needed and their placement on the device&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2f51c4458af9b4cbf1d6b72532c12c1d/1856f/Line_Following_Robot_Layout.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 539px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 89.11764705882352%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC7UlEQVQ4y12S527jOBSF/ZYLbBwVFzhxiYsKJauwUxIlUdUlkz/zqEsnM7O7AS5IkOB378HhmZh+99+y/M7wuqkzGH5rh7UVKPtcPXvt1NU33bfHk2/kkzuaoHU4EV3AKkRLkjUJb8MjZfre8Pt/34P/w7r9kRFRw6ZBXQfzXEqZ51nZd2nboQQT+1AZ4DcP+smfmVOv8xgdhlBKLoSsFb7egO5yv/lVTURe5owyjOcHZYAH+Qu2vmZSoRpOecdzJfKaMNX1SVXRtoWYqiyXaVzCqPR2maX5YLC+YO2QHbYRBjB2SHzE0QmFx4yjsuKyZGXJtZayFpHLvW2GvQgRzwwHy/+Ep26/gVKUB4mWzXlZn1ddbH3c1k3HVEO/qtaisEARe79sh959SWrDHyYWaPXHuBm7q3nlvVbBtgy2ukVOkjRR/lsRAxk6MjxJrZwypY243cEeF4anYb99cgZHkBavxGFb+Lp24vASHRKMqjgoMJQolaGbU/KA7+/e7QbekPyc7OvJ44nBns1HNL/QxZUuu7NZpPum47VistLWZ5yJPNNH+vPn7uNjv8fs2R8fsN6OUZSdl5JBgWOBEpYkOKJNh5VCdU1ymVGcZUL7x/sB/RiWB4ifwVUb9oC3Z8Idm2exyHsmSp5Xybm8XoFqyP3u86zCsCBYB0AVklTpap3kBrhMdMq0+llUFucFOs7LelMrXsgahTAXSFZaKmw7GJwKRvn7x4mCUxq8zePWAuMD1oY/eaOfHC9oxoAN40Uu/VKmMK5wKmFSlyXKWFjlTkvWI1y4MNaaZ4H+58+gmWCYei1KZn24yJw18S0J/yLA8DevWTprxbQhL9LbDuFCiL0ZjHYw6PoD67gOhqdOp4WK/75Eq81rPF0TcwOfN3S9TsZoNdJZnJ7soLfB8A3+5INBm7dwI+DYO5Auzo1x7PX6FsA03m1iboCr/XvsN7jXWdeNzeD25F5sX82BMtxuBhobNFPvZj7I/hcZPuofjJwQ+WLrEWAAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/static/2f51c4458af9b4cbf1d6b72532c12c1d/51a8e/Line_Following_Robot_Layout.webp 340w,
+/static/2f51c4458af9b4cbf1d6b72532c12c1d/a0d57/Line_Following_Robot_Layout.webp 539w&quot; sizes=&quot;(max-width: 539px) 100vw, 539px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/2f51c4458af9b4cbf1d6b72532c12c1d/ad208/Line_Following_Robot_Layout.png 340w,
+/static/2f51c4458af9b4cbf1d6b72532c12c1d/1856f/Line_Following_Robot_Layout.png 539w&quot; sizes=&quot;(max-width: 539px) 100vw, 539px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/2f51c4458af9b4cbf1d6b72532c12c1d/1856f/Line_Following_Robot_Layout.png&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Platform Diagram&lt;/h5&gt;
+    &lt;p class=&quot;card-text&quot;&gt;CAD drawing of location of all cutouts on plastic chassis board. Drawing was exported and sent to laser cutter to create the platform for all the device&amp;apos;s components.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;card bg-light my-5 p-2&quot;&gt;
+  
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/233393c2b12596cfce1ea4d1553a35de/e21c6/IMG_5049-e1481161426959.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin: 1vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 133.23529411764707%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAARwjm6iAQlXm50iF/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECAxIh/9oACAEBAAEFApo7Re7R1CzWhwmaULyk/KEI/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQMBAT8BY//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAgEBPwEjf//EABwQAAEDBQAAAAAAAAAAAAAAAAEAECECEiAxUf/aAAgBAQAGPwJgOKaTctMQox//xAAbEAADAQEAAwAAAAAAAAAAAAAAARExIRBRgf/aAAgBAQABPyGhRDFLTiVFxOe1gu1JtHC2h11Ro7+F0r6b8MH/2gAMAwEAAgADAAAAEOwj8//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEBH/2gAIAQMBAT8QDdkz/8QAFxEAAwEAAAAAAAAAAAAAAAAAABAhEf/aAAgBAgEBPxCqYf8A/8QAHRABAAIDAQEBAQAAAAAAAAAAAQARITFBUXGh0f/aAAgBAQABPxBnS0BmbLHoeQusdirLa/JWoraMHOblGsmdDXm9bhAOqx9lmuWhQUiKtHL/AKjuZ6tcfICzWZzAVxP/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;picture&gt;
+        &lt;source srcset=&quot;/static/233393c2b12596cfce1ea4d1553a35de/51a8e/IMG_5049-e1481161426959.webp 340w,
+/static/233393c2b12596cfce1ea4d1553a35de/713b7/IMG_5049-e1481161426959.webp 680w,
+/static/233393c2b12596cfce1ea4d1553a35de/54376/IMG_5049-e1481161426959.webp 1360w,
+/static/233393c2b12596cfce1ea4d1553a35de/0be89/IMG_5049-e1481161426959.webp 2040w,
+/static/233393c2b12596cfce1ea4d1553a35de/7511e/IMG_5049-e1481161426959.webp 2448w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/233393c2b12596cfce1ea4d1553a35de/2e524/IMG_5049-e1481161426959.jpg 340w,
+/static/233393c2b12596cfce1ea4d1553a35de/d330d/IMG_5049-e1481161426959.jpg 680w,
+/static/233393c2b12596cfce1ea4d1553a35de/6c26c/IMG_5049-e1481161426959.jpg 1360w,
+/static/233393c2b12596cfce1ea4d1553a35de/afd2d/IMG_5049-e1481161426959.jpg 2040w,
+/static/233393c2b12596cfce1ea4d1553a35de/e21c6/IMG_5049-e1481161426959.jpg 2448w&quot; sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; src=&quot;/static/233393c2b12596cfce1ea4d1553a35de/6c26c/IMG_5049-e1481161426959.jpg&quot; alt=&quot;watering_system&quot; title&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+  &lt;div class=&quot;card-body&quot;&gt;
+    &lt;h5 class=&quot;card-title&quot;&gt;Delivery Robot&lt;/h5&gt;
+    &lt;!-- picture from TLP blog, source: https://pages.shanti.virginia.edu/TLP_TLC/2016/12/07/autonomous-robot/ --&gt;
   &lt;/div&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Semi-Quadcopter]]></title><description><![CDATA[Description Built and wired self-balancing semi-quadcopter with 2 degrees of freedom Coded Parallax Propeller microcontroller control…]]></description><link>https://spk2dc.github.io/semi_quadcopter/</link><guid isPermaLink="false">https://spk2dc.github.io/semi_quadcopter/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Description&lt;/h3&gt;
 &lt;ul&gt;
