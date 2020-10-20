@@ -66,7 +66,7 @@ const indexQuery = graphql`
         }
       }
     }
-    resumeFile: file(relativePath: { eq: "resume/Resume 2020CS8.pdf" }) {
+    resumeFile: file(relativePath: { eq: "resume/Resume 2020CS10.pdf" }) {
       name
       publicURL
     }
